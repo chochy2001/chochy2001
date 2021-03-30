@@ -67,8 +67,8 @@
 <!-- YOUTUBE:END -->
 
 ### Lo ultimo que se ha hecho
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
