@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=ver&url=https%3A%2F%2Fcapdesis.com%2Fm)](https://capdesis.com)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=radical)](https://github.com/chochy2001/github-readme-stats)
-
 ## Soy estudiante, Profesor y desarrollador de Software
 
 - Estos son algunos de mis cursos:
@@ -45,7 +43,6 @@
 <br />
 
 ---
-
 ### 📺 Mis aplicaciones
 
 
@@ -53,12 +50,6 @@
 - ➡️ [Formulae Cálculo Pro](https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro)
 - ️➡️[Calculadora de Física Pro](https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica)
 
-
-
-
-
-### Hola a todos mi nombre es Jorge
-[![Website](https://img.shields.io/website?style=plastic&up_message=visitar&url=https%3A%2F%2Fcapdesis.com%2F)](https://capdesis.com)
 ## Mis estadisticas son:
 
 
@@ -68,10 +59,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
 
 - ⚡Trabajando con la Suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />][Adobe]!
-
-- ⚡Curso de C[<img align="left" alt="AdobeSuite" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-line.svg" />][cursoC]!
-
-
 
 
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
