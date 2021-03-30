@@ -10,7 +10,7 @@
 
 - ⚡Trabajando con la Suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />][Adobe]!
 
-- ⚡Curso de C[<img align="left" alt="AdobeSuite" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
+- ⚡Curso de C[<img align="left" alt="AdobeSuite" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-line.svg" />][cursoC]!
 
 
 
