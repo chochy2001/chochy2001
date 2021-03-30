@@ -58,8 +58,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
 
 ### 📺 Últimos vídeos de YouTube
-<!--YOUTUBE:START-->
-<!--YOUTUBE:END-->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 
