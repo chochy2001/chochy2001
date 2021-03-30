@@ -54,9 +54,9 @@
 - ️➡️[Calculadora de Física Pro](https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica)
 
 [website]: https://capdesis.com/
-[youtube]: https://www.youtube.com/c/CHOCHY/featuredr
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/r
-[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/r
+[youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
+[instagram]: https://www.instagram.com/c_h_o_c_h_y/
+[linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
 [cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
 [cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
 [cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
