@@ -100,7 +100,8 @@ __Cursos:__
 
 ### Actividad Reciente
 <details>
-    <summary>:question: Ver</summary>
+    <summary>:point_right: Ver</summary>
+    ### Actividad Reciente
     
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
