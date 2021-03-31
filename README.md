@@ -87,6 +87,7 @@ __Cursos:__
 ### 📺 Últimos vídeos de YouTube
 <details>
     <summary>:question: Ver</summary>
+    
 <!-- YOUTUBE:START -->
 - [La importancia del talento vocal en la era del Autotune / CHOCHY](https://www.youtube.com/watch?v=4c1YsEjhORw)
 - [Cosechas lo que siembras / CHOCHY](https://www.youtube.com/watch?v=2AVRKtYUjWU)
@@ -100,6 +101,7 @@ __Cursos:__
 ### Actividad Reciente
 <details>
     <summary>:question: Ver</summary>
+    
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
 2. ❗️ Opened issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
@@ -107,6 +109,7 @@ __Cursos:__
 4. ❗️ Opened issue [#12](https://github.com/chochy2001/Git_GitHub/issues/12) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
 5. ❗️ Closed issue [#11](https://github.com/chochy2001/Git_GitHub/issues/11) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
 <!--END_SECTION:activity-->
+
 </details>
 
 
