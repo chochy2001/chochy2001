@@ -21,6 +21,7 @@
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
+---
 __Generales:__ <br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="50" height="50" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="50" height="50" />
@@ -34,7 +35,7 @@ __Generales:__ <br />
 
 <br />
 <br />
-
+---
 __Desarrollo Móvil:__<br />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" width="50" height="50" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="50" height="50" />
@@ -43,7 +44,7 @@ __Desarrollo Móvil:__<br />
 
 <br />
 <br />
-
+---
 __Diseño:__<br />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" height="50" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/premierepro/premierepro-original.svg" width="50" height="50" />
@@ -51,7 +52,7 @@ __Diseño:__<br />
 
 <br />
 <br />
-
+---
 __Cursos:__<br />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="50" height="50" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="50" height="50" />
