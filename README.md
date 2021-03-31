@@ -74,7 +74,7 @@ __Cursos:__
 
 ## Mis estadisticas:
 <details>
-    <summary>:zap: Ver</summary>
+    <summary>:zap: ## Ver</summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
 
