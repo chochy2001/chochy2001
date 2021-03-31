@@ -62,11 +62,13 @@ __Cursos:__
 [<img align="left" alt="Formulae Calculo" width="22px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
 [<img align="left" alt="Fisica" width="22px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
 [<img align="left" alt="Formulae Calculo Pro" width="22px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
+<br />
 
 ## Mis estadisticas son:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
+<br />
 
 ### 📺 Últimos vídeos de YouTube
 <!-- YOUTUBE:START -->
