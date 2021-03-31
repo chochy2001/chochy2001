@@ -23,18 +23,18 @@
 
 ### Lenguajes y Herramientas que utilizo:
 
-![Lenguaje C](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg)
-![Git](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg)
-![GitHub](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg)
-![Java](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)
-![Premiere](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/premierepro/premierepro-original.svg)
-![Photoshop](https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg)
-![XD](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg)
-![Android](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg)
-![Debian](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg)
-![Flutter](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg)
-![Go](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg)
+![Lenguaje C](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg=25x)
+![Git](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg=25x)
+![GitHub](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg=25x)
+![Java](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg=25x)
+![Premiere](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/premierepro/premierepro-original.svg=25x)
+![Photoshop](https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg=25x)
+![XD](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg=25x)
+![Android](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg=25x)
+![Debian](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg=25x)
+![Flutter](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg=25x)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/linux/linux-original.svg=25x)
+![Go](https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.sv=25xg)
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][web]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][web]
