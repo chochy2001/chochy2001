@@ -19,7 +19,7 @@
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
----
+
 __Generales:__ 
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
