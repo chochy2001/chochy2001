@@ -74,7 +74,7 @@ __Cursos:__
 
 ## Mis estadisticas:
 <details>
-    <summary>:zap: ## Ver</summary>
+    <summary>:question: Ver</summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
 
@@ -85,6 +85,8 @@ __Cursos:__
 </details>
 
 ### 📺 Últimos vídeos de YouTube
+<details>
+    <summary>:question: Ver</summary>
 <!-- YOUTUBE:START -->
 - [La importancia del talento vocal en la era del Autotune / CHOCHY](https://www.youtube.com/watch?v=4c1YsEjhORw)
 - [Cosechas lo que siembras / CHOCHY](https://www.youtube.com/watch?v=2AVRKtYUjWU)
@@ -92,8 +94,12 @@ __Cursos:__
 - [Crear un canal de YouTube / CHOCHY](https://www.youtube.com/watch?v=Gtb33Dnp5ro)
 - [¿Qué hace un coaching y un tanatólogo? / CHOCHY](https://www.youtube.com/watch?v=8o0iIDht_Ls)
 <!-- YOUTUBE:END -->
+    
+</details>
 
-### Lo ultimo que se ha hecho
+### Actividad Reciente
+<details>
+    <summary>:question: Ver</summary>
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
 2. ❗️ Opened issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
@@ -101,7 +107,7 @@ __Cursos:__
 4. ❗️ Opened issue [#12](https://github.com/chochy2001/Git_GitHub/issues/12) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
 5. ❗️ Closed issue [#11](https://github.com/chochy2001/Git_GitHub/issues/11) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
 <!--END_SECTION:activity-->
-
+</details>
 
 
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
