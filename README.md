@@ -68,7 +68,7 @@ __Cursos:__
 <br />
 <br />
 [<img align="left" alt="Formulae Calculo Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
-**Formulae Calculo** *(De Pago)*
+**Formulae Calculo Pro** *(De Pago)*
 <br />
 <br />
 
