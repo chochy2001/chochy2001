@@ -59,11 +59,11 @@
 
 ### 📺 Últimos vídeos de YouTube
 <!-- YOUTUBE:START -->
+- [La importancia del talento vocal en la era del Autotune / CHOCHY](https://www.youtube.com/watch?v=4c1YsEjhORw)
 - [Cosechas lo que siembras / CHOCHY](https://www.youtube.com/watch?v=2AVRKtYUjWU)
 - [¿Se puede aprender a cantar sin tener buena voz? / CHOCHY](https://www.youtube.com/watch?v=w2DF73ciZqY)
 - [Crear un canal de YouTube / CHOCHY](https://www.youtube.com/watch?v=Gtb33Dnp5ro)
 - [¿Qué hace un coaching y un tanatólogo? / CHOCHY](https://www.youtube.com/watch?v=8o0iIDht_Ls)
-- [El poder para lograr lo que quieras  / CHOCHY](https://www.youtube.com/watch?v=7SKSutqodVc)
 <!-- YOUTUBE:END -->
 
 ### Lo ultimo que se ha hecho
