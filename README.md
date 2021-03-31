@@ -86,7 +86,7 @@ __Cursos:__
 
 ### 📺 Últimos vídeos de YouTube
 <details>
-    <summary>:question: Ver</summary>
+    <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
 - [La importancia del talento vocal en la era del Autotune / CHOCHY](https://www.youtube.com/watch?v=4c1YsEjhORw)
@@ -101,7 +101,6 @@ __Cursos:__
 ### Actividad Reciente
 <details>
     <summary>:point_right: Ver</summary>
-    ### Actividad Reciente
     
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
