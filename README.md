@@ -6,11 +6,11 @@
 
 - Estos son algunos de mis cursos:
 - 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
-- 👉Curso de Git & GitHub[<img align="left" alt="cursoGitGitHub" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
-- 👉Curso de Photoshop[<img align="left" alt="CursoPhotoshop" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg" />][cursoPhotoshop]!
-- Busco colaborar con otros creadores de contenido
-- Me gusta estar constantemente aprendiendo cosas nuevas
-- ⚡Trabajando con la Suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />][Adobe]!
+- 👉[Curso de Git & GitHub](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" alt="cursoGitGitHub" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
+- 👉[Curso de Photoshop](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg" />][cursoPhotoshop]!
+- ⚡ Busco colaborar con otros creadores de contenido
+- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
+- ⚡ Trabajando con la Suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />][Adobe]!
 
 ### Contactame!:
 
