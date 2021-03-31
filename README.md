@@ -72,9 +72,9 @@ __Cursos:__
 <br />
 <br />
 
-## Mis estadisticas:
+## 🔎 Mis estadisticas:
 <details>
-    <summary>:question: Ver</summary>
+    <summary>🔎 Ver</summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
 
@@ -98,9 +98,9 @@ __Cursos:__
     
 </details>
 
-### Actividad Reciente
+### ❗️ Actividad Reciente
 <details>
-    <summary>:point_right: Ver</summary>
+    <summary>❗️ Ver</summary>
     
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
