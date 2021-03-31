@@ -22,7 +22,7 @@
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
-Generales:<br>
+Generales:<br/>
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="50" height="50" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="50" height="50" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg" width="50" height="50" />
