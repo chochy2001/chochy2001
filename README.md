@@ -75,6 +75,116 @@
 5. ❗️ Closed issue [#11](https://github.com/chochy2001/Git_GitHub/issues/11) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
 <!--END_SECTION:activity-->
 
+<!-- Heading -->
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+---
+
+<!-- Italicas -->
+Hola soy un texto normal
+
+*Hola soy un texto en italica 1*
+
+_Hola soy un texto en italica 2_
+
+---
+
+<!-- Bold / Strong -->
+Hola soy un texto normal
+
+**Hola soy un texto en Bold 1**
+
+__Hola soy un texto en Bold 2__
+
+___
+
+<!--Tachar texto-->
+
+~~200~~ 199
+
+~~300~~ 250
+
+<!-- Blockquote -->
+
+> Esta es una cita
+
+<!-- Links -->
+[Youtube](https://www.youtube.com/)
+
+
+[Youtube](https://www.youtube.com/ "Visita mi canal")
+
+
+<!-- Listas Desordenadas -->
+
+* Item 1
+    * hola
+* Item 2
+    * saludos
+        * adios
+            * 5 estrellas
+* Item 3
+* Item 4
+
+<!-- Listas Ordenadas -->
+1. Item 1
+1. Item 2
+1. Item 3
+
+<!-- Agregar Código -->
+
+Para iniciar un archivo en C se tiene que agregar `#include <stdio.h>` para incluir la biblioteca estandar
+
+```
+Agrega esto a tu proyecto para que funcione de manera correcta
+```
+<!-- Images -->
+![Logo Youtube](https://brandemia.org/sites/default/files/inline/images/logo_youtube.jpg)
+
+
+<!-- GitHub Markdown -->
+
+```
+    npm install
+
+    npm start
+```
+
+```java
+    public class Persona{
+        protected int edad;
+    }
+```
+
+```c
+    #include <stdio.h>
+    int main(){
+
+    }
+```
+
+```python
+    def add(num1,num2):
+        return num1+num2
+```
+
+<!-- Tables -->
+|Nombre |Edad|
+|------ |----|
+|Jorge  | 20 |
+|Ricardo| 19 |
+
+<!--Task List -->
+* [x] Task 1
+* [ ] Task 2
+
+
 
 
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
