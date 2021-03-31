@@ -72,12 +72,15 @@ __Cursos:__
 <br />
 <br />
 
-## Mis estadisticas son:
+## Mis estadisticas:
+<details>
+    <summary>:zap: Recent GitHub Activity</summary>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
 <br />
 
+</details>
 ### 📺 Últimos vídeos de YouTube
 <!-- YOUTUBE:START -->
 - [La importancia del talento vocal en la era del Autotune / CHOCHY](https://www.youtube.com/watch?v=4c1YsEjhORw)
