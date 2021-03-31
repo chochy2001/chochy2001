@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué te lleva más lejos: el esfuerzo o el talento? / CHOCHY](https://www.youtube.com/watch?v=_Gp8VFvuTjM)
 - [La importancia del talento vocal en la era del Autotune / CHOCHY](https://www.youtube.com/watch?v=4c1YsEjhORw)
 - [Cosechas lo que siembras / CHOCHY](https://www.youtube.com/watch?v=2AVRKtYUjWU)
 - [¿Se puede aprender a cantar sin tener buena voz? / CHOCHY](https://www.youtube.com/watch?v=w2DF73ciZqY)
 - [Crear un canal de YouTube / CHOCHY](https://www.youtube.com/watch?v=Gtb33Dnp5ro)
-- [¿Qué hace un coaching y un tanatólogo? / CHOCHY](https://www.youtube.com/watch?v=8o0iIDht_Ls)
 <!-- YOUTUBE:END -->
     
 </details>
