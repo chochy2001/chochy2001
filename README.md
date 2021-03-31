@@ -22,7 +22,7 @@
 <br />
 
 ### Lenguajes y Herramientas que utilizo:
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="50" height="50" />
 
 ![Lenguaje C](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg =25x)
 ![Git](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg =25x)
