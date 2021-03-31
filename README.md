@@ -86,8 +86,11 @@ __Cursos:__
 
 
 - ➡️ [Formulae Cálculo](https://play.google.com/store/apps/details?id=capdesis.formulae)
-- ➡️ [Formulae Cálculo Pro](https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro)
+- ![Formulae](https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw)
 - ️➡️ [Calculadora de Física Pro](https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica)
+- ![Calculadora Fisica](https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw)
+- ➡️ [Formulae Cálculo Pro](https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro)
+- ![Formulae](https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw)
 
 ## Mis estadisticas son:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
