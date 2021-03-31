@@ -84,7 +84,7 @@ __Cursos:__
 
 </details>
 
-### 📺 Últimos vídeos de YouTube
+## 📺 Últimos vídeos de YouTube
 <details>
     <summary>📺 Ver</summary>
     
@@ -98,7 +98,7 @@ __Cursos:__
     
 </details>
 
-### ❗️ Actividad Reciente
+## ❗️ Actividad Reciente
 <details>
     <summary>❗️ Ver</summary>
     
