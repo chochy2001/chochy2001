@@ -3,7 +3,7 @@
 ## Soy estudiante, Profesor y desarrollador de Software
 
 - Estos son algunos de mis cursos:
-- 👉[[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)][<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
+- 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
 - 👉[Curso de Git & GitHub](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
 - 👉[Curso de Photoshop](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
 - ⚡ Busco colaborar con otros creadores de contenido
@@ -124,7 +124,7 @@ __Cursos:__
 [cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
 [web]:  https://www.google.com/
 
-[Formulae]: https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw
+[Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae
 [FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro
 [Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
 
