@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [#50 Trabajo con Herramientas para Ajustar Selección Parte 1 / Curso Photoshop](https://www.youtube.com/watch?v=4dHclfISEns)
 - [¿Qué tipo de contenido es más visto en Tik Tok? / CHOCHY](https://www.youtube.com/watch?v=XKTMhbOfp14)
 - [¿Qué es un geek y un friki? / CHOCHY](https://www.youtube.com/watch?v=rZoRbJThYm4)
 - [Como vivir una vida equilibrada / CHOCHY](https://www.youtube.com/watch?v=gZIh6yzYl4Y)
 - [¿Qué tan importante es estudiar una carrera universitaria? / CHOCHY](https://www.youtube.com/watch?v=CRJ1NYMCKjM)
-- [¿Qué te lleva más lejos: el esfuerzo o el talento? / CHOCHY](https://www.youtube.com/watch?v=_Gp8VFvuTjM)
 <!-- YOUTUBE:END -->
     
 </details>
