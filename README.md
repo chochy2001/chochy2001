@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Canción Dragon Ball Z 'Chala Head Chala' / CHOCHY](https://www.youtube.com/watch?v=gN83Vy8Zhz0)
 - [Como decidir que carrera estudiar / CHOCHY](https://www.youtube.com/watch?v=9Nb3YiZQsp8)
 - [¿Qué es una persona integral? / CHOCHY](https://www.youtube.com/watch?v=7fndEthbZ6k)
 - [Un artista nace o se hace / CHOCHY](https://www.youtube.com/watch?v=19-5c1bZXxg)
 - [#50 Trabajo con Herramientas para Ajustar Selección Parte 1 / Curso Photoshop](https://www.youtube.com/watch?v=4dHclfISEns)
-- [¿Qué tipo de contenido es más visto en Tik Tok? / CHOCHY](https://www.youtube.com/watch?v=XKTMhbOfp14)
 <!-- YOUTUBE:END -->
     
 </details>
