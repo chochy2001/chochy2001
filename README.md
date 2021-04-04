@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Guillermo Preciado / CHOCHY](https://www.youtube.com/watch?v=PvVOpIcpGgA)
 - [CHOCHITOS #11 GUILLERMO PRECIADO / CHOCHY](https://www.youtube.com/watch?v=2bcLuf6Y-r8)
 - [Canción Dragon Ball Z 'Chala Head Chala' / CHOCHY](https://www.youtube.com/watch?v=gN83Vy8Zhz0)
 - [Como decidir que carrera estudiar / CHOCHY](https://www.youtube.com/watch?v=9Nb3YiZQsp8)
 - [¿Qué es una persona integral? / CHOCHY](https://www.youtube.com/watch?v=7fndEthbZ6k)
-- [Un artista nace o se hace / CHOCHY](https://www.youtube.com/watch?v=19-5c1bZXxg)
 <!-- YOUTUBE:END -->
     
 </details>
