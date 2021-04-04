@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo se usa la moneda virtual y que puedo comprar? / CHOCHY](https://www.youtube.com/watch?v=YcIc6JOSxAY)
 - [¿Qué es OnlyFans y para qué sirve? / CHOCHY](https://www.youtube.com/watch?v=mzYN3NnMdRg)
 - [Comandos Básicos VIM / CHOCHY](https://www.youtube.com/watch?v=Xq9RsPKtgLQ)
 - [Guillermo Preciado / CHOCHY](https://www.youtube.com/watch?v=PvVOpIcpGgA)
 - [CHOCHITOS #11 GUILLERMO PRECIADO / CHOCHY](https://www.youtube.com/watch?v=2bcLuf6Y-r8)
-- [Canción Dragon Ball Z 'Chala Head Chala' / CHOCHY](https://www.youtube.com/watch?v=gN83Vy8Zhz0)
 <!-- YOUTUBE:END -->
     
 </details>
