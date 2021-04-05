@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [El drama y los libros en latín en la escuela / CHOCHY](https://www.youtube.com/watch?v=yW8cNS4aTmE)
 - [Comandos Básicos del CMD Windows / CHOCHY](https://www.youtube.com/watch?v=RQh47CxeIW4)
 - [¿Qué es y cómo funciona Twitch? / CHOCHY](https://www.youtube.com/watch?v=zMrqU29wzFk)
 - [Logan recauda $3.5 millones en un día / CHOCHY](https://www.youtube.com/watch?v=_8ZPR8o2vVU)
 - [¿Cómo se usa la moneda virtual y que puedo comprar? / CHOCHY](https://www.youtube.com/watch?v=YcIc6JOSxAY)
-- [¿Qué es OnlyFans y para qué sirve? / CHOCHY](https://www.youtube.com/watch?v=mzYN3NnMdRg)
 <!-- YOUTUBE:END -->
     
 </details>
