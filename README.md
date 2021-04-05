@@ -93,7 +93,7 @@ __Cursos:__
 - [¿Qué es OnlyFans y para qué sirve? / CHOCHY](https://www.youtube.com/watch?v=mzYN3NnMdRg)
 - [Comandos Básicos VIM / CHOCHY](https://www.youtube.com/watch?v=Xq9RsPKtgLQ)
 - [Guillermo Preciado / CHOCHY](https://www.youtube.com/watch?v=PvVOpIcpGgA)
-- [CHOCHITOS #11 GUILLERMO PRECIADO / CHOCHY](https://www.youtube.com/watch?v=2bcLuf6Y-r8)
+- [CHOCHITOS #11 GUILLERMO PRECIADO / @CHOCHY](https://www.youtube.com/watch?v=2bcLuf6Y-r8)
 <!-- YOUTUBE:END -->
     
 </details>
