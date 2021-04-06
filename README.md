@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Comandos Básicos de la Terminal de Linux / CHOCHY](https://www.youtube.com/watch?v=59dpKxcIX70)
 - [Movimiento feminista "Yo sí te creo" / CHOCHY](https://www.youtube.com/watch?v=4asQaYw7cPg)
 - [¿Qué es la cultura de la cancelación? / CHOCHY](https://www.youtube.com/watch?v=bEP4T1-q2X8)
 - [#51 Trabajo con Herramientas para Ajustar Selección Parte 2 / Curso Photoshop](https://www.youtube.com/watch?v=jz1ewptIb6k)
 - [El drama y los libros en latín en la escuela / CHOCHY](https://www.youtube.com/watch?v=yW8cNS4aTmE)
-- [Comandos Básicos del CMD Windows / CHOCHY](https://www.youtube.com/watch?v=RQh47CxeIW4)
 <!-- YOUTUBE:END -->
     
 </details>
