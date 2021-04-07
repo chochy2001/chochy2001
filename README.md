@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Porqué no debo fumar? / CHOCHY](https://www.youtube.com/watch?v=CfFpKyVvHbM)
 - [¿Cuánto cuesta un emote? / CHOCHY](https://www.youtube.com/watch?v=h3KY2xjPx9k)
 - [Comandos Básicos de la Terminal de Linux / CHOCHY](https://www.youtube.com/watch?v=59dpKxcIX70)
 - [Movimiento feminista "Yo sí te creo" / CHOCHY](https://www.youtube.com/watch?v=4asQaYw7cPg)
 - [¿Qué es la cultura de la cancelación? / CHOCHY](https://www.youtube.com/watch?v=bEP4T1-q2X8)
-- [#51 Trabajo con Herramientas para Ajustar Selección Parte 2 / Curso Photoshop](https://www.youtube.com/watch?v=jz1ewptIb6k)
 <!-- YOUTUBE:END -->
     
 </details>
