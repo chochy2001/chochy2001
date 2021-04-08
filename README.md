@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Curso Git y GitHub desde Cero a Experto / CHOCHY](https://www.youtube.com/watch?v=iDcFQQQij3Q)
 - [¿La envidia va de la mano de la crítica? / CHOCHY](https://www.youtube.com/watch?v=kLfpGinuWW8)
 - [¿Cuál es la importancia que tiene el estudio? / CHOCHY](https://www.youtube.com/watch?v=kqeIyEx2vxQ)
 - [¿Porqué no debo fumar? / CHOCHY](https://www.youtube.com/watch?v=CfFpKyVvHbM)
 - [¿Cuánto cuesta un emote? / CHOCHY](https://www.youtube.com/watch?v=h3KY2xjPx9k)
-- [Comandos Básicos de la Terminal de Linux / CHOCHY](https://www.youtube.com/watch?v=59dpKxcIX70)
 <!-- YOUTUBE:END -->
     
 </details>
