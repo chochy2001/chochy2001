@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudiar más de 10 años en la UNAM / @CHOCHY](https://www.youtube.com/watch?v=kvfZXOIKXdY)
 - [¿Qué son los Boy Scouts? / @CHOCHY](https://www.youtube.com/watch?v=ZG63seAh9Hc)
 - [Jorge Salgado (Padre) / @CHOCHY](https://www.youtube.com/watch?v=eFgVLvXvY1Q)
 - [#53 Introducción a las Mascaras Vectoriales Parte 1/ Curso Photoshop](https://www.youtube.com/watch?v=tJA7r_Jyd7g)
 - [CHOCHITOS # 12 JORGE SALGADO  (Padre)  / @CHOCHY](https://www.youtube.com/watch?v=QTZ0YTWS-Gs)
-- [#52 Introducción a las Mascaras / Curso Photoshop](https://www.youtube.com/watch?v=OxMcABB2O_Y)
 <!-- YOUTUBE:END -->
     
 </details>
