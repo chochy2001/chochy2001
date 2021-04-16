@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [The Forest (Probando el Juego)](https://www.youtube.com/watch?v=Oaze2tfqh0Y)
+- [Automatización y desarrollo de software (Adesoft) / @CHOCHY](https://www.youtube.com/watch?v=5xKlL7mA3ag)
 - [Adaptarse a la tecnología  / @CHOCHY](https://www.youtube.com/watch?v=h3ywXqHvD70)
 - [Trabajar 21 años en el IFE (INE) / @CHOCHY](https://www.youtube.com/watch?v=otrjlYspa7c)
 - [¿Qué tan importante es estudiar una carrera? / @CHOCHY](https://www.youtube.com/watch?v=B38BH8FdG0Q)
-- [Escuela publica o privada ¿Cuál es mejor? / @CHOCHY](https://www.youtube.com/watch?v=KkkwEMG-Iu4)
-- [Estudiar más de 10 años en la UNAM / @CHOCHY](https://www.youtube.com/watch?v=kvfZXOIKXdY)
 <!-- YOUTUBE:END -->
     
 </details>
