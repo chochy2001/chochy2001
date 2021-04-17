@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Actualizando la App de Formulae](https://www.youtube.com/watch?v=egdfT4l7-Oo)
 - [Respuestas de mi padre a preguntas que le hicieron / @CHOCHY](https://www.youtube.com/watch?v=GbrwdEhOleA)
 - [Conozcan el proyecto de CAPDESIS es muy interesante / @CHOCHY](https://www.youtube.com/watch?v=5OJCzk_Eux4)
 - [Android vs iPhone: ¿Cuál es mejor para ti? / @CHOCHY](https://www.youtube.com/watch?v=pUUX2zIcQlQ)
 - [The Forest (Probando el Juego)](https://www.youtube.com/watch?v=Oaze2tfqh0Y)
-- [Automatización y desarrollo de software (Adesoft) / @CHOCHY](https://www.youtube.com/watch?v=5xKlL7mA3ag)
 <!-- YOUTUBE:END -->
     
 </details>
