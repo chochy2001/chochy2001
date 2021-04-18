@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Regresando a Fortnite / Chochy](https://www.youtube.com/watch?v=NYBTeG6ZYNY)
 - [Instalación de Git en Windows / @CHOCHY](https://www.youtube.com/watch?v=Gx3hx7Hpvu4)
 - [Actualizando la App de Formulae](https://www.youtube.com/watch?v=egdfT4l7-Oo)
 - [Respuestas de mi padre a preguntas que le hicieron / @CHOCHY](https://www.youtube.com/watch?v=GbrwdEhOleA)
 - [Conozcan el proyecto de CAPDESIS es muy interesante / @CHOCHY](https://www.youtube.com/watch?v=5OJCzk_Eux4)
-- [Android vs iPhone: ¿Cuál es mejor para ti? / @CHOCHY](https://www.youtube.com/watch?v=pUUX2zIcQlQ)
 <!-- YOUTUBE:END -->
     
 </details>
