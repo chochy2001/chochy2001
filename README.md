@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Actualizando App Formulae (Flutter Coding Session)](https://www.youtube.com/watch?v=a_e4S0yiMXg)
 - [Manqueando un rato en Fortnite](https://www.youtube.com/watch?v=X1d3sYvUrrQ)
 - [Instalación de Git en Linux / @CHOCHY](https://www.youtube.com/watch?v=WgcsUtokQN8)
 - [Actualizando la App de Formulae (Flutter)](https://www.youtube.com/watch?v=h3D0F3HMBAU)
 - [#54 Introducción a las Mascaras Vectoriales Parte 2/ Curso Photoshop](https://www.youtube.com/watch?v=YuXwNZZN02U)
-- [Regresando a Fortnite / Chochy](https://www.youtube.com/watch?v=NYBTeG6ZYNY)
 <!-- YOUTUBE:END -->
     
 </details>
