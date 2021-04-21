@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Diana Andrade / @CHOCHY](https://www.youtube.com/watch?v=fz8tPeTL-U4)
 - [CHOCHITOS #13 DIANA ANDRADE / @CHOCHY](https://www.youtube.com/watch?v=t1ZRTvi5uII)
 - [Dandole un rato a Fortnite (Ya hay alertas!)](https://www.youtube.com/watch?v=CLF-ctpM7EE)
 - [Actualizando App Formulae (Flutter Coding Session)](https://www.youtube.com/watch?v=a_e4S0yiMXg)
 - [Manqueando un rato en Fortnite](https://www.youtube.com/watch?v=X1d3sYvUrrQ)
-- [Instalación de Git en Linux / @CHOCHY](https://www.youtube.com/watch?v=WgcsUtokQN8)
 <!-- YOUTUBE:END -->
     
 </details>
