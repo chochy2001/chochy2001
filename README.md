@@ -89,8 +89,8 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [¿Cómo es estudiar Biología en la UNAM? / @CHOCHY](https://www.youtube.com/watch?v=d4ijTzBnSwI)
 - [Actualizando App Formulae (Flutter Coding Session)](https://www.youtube.com/watch?v=xh45TYU8uAk)
+- [¿Cómo es estudiar Biología en la UNAM? / @CHOCHY](https://www.youtube.com/watch?v=d4ijTzBnSwI)
 - [Diana Andrade / @CHOCHY](https://www.youtube.com/watch?v=fz8tPeTL-U4)
 - [CHOCHITOS #13 DIANA ANDRADE / @CHOCHY](https://www.youtube.com/watch?v=t1ZRTvi5uII)
 - [Dandole un rato a Fortnite (Ya hay alertas!)](https://www.youtube.com/watch?v=CLF-ctpM7EE)
