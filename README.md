@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Compañera de grado mayor en karate / @CHOCHY](https://www.youtube.com/watch?v=aCOAbp2jeaI)
 - [Ejercicio y alimentación dependiendo tu deporte / @CHOCHY](https://www.youtube.com/watch?v=gygZT0_YqjY)
 - [#55 Herramientas de Ajuste Parte 1 / Curso Photoshop](https://www.youtube.com/watch?v=yyOD6l3xKr8)
 - [¿Cuánto gana un biólogo? / @CHOCHY](https://www.youtube.com/watch?v=UMXK9rcPo0g)
 - [Actualizando App Formulae (Flutter Coding Session)](https://www.youtube.com/watch?v=xh45TYU8uAk)
-- [¿Cómo es estudiar Biología en la UNAM? / @CHOCHY](https://www.youtube.com/watch?v=d4ijTzBnSwI)
 <!-- YOUTUBE:END -->
     
 </details>
