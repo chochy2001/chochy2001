@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué significa ser un deportista de alto rendimiento? / @CHOCHY](https://www.youtube.com/watch?v=haW9i9if-Bk)
 - [Compañera de grado mayor en karate / @CHOCHY](https://www.youtube.com/watch?v=aCOAbp2jeaI)
 - [Ejercicio y alimentación dependiendo tu deporte / @CHOCHY](https://www.youtube.com/watch?v=gygZT0_YqjY)
 - [#55 Herramientas de Ajuste Parte 1 / Curso Photoshop](https://www.youtube.com/watch?v=yyOD6l3xKr8)
 - [¿Cuánto gana un biólogo? / @CHOCHY](https://www.youtube.com/watch?v=UMXK9rcPo0g)
-- [Actualizando App Formulae (Flutter Coding Session)](https://www.youtube.com/watch?v=xh45TYU8uAk)
 <!-- YOUTUBE:END -->
     
 </details>
