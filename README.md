@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Como moverte por la terminal o la linea de comandos / @CHOCHY](https://www.youtube.com/watch?v=U-vdlGNGoSw)
 - [Instalación de Git en macOS / @CHOCHY](https://www.youtube.com/watch?v=Wlwk0HKvdK0)
 - [¿Karate o Kick Boxing? / @CHOCHY](https://www.youtube.com/watch?v=qteWUWCQXLw)
 - [Las artes marciales y la discriminación / @CHOCHY](https://www.youtube.com/watch?v=u5nrSwnLWKY)
 - [Pasión por el deporte  / @CHOCHY](https://www.youtube.com/watch?v=t-Uw3Opbq7s)
-- [¿Qué significa ser un deportista de alto rendimiento? / @CHOCHY](https://www.youtube.com/watch?v=haW9i9if-Bk)
 <!-- YOUTUBE:END -->
     
 </details>
