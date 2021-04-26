@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuántos estilos de karate existen y cuál es el mejor? / @CHOCHY](https://www.youtube.com/watch?v=HqXo0PUiIO4)
 - [#56 Herramientas de Ajuste Parte 2 / Curso Photoshop](https://www.youtube.com/watch?v=rYQXKvsuhWc)
 - [Como moverte por la terminal o la linea de comandos / @CHOCHY](https://www.youtube.com/watch?v=U-vdlGNGoSw)
 - [Instalación de Git en macOS / @CHOCHY](https://www.youtube.com/watch?v=Wlwk0HKvdK0)
 - [¿Karate o Kick Boxing? / @CHOCHY](https://www.youtube.com/watch?v=qteWUWCQXLw)
-- [Las artes marciales y la discriminación / @CHOCHY](https://www.youtube.com/watch?v=u5nrSwnLWKY)
 <!-- YOUTUBE:END -->
     
 </details>
