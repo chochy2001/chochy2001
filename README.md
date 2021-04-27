@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Becada por la UNAM por traer un lugar de una olimpiada nacional de karate / @CHOCHY](https://www.youtube.com/watch?v=GmD8wmBBuw4)
 - [¿Has aplicado las artes marciales para pelear en la calle? / @CHOCHY](https://www.youtube.com/watch?v=y2IGxJNnAqE)
 - [¿Cómo elegir el mejor arte marcial para ti? / @CHOCHY](https://www.youtube.com/watch?v=90eCkHU0zhs)
 - [¿Qué arte marcial es mejor karate o kick boxing? / @CHOCHY](https://www.youtube.com/watch?v=W7x0NKPDZQk)
 - [¿Cuántos estilos de karate existen y cuál es el mejor? / @CHOCHY](https://www.youtube.com/watch?v=HqXo0PUiIO4)
-- [#56 Herramientas de Ajuste Parte 2 / Curso Photoshop](https://www.youtube.com/watch?v=rYQXKvsuhWc)
 <!-- YOUTUBE:END -->
     
 </details>
