@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué te hubiera gustado que te enseñaran en la escuela que aprendiste por tu cuenta? / @CHOCHY](https://www.youtube.com/watch?v=Oqqiq_cOS8g)
 - [¿Qué es mejor consumir nutrilite o herbalife? / @CHOCHY](https://www.youtube.com/watch?v=9Fk_qIovAcE)
 - [¿Cuáles son las funciones de un patrocinador? / @CHOCHY](https://www.youtube.com/watch?v=BuzckT9WvdI)
 - [Becada por la UNAM por traer un lugar de una olimpiada nacional de karate / @CHOCHY](https://www.youtube.com/watch?v=GmD8wmBBuw4)
 - [¿Has aplicado las artes marciales para pelear en la calle? / @CHOCHY](https://www.youtube.com/watch?v=y2IGxJNnAqE)
-- [¿Cómo elegir el mejor arte marcial para ti? / @CHOCHY](https://www.youtube.com/watch?v=90eCkHU0zhs)
 <!-- YOUTUBE:END -->
     
 </details>
