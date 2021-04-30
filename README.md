@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Los tatuajes y sus significados / @CHOCHY](https://www.youtube.com/watch?v=KRHgNSWrlPo)
 - [Lil Ziphe / @CHOCHY](https://www.youtube.com/watch?v=Nr7yIjjYfyE)
 - [#57 Herramientas de Corrección Parte 1 / Curso Photoshop](https://www.youtube.com/watch?v=irPa1eAw3UE)
 - [Actualizando App Formulae (Flutter Coding Session) Sección de Ejercicios](https://www.youtube.com/watch?v=Dvwv4rb3XaI)
 - [CHOCHITOS #14 LIL ZIPHE / @CHOCHY](https://www.youtube.com/watch?v=UJHa2fWFkpE)
-- [¿Qué te hubiera gustado que te enseñaran en la escuela que aprendiste por tu cuenta? / @CHOCHY](https://www.youtube.com/watch?v=Oqqiq_cOS8g)
 <!-- YOUTUBE:END -->
     
 </details>
