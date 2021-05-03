@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuáles son las motivaciones para seguir estudiando? / @CHOCHY](https://www.youtube.com/watch?v=7je7j6LMtE0)
 - [Recapitulación de Git e introducción a las ramas / @CHOCHY](https://www.youtube.com/watch?v=oMWcwngAum8)
 - [Comandos Básicos de Git / @CHOCHY](https://www.youtube.com/watch?v=o75PppXBeVc)
 - [¿Qué es la ansiedad y cómo se controla? / @CHOCHY](https://www.youtube.com/watch?v=K3RXBJnerWM)
 - [Los tatuajes y sus significados / @CHOCHY](https://www.youtube.com/watch?v=KRHgNSWrlPo)
-- [Lil Ziphe / @CHOCHY](https://www.youtube.com/watch?v=Nr7yIjjYfyE)
 <!-- YOUTUBE:END -->
     
 </details>
