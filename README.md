@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Plataformas para subir la música / @CHOCHY](https://www.youtube.com/watch?v=MnGwhE0jULg)
 - [Dejar de hacer videos en YouTube para hacer música / @CHOCHY](https://www.youtube.com/watch?v=RnLftKUVP38)
 - [¿Cuáles son las motivaciones para seguir estudiando? / @CHOCHY](https://www.youtube.com/watch?v=7je7j6LMtE0)
 - [Recapitulación de Git e introducción a las ramas / @CHOCHY](https://www.youtube.com/watch?v=oMWcwngAum8)
 - [Comandos Básicos de Git / @CHOCHY](https://www.youtube.com/watch?v=o75PppXBeVc)
-- [¿Qué es la ansiedad y cómo se controla? / @CHOCHY](https://www.youtube.com/watch?v=K3RXBJnerWM)
 <!-- YOUTUBE:END -->
     
 </details>
