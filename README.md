@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué es el Freestyle? / @CHOCHY](https://www.youtube.com/watch?v=Ns3vW8uSvBI)
 - [¿Cómo te ves de aquí a 5 años? / @CHOCHY](https://www.youtube.com/watch?v=TmZKA46KOJI)
 - [#58 Herramientas de Corrección Parte 2 / Curso Photoshop](https://www.youtube.com/watch?v=5-20eshux1k)
 - [Plataformas para subir la música / @CHOCHY](https://www.youtube.com/watch?v=MnGwhE0jULg)
 - [Dejar de hacer videos en YouTube para hacer música / @CHOCHY](https://www.youtube.com/watch?v=RnLftKUVP38)
-- [¿Cuáles son las motivaciones para seguir estudiando? / @CHOCHY](https://www.youtube.com/watch?v=7je7j6LMtE0)
 <!-- YOUTUBE:END -->
     
 </details>
