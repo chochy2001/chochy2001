@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué puedo hacer para que mi sueño se haga realidad? / @CHOCHY](https://www.youtube.com/watch?v=uiKywB8prf4)
 - [¿Qué debe tener una relación perfecta? / @CHOCHY](https://www.youtube.com/watch?v=j0Mo2OXp2WM)
 - [¿Hacer música es una manera de trascender ? / @CHOCHY](https://www.youtube.com/watch?v=UNh5VyuNE4M)
 - [¿Qué es el Freestyle? / @CHOCHY](https://www.youtube.com/watch?v=Ns3vW8uSvBI)
 - [¿Cómo te ves de aquí a 5 años? / @CHOCHY](https://www.youtube.com/watch?v=TmZKA46KOJI)
-- [#58 Herramientas de Corrección Parte 2 / Curso Photoshop](https://www.youtube.com/watch?v=5-20eshux1k)
 <!-- YOUTUBE:END -->
     
 </details>
