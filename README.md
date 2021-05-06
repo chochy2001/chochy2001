@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuánto dinero paga Spotify y Youtube? / @CHOCHY](https://www.youtube.com/watch?v=aXMPyBJ1F9g)
 - [Artistas favoritos para cantar con ellos  / @CHOCHY](https://www.youtube.com/watch?v=BpiSWYLFt7A)
 - [¿Qué puedo hacer para que mi sueño se haga realidad? / @CHOCHY](https://www.youtube.com/watch?v=uiKywB8prf4)
 - [¿Qué debe tener una relación perfecta? / @CHOCHY](https://www.youtube.com/watch?v=j0Mo2OXp2WM)
 - [¿Hacer música es una manera de trascender ? / @CHOCHY](https://www.youtube.com/watch?v=UNh5VyuNE4M)
-- [¿Qué es el Freestyle? / @CHOCHY](https://www.youtube.com/watch?v=Ns3vW8uSvBI)
 <!-- YOUTUBE:END -->
     
 </details>
