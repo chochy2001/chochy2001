@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Flutter Coding Session (Formulae)](https://www.youtube.com/watch?v=36mha0N9rE0)
 - [#59 Herramientas de Corrección Parte 3 / Curso Photoshop](https://www.youtube.com/watch?v=XPmNxfhP1Cw)
 - [CHOCHITOS #15 PABLINSKY / @CHOCHY](https://www.youtube.com/watch?v=gxaWPZsYBWw)
 - [¿Cuánto dinero paga Spotify y Youtube? / @CHOCHY](https://www.youtube.com/watch?v=aXMPyBJ1F9g)
 - [Artistas favoritos para cantar con ellos  / @CHOCHY](https://www.youtube.com/watch?v=BpiSWYLFt7A)
-- [¿Qué puedo hacer para que mi sueño se haga realidad? / @CHOCHY](https://www.youtube.com/watch?v=uiKywB8prf4)
 <!-- YOUTUBE:END -->
     
 </details>
