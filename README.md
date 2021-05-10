@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Pablinsky / @CHOCHY](https://www.youtube.com/watch?v=SaQbp9SOLfM)
 - [Duós con Suscriptor de 8 años](https://www.youtube.com/watch?v=dDzSPNym1Go)
 - [Haciendo merge entre ramas en Git / @CHOCHY](https://www.youtube.com/watch?v=Nh7_qzfCgoM)
 - [Duós con Xbaby_bratzx](https://www.youtube.com/watch?v=qBO_udNhEso)
 - [Que son las ramas y como funcionan en Git / @CHOCHY](https://www.youtube.com/watch?v=0RxbgT-szXc)
-- [Flutter Coding Session (Formulae)](https://www.youtube.com/watch?v=36mha0N9rE0)
 <!-- YOUTUBE:END -->
     
 </details>
