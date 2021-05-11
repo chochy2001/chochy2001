@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo conseguir seguidores en redes sociales? / @CHOCHY](https://www.youtube.com/watch?v=p2DEgnsJ-kg)
 - [¿Qué se necesita para ser un influencer? / @CHOCHY](https://www.youtube.com/watch?v=0Prz9-wQ4t8)
 - [Horario de trabajo de un creador de contenido / @CHOCHY](https://www.youtube.com/watch?v=Bghz93voauk)
 - [¿Qué es ser autodidacta? / @CHOCHY](https://www.youtube.com/watch?v=WjtXIa_my3U)
 - [Pablinsky / @CHOCHY](https://www.youtube.com/watch?v=SaQbp9SOLfM)
-- [Duós con Suscriptor de 8 años](https://www.youtube.com/watch?v=dDzSPNym1Go)
 <!-- YOUTUBE:END -->
     
 </details>
