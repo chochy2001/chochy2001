@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Horario de trabajo de un creador de contenido / @CHOCHY](https://www.youtube.com/watch?v=Bghz93voauk)
 - [¿Qué es ser autodidacta? / @CHOCHY](https://www.youtube.com/watch?v=WjtXIa_my3U)
 - [Pablinsky / @CHOCHY](https://www.youtube.com/watch?v=SaQbp9SOLfM)
 - [Duós con Suscriptor de 8 años](https://www.youtube.com/watch?v=dDzSPNym1Go)
 - [Haciendo merge entre ramas en Git / @CHOCHY](https://www.youtube.com/watch?v=Nh7_qzfCgoM)
-- [Duós con Xbaby_bratzx](https://www.youtube.com/watch?v=qBO_udNhEso)
 <!-- YOUTUBE:END -->
     
 </details>
