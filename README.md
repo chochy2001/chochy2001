@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Copa Jovenes Titanes](https://www.youtube.com/watch?v=b1YVuPPZTAk)
 - [Ganando Partidas en Squad](https://www.youtube.com/watch?v=mMw71ZYGtKs)
 - [Spark AR Studio para hacer filtros / @CHOCHY](https://www.youtube.com/watch?v=BYamAkF6LrY)
 - [Programación en Flutter (App Formulae Math)](https://www.youtube.com/watch?v=QGif7GwRoGA)
 - [Proceso para hacer filtros en Instagram/ CHOCHY](https://www.youtube.com/watch?v=brcpdISC4Pg)
-- [#60 Integración de Photoshop Con la Suite de Adobe / Curso Photoshop](https://www.youtube.com/watch?v=Y01BTd7jFaY)
 <!-- YOUTUBE:END -->
     
 </details>
