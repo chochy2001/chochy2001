@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Spark AR Studio para hacer filtros / @CHOCHY](https://www.youtube.com/watch?v=BYamAkF6LrY)
+- [Ganando Partidas en Squad](https://www.youtube.com/watch?v=mMw71ZYGtKs)
 - [Programación en Flutter (App Formulae Math)](https://www.youtube.com/watch?v=QGif7GwRoGA)
 - [Proceso para hacer filtros en Instagram/ CHOCHY](https://www.youtube.com/watch?v=brcpdISC4Pg)
 - [#60 Integración de Photoshop Con la Suite de Adobe / Curso Photoshop](https://www.youtube.com/watch?v=Y01BTd7jFaY)
-- [Cómo es crear filtros para Instagram / @CHOCHY](https://www.youtube.com/watch?v=JyHu3e2Zyh0)
-- [Programación en Flutter](https://www.youtube.com/watch?v=rgWO_nSYp2U)
 <!-- YOUTUBE:END -->
     
 </details>
