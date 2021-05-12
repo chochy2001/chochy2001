@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Cómo es crear filtros / @CHOCHY](https://www.youtube.com/watch?v=JyHu3e2Zyh0)
 - [Programación en Flutter](https://www.youtube.com/watch?v=rgWO_nSYp2U)
 - [¿Cómo conseguir seguidores en redes sociales? / @CHOCHY](https://www.youtube.com/watch?v=p2DEgnsJ-kg)
 - [¿Qué se necesita para ser un influencer? / @CHOCHY](https://www.youtube.com/watch?v=0Prz9-wQ4t8)
 - [Horario de trabajo de un creador de contenido / @CHOCHY](https://www.youtube.com/watch?v=Bghz93voauk)
-- [¿Qué es ser autodidacta? / @CHOCHY](https://www.youtube.com/watch?v=WjtXIa_my3U)
 <!-- YOUTUBE:END -->
     
 </details>
