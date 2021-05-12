@@ -90,9 +90,9 @@ __Cursos:__
     
 <!-- YOUTUBE:START -->
 - [Programación en Flutter (App Formulae Math)](https://www.youtube.com/watch?v=QGif7GwRoGA)
-- [Proceso para hacer filtros / @CHOCHY](https://www.youtube.com/watch?v=brcpdISC4Pg)
+- [Proceso para hacer filtros en Instagram/ CHOCHY](https://www.youtube.com/watch?v=brcpdISC4Pg)
 - [#60 Integración de Photoshop Con la Suite de Adobe / Curso Photoshop](https://www.youtube.com/watch?v=Y01BTd7jFaY)
-- [Cómo es crear filtros / @CHOCHY](https://www.youtube.com/watch?v=JyHu3e2Zyh0)
+- [Cómo es crear filtros para Instagram / @CHOCHY](https://www.youtube.com/watch?v=JyHu3e2Zyh0)
 - [Programación en Flutter](https://www.youtube.com/watch?v=rgWO_nSYp2U)
 <!-- YOUTUBE:END -->
     
