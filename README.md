@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Proceso para hacer filtros / @CHOCHY](https://www.youtube.com/watch?v=brcpdISC4Pg)
 - [#60 Integración de Photoshop Con la Suite de Adobe / Curso Photoshop](https://www.youtube.com/watch?v=Y01BTd7jFaY)
 - [Cómo es crear filtros / @CHOCHY](https://www.youtube.com/watch?v=JyHu3e2Zyh0)
 - [Programación en Flutter](https://www.youtube.com/watch?v=rgWO_nSYp2U)
 - [¿Cómo conseguir seguidores en redes sociales? / @CHOCHY](https://www.youtube.com/watch?v=p2DEgnsJ-kg)
-- [¿Qué se necesita para ser un influencer? / @CHOCHY](https://www.youtube.com/watch?v=0Prz9-wQ4t8)
 <!-- YOUTUBE:END -->
     
 </details>
