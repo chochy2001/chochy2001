@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Copa Jovenes Titanes](https://www.youtube.com/watch?v=b1YVuPPZTAk)
 - [Ventajas de tener una buena computadora para hacer filtros / @CHOCHY](https://www.youtube.com/watch?v=7X6pJGDcSQo)
 - [Ganando Partidas en Squad](https://www.youtube.com/watch?v=mMw71ZYGtKs)
 - [Spark AR Studio para hacer filtros / @CHOCHY](https://www.youtube.com/watch?v=BYamAkF6LrY)
 - [Programación en Flutter (App Formulae Math)](https://www.youtube.com/watch?v=QGif7GwRoGA)
-- [Proceso para hacer filtros en Instagram/ CHOCHY](https://www.youtube.com/watch?v=brcpdISC4Pg)
 <!-- YOUTUBE:END -->
     
 </details>
