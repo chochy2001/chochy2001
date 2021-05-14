@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [La importancia de saber programar / @CHOCHY](https://www.youtube.com/watch?v=tPhyElAG8BM)
 - [Cuanto pagar por un filtro / @CHOCHY](https://www.youtube.com/watch?v=dTfMRZ1sMbo)
 - [​El ego y las redes sociales / @CHOCHY](https://www.youtube.com/watch?v=4yf5eOy6Uac)
 - [Jugando Copa Jovenes Titanes](https://www.youtube.com/watch?v=b1YVuPPZTAk)
 - [Ventajas de tener una buena computadora para hacer filtros / @CHOCHY](https://www.youtube.com/watch?v=7X6pJGDcSQo)
-- [Ganando Partidas en Squad](https://www.youtube.com/watch?v=mMw71ZYGtKs)
 <!-- YOUTUBE:END -->
     
 </details>
