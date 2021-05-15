@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [69th MISS UNIVERSE Preliminary Competition | LIVE  / CHOCHY](https://www.youtube.com/watch?v=YBNpBHNzZ4w)
 - [¿Cuántos años tiene Pablinsky? / @CHOCHY](https://www.youtube.com/watch?v=SUnKOO0KfzU)
 - [Como no saturarse con el trabajo / @CHOCHY](https://www.youtube.com/watch?v=auaLaJt2_AE)
 - [La importancia de saber programar / @CHOCHY](https://www.youtube.com/watch?v=tPhyElAG8BM)
 - [Cuanto pagar por un filtro / @CHOCHY](https://www.youtube.com/watch?v=dTfMRZ1sMbo)
-- [​El ego y las redes sociales / @CHOCHY](https://www.youtube.com/watch?v=4yf5eOy6Uac)
 <!-- YOUTUBE:END -->
     
 </details>
