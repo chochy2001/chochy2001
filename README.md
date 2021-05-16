@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Por qué estudiar cine? / @CHOCHY](https://www.youtube.com/watch?v=a2cgLUujvdM)
 - [Hugo Villaseñor / @CHOCHY](https://www.youtube.com/watch?v=StjEywEg7vQ)
 - [#61 Trabajo con Objetos Inteligentes en Photoshop / Curso Photoshop](https://www.youtube.com/watch?v=dIPwmidxxOY)
 - [CHOCHITOS #16 HUGO VILLASEÑOR / @CHOCHY](https://www.youtube.com/watch?v=MVw7Rrih18A)
 - [Como eliminar un repositorio local en Git (si se creo por error) / @CHOCHY](https://www.youtube.com/watch?v=gfUC2eS4alQ)
-- [¿Cuántos años tiene Pablinsky? / @CHOCHY](https://www.youtube.com/watch?v=SUnKOO0KfzU)
 <!-- YOUTUBE:END -->
     
 </details>
