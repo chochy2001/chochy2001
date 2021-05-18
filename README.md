@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué hace buena o mala una película? / @CHOCHY](https://www.youtube.com/watch?v=Lk2QXwzjKi8)
 - [¿Cuánto cuesta hacer una película? / @CHOCHY](https://www.youtube.com/watch?v=y03jpCfYwQo)
 - [¿Qué tan importante es un buen equipo de audio y video? / @CHOCHY](https://www.youtube.com/watch?v=yDg3pPpKUxg)
 - [Función y sueldo de un director de cine / @CHOCHY](https://www.youtube.com/watch?v=7slLnv4YW_w)
 - [¿Qué se entiende por vivir bien? / @CHOCHY](https://www.youtube.com/watch?v=-jNKlNyruNo)
-- [¿Por qué estudiar cine? / @CHOCHY](https://www.youtube.com/watch?v=a2cgLUujvdM)
 <!-- YOUTUBE:END -->
     
 </details>
