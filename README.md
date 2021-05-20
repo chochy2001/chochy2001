@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Crítica cinematográfica / @CHOCHY](https://www.youtube.com/watch?v=xlQHKGPUzc8)
 - [¿Qué es la recepción de una película? / @CHOCHY](https://www.youtube.com/watch?v=LvMWnhxavWY)
 - [#62 Shortcuts para editar mas rápido en Photoshop / Curso Photoshop](https://www.youtube.com/watch?v=ITN4cHsLgIw)
 - [Primer película de Hugo Villaseñor / @CHOCHY](https://www.youtube.com/watch?v=aQUd8XnWydo)
 - [¿Cómo ser y que hace un director de cine? / @CHOCHY](https://www.youtube.com/watch?v=glV9Q4KO6uM)
-- [El equipo humano en una producción cinematográfica / @CHOCHY](https://www.youtube.com/watch?v=9OzIPW7jcJ4)
 <!-- YOUTUBE:END -->
     
 </details>
