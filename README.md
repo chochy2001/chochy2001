@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Primer película de Hugo Villaseñor / @CHOCHY](https://www.youtube.com/watch?v=aQUd8XnWydo)
 - [¿Cómo ser y que hace un director de cine? / @CHOCHY](https://www.youtube.com/watch?v=glV9Q4KO6uM)
 - [El equipo humano en una producción cinematográfica / @CHOCHY](https://www.youtube.com/watch?v=9OzIPW7jcJ4)
 - [Problemas y soluciones al hacer una película / @CHOCHY](https://www.youtube.com/watch?v=UeJRZedASkw)
 - [¿Por qué estudiar cine? / @CHOCHY](https://www.youtube.com/watch?v=uAmp9cAJitc)
-- [¿Qué hace buena o mala una película? / @CHOCHY](https://www.youtube.com/watch?v=Lk2QXwzjKi8)
 <!-- YOUTUBE:END -->
     
 </details>
