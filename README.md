@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Formas para ganar dinero de una película que tu hiciste / @CHOCHY](https://www.youtube.com/watch?v=qjN8zscNTuQ)
 - [¿Puede una película ser negocio? / @CHOCHY](https://www.youtube.com/watch?v=c-sgg2c_jow)
 - [Crítica cinematográfica / @CHOCHY](https://www.youtube.com/watch?v=xlQHKGPUzc8)
 - [¿Qué es la recepción de una película? / @CHOCHY](https://www.youtube.com/watch?v=LvMWnhxavWY)
 - [#62 Shortcuts para editar mas rápido en Photoshop / Curso Photoshop](https://www.youtube.com/watch?v=ITN4cHsLgIw)
-- [Primer película de Hugo Villaseñor / @CHOCHY](https://www.youtube.com/watch?v=aQUd8XnWydo)
 <!-- YOUTUBE:END -->
     
 </details>
