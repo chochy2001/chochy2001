@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Por qué y para qué hacer cine?/ @CHOCHY](https://www.youtube.com/watch?v=126ywZ9X9XE)
 - [Formas para ganar dinero de una película que tu hiciste / @CHOCHY](https://www.youtube.com/watch?v=qjN8zscNTuQ)
 - [¿Puede una película ser negocio? / @CHOCHY](https://www.youtube.com/watch?v=c-sgg2c_jow)
 - [Crítica cinematográfica / @CHOCHY](https://www.youtube.com/watch?v=xlQHKGPUzc8)
 - [¿Qué es la recepción de una película? / @CHOCHY](https://www.youtube.com/watch?v=LvMWnhxavWY)
-- [#62 Shortcuts para editar mas rápido en Photoshop / Curso Photoshop](https://www.youtube.com/watch?v=ITN4cHsLgIw)
 <!-- YOUTUBE:END -->
     
 </details>
