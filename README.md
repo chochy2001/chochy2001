@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [#63 Guardar y Exportar en Photoshop Parte 1/ Curso Photoshop](https://www.youtube.com/watch?v=ViqzOzodENk)
+- [Manqueando en Fortnite Arena](https://www.youtube.com/watch?v=MwGpAV6jDOg)
 - [Programando en Flutter (Coding Session)](https://www.youtube.com/watch?v=dtPC-vzqAfE)
 - [¿Por qué y para qué hacer cine?/ @CHOCHY](https://www.youtube.com/watch?v=126ywZ9X9XE)
 - [Formas para ganar dinero de una película que tu hiciste / @CHOCHY](https://www.youtube.com/watch?v=qjN8zscNTuQ)
-- [¿Puede una película ser negocio? / @CHOCHY](https://www.youtube.com/watch?v=c-sgg2c_jow)
-- [Crítica cinematográfica / @CHOCHY](https://www.youtube.com/watch?v=xlQHKGPUzc8)
 <!-- YOUTUBE:END -->
     
 </details>
