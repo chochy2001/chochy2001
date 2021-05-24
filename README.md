@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Manqueando en Fortnite](https://www.youtube.com/watch?v=hdiMhJSLM2w)
 - [CHOCHITOS #17 XIMENA TERCERO](https://www.youtube.com/watch?v=KQBcXw6oDFY)
 - [Manqueando en Fortnite Arena](https://www.youtube.com/watch?v=MwGpAV6jDOg)
 - [#63 Guardar y Exportar en Photoshop Parte 1/ Curso Photoshop](https://www.youtube.com/watch?v=ViqzOzodENk)
 - [Programando en Flutter (Coding Session)](https://www.youtube.com/watch?v=dtPC-vzqAfE)
-- [¿Por qué y para qué hacer cine?/ @CHOCHY](https://www.youtube.com/watch?v=126ywZ9X9XE)
 <!-- YOUTUBE:END -->
     
 </details>
