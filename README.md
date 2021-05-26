@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Fortnite arena](https://www.youtube.com/watch?v=QnLFUQmktjU)
+- [Publicar en escritoras universitarias](https://www.youtube.com/watch?v=IXKaHsokbl4)
 - [Manqueando en Fortnite arena](https://www.youtube.com/watch?v=DqxzmoYi29Q)
 - [¿Cómo se comienza a escribir?](https://www.youtube.com/watch?v=rZaFWOyFBZ0)
 - [Ximena Tercero](https://www.youtube.com/watch?v=04uVHib-DrI)
-- [Manqueando en Fortnite](https://www.youtube.com/watch?v=hdiMhJSLM2w)
-- [CHOCHITOS #17 XIMENA TERCERO](https://www.youtube.com/watch?v=KQBcXw6oDFY)
 <!-- YOUTUBE:END -->
     
 </details>
