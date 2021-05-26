@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo ganar dinero por escribir?](https://www.youtube.com/watch?v=XRcWbBmKq-M)
 - [Fortnite con seguidores de 10 años](https://www.youtube.com/watch?v=QnLFUQmktjU)
 - [Publicar en escritoras universitarias](https://www.youtube.com/watch?v=IXKaHsokbl4)
 - [Manqueando en Fortnite arena](https://www.youtube.com/watch?v=DqxzmoYi29Q)
 - [¿Cómo se comienza a escribir?](https://www.youtube.com/watch?v=rZaFWOyFBZ0)
-- [Ximena Tercero](https://www.youtube.com/watch?v=04uVHib-DrI)
 <!-- YOUTUBE:END -->
     
 </details>
