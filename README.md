@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Programando en Flutter (App en Producción)](https://www.youtube.com/watch?v=GC-g06LIQJ8)
 - [Fortnite con Streamers](https://www.youtube.com/watch?v=F5BnaAa3tUI)
 - [Cómo empezar a escribir](https://www.youtube.com/watch?v=ZayBIJ8aYqQ)
 - [¿Cómo ganar dinero por escribir?](https://www.youtube.com/watch?v=XRcWbBmKq-M)
 - [Fortnite con seguidores de 10 años](https://www.youtube.com/watch?v=QnLFUQmktjU)
-- [Publicar en escritoras universitarias](https://www.youtube.com/watch?v=IXKaHsokbl4)
 <!-- YOUTUBE:END -->
     
 </details>
