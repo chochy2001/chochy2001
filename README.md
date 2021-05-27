@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué es la violencia sexual?](https://www.youtube.com/watch?v=CwaX7F6NGKM)
 - [Proyecto Nouva Vida Instagram](https://www.youtube.com/watch?v=y10Vqa_0GlM)
 - [Jugando la Copa Typical Gamer / Fortnite](https://www.youtube.com/watch?v=v3R7jAjUbpE)
 - [Programando en Flutter (App en Producción)](https://www.youtube.com/watch?v=GC-g06LIQJ8)
 - [El aborto: una opinión, una postura](https://www.youtube.com/watch?v=iXf_KCWiAjQ)
-- [Fortnite con Streamers](https://www.youtube.com/watch?v=F5BnaAa3tUI)
 <!-- YOUTUBE:END -->
     
 </details>
