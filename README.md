@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuáles son sus ventajas y desventajas del emprendimiento?](https://www.youtube.com/watch?v=JzzUV1aZ_5E)
 - [¿Qué es la violencia sexual?](https://www.youtube.com/watch?v=CwaX7F6NGKM)
 - [Proyecto Nouva Vida Instagram](https://www.youtube.com/watch?v=y10Vqa_0GlM)
 - [Jugando la Copa Typical Gamer / Fortnite](https://www.youtube.com/watch?v=v3R7jAjUbpE)
 - [Programando en Flutter (App en Producción)](https://www.youtube.com/watch?v=GC-g06LIQJ8)
-- [El aborto: una opinión, una postura](https://www.youtube.com/watch?v=iXf_KCWiAjQ)
 <!-- YOUTUBE:END -->
     
 </details>
