@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Negocios internacionales UNAM](https://www.youtube.com/watch?v=1S3jgYNsZm8)
 - [¿Cómo emprender con causa?](https://www.youtube.com/watch?v=5t7viVZf1VA)
 - [#64 Guardar y Exportar en Photoshop Parte 2 / Curso Photoshop](https://www.youtube.com/watch?v=TZZyC7rRY9w)
 - [¿Cuáles son sus ventajas y desventajas del emprendimiento?](https://www.youtube.com/watch?v=JzzUV1aZ_5E)
 - [¿Qué es la violencia sexual?](https://www.youtube.com/watch?v=CwaX7F6NGKM)
-- [Proyecto Nouva Vida Instagram](https://www.youtube.com/watch?v=y10Vqa_0GlM)
 <!-- YOUTUBE:END -->
     
 </details>
