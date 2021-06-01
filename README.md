@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Curso completo de Photoshop / CHOCHY](https://www.youtube.com/watch?v=hxbfsaakxNQ)
 - [¿Cómo saber si me tengo que cambiar de carrera?](https://www.youtube.com/watch?v=jaia5dkGXEQ)
 - [¿Quién tiene mejores maestros la UNAM o el CIDE?](https://www.youtube.com/watch?v=p5O9ZphvVno)
 - [¿Qué tan bueno es el Centro de Investigación y Docencia Económicas(CIDE)?](https://www.youtube.com/watch?v=l2jT57owPRQ)
 - [Negocios internacionales UNAM](https://www.youtube.com/watch?v=1S3jgYNsZm8)
-- [¿Cómo emprender con causa?](https://www.youtube.com/watch?v=5t7viVZf1VA)
 <!-- YOUTUBE:END -->
     
 </details>
