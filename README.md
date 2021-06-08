@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Real F](https://www.youtube.com/watch?v=P9fSeisgChs)
 - [CHOCHITOS #18 REAL F](https://www.youtube.com/watch?v=QDQbHrDaiZE)
 - [QUITA el ECO y EDICIÓN COMPLETA DE AUDIO con ADOBE AUDITION](https://www.youtube.com/watch?v=4QUwaYNf4_I)
 - [Curso completo de Photoshop / CHOCHY](https://www.youtube.com/watch?v=hxbfsaakxNQ)
 - [¿Cómo saber si me tengo que cambiar de carrera?](https://www.youtube.com/watch?v=jaia5dkGXEQ)
-- [¿Quién tiene mejores maestros la UNAM o el CIDE?](https://www.youtube.com/watch?v=p5O9ZphvVno)
 <!-- YOUTUBE:END -->
     
 </details>
