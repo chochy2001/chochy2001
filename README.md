@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Canción Fuckboy ¿buena o mala?](https://www.youtube.com/watch?v=GXgN8gYYbcM)
 - [¿Por qué cantar reggaeton?](https://www.youtube.com/watch?v=eZc3dUfFsPU)
 - [¿Existe la mujer perfecta?](https://www.youtube.com/watch?v=LdcmGWBpVwE)
 - [Real F](https://www.youtube.com/watch?v=P9fSeisgChs)
 - [CHOCHITOS #18 REAL F](https://www.youtube.com/watch?v=QDQbHrDaiZE)
-- [QUITA el ECO y EDICIÓN COMPLETA DE AUDIO con ADOBE AUDITION](https://www.youtube.com/watch?v=4QUwaYNf4_I)
 <!-- YOUTUBE:END -->
     
 </details>
