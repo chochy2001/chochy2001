@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio / Algoritmos de Ordenamiento EDA 2 / CHOCHY](https://www.youtube.com/watch?v=IDxYOW7oPNc)
 - ["Ay Mami" - Real F (feat. Deni Lecía)](https://www.youtube.com/watch?v=rqM09JiT9Ig)
 - [Qué es un fuckboy y cómo reconocerlo](https://www.youtube.com/watch?v=mYcEkTel6fY)
 - [Canción Fuckboy ¿buena o mala?](https://www.youtube.com/watch?v=GXgN8gYYbcM)
 - [¿Por qué cantar reggaeton?](https://www.youtube.com/watch?v=eZc3dUfFsPU)
-- [¿Existe la mujer perfecta?](https://www.youtube.com/watch?v=LdcmGWBpVwE)
 <!-- YOUTUBE:END -->
     
 </details>
