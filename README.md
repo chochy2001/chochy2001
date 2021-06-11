@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Por qué amar a Bad Bunny?](https://www.youtube.com/watch?v=uTlSSvCbZCE)
 - [¿Qué hacer ante una decepción amorosa?](https://www.youtube.com/watch?v=mVivxZ9Tb0k)
 - [Canciones buenas de reggaetón](https://www.youtube.com/watch?v=GowLy_mN7A4)
 - [¿Cómo aprender a soltar el ego?](https://www.youtube.com/watch?v=hcyQCUhYjPM)
 - [Sesión de Estudio / Algoritmos de Ordenamiento EDA 2 / CHOCHY](https://www.youtube.com/watch?v=IDxYOW7oPNc)
-- ["Ay Mami" - Real F (feat. Deni Lecía)](https://www.youtube.com/watch?v=rqM09JiT9Ig)
 <!-- YOUTUBE:END -->
     
 </details>
