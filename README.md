@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Merece la pena estudiar una carrera?](https://www.youtube.com/watch?v=2ouV4weXfKs)
 - [¿Qué es una persona hater?](https://www.youtube.com/watch?v=5AtyxDQxkaM)
 - [¿Por qué amar a Bad Bunny?](https://www.youtube.com/watch?v=uTlSSvCbZCE)
 - [¿Qué hacer ante una decepción amorosa?](https://www.youtube.com/watch?v=mVivxZ9Tb0k)
 - [Canciones buenas de reggaetón](https://www.youtube.com/watch?v=GowLy_mN7A4)
-- [¿Cómo aprender a soltar el ego?](https://www.youtube.com/watch?v=hcyQCUhYjPM)
 <!-- YOUTUBE:END -->
     
 </details>
