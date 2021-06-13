@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Consejo para ser feliz](https://www.youtube.com/watch?v=BoX92UDDaXU)
 - [Colegiatura del UVM: Universidad del Valle de México](https://www.youtube.com/watch?v=E9wC40olrhg)
 - [Hostal y hotel: ¿qué diferencia hay?](https://www.youtube.com/watch?v=OxXWfjo9ZDc)
 - [¿Merece la pena estudiar una carrera?](https://www.youtube.com/watch?v=2ouV4weXfKs)
 - [¿Qué es una persona hater?](https://www.youtube.com/watch?v=5AtyxDQxkaM)
-- [¿Por qué amar a Bad Bunny?](https://www.youtube.com/watch?v=uTlSSvCbZCE)
 <!-- YOUTUBE:END -->
     
 </details>
