@@ -125,6 +125,6 @@ __Cursos:__
 [web]:  https://www.google.com/
 
 [Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae
-[FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro
+[FormulaePro]: https://play.google.com/store/apps/details?id=com.capdesis.formulae_pro.formulae_calculo_pro
 [Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
 
