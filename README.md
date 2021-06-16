@@ -103,8 +103,8 @@ __Cursos:__
     <summary>❗️ Ver</summary>
     
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/ValeMerch/Git_GitHub/issues/10) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
-2. ❗️ Closed issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
+1. 🎉 Merged PR [#14](https://github.com/ValeMerch/Git_GitHub/pull/14) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
+2. ❗️ Closed issue [#10](https://github.com/ValeMerch/Git_GitHub/issues/10) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
 3. ❗️ Opened issue [#13](https://github.com/ValeMerch/Git_GitHub/issues/13) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
 4. ❗️ Opened issue [#12](https://github.com/chochy2001/Git_GitHub/issues/12) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
 5. ❗️ Closed issue [#11](https://github.com/chochy2001/Git_GitHub/issues/11) in [chochy2001/Git_GitHub](https://github.com/chochy2001/Git_GitHub)
