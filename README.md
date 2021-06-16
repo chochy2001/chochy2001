@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿El alumno hace la escuela, o la escuela hace el alumno?](https://www.youtube.com/watch?v=Do8kPaYybgA)
 - [¿Por qué estudiar Comunicación?](https://www.youtube.com/watch?v=BHzXf-SjUXI)
 - [Fer Jáquez](https://www.youtube.com/watch?v=wCXpjXUTIA4)
 - [CHOCHITOS #19 FER JÁQUEZ](https://www.youtube.com/watch?v=-Fo6ofG5kG0)
 - [Consejo para ser feliz](https://www.youtube.com/watch?v=BoX92UDDaXU)
-- [Colegiatura del UVM: Universidad del Valle de México](https://www.youtube.com/watch?v=E9wC40olrhg)
 <!-- YOUTUBE:END -->
     
 </details>
