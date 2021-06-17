@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [La moral pública: ¿Qué es justo y que no?](https://www.youtube.com/watch?v=rxroTb7rp3w)
 - [¿Qué es la meritocracia?](https://www.youtube.com/watch?v=eCie3Hz8muE)
 - [¿Qué podemos aprender de la comunicación?](https://www.youtube.com/watch?v=VNtp9IyWZP8)
 - [¿El alumno hace la escuela, o la escuela hace el alumno?](https://www.youtube.com/watch?v=Do8kPaYybgA)
 - [¿Por qué estudiar Comunicación?](https://www.youtube.com/watch?v=BHzXf-SjUXI)
-- [Fer Jáquez](https://www.youtube.com/watch?v=wCXpjXUTIA4)
 <!-- YOUTUBE:END -->
     
 </details>
