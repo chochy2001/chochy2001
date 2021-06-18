@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Prepa o CCH, ¿cuál es mejor opción para nivel medio superior?](https://www.youtube.com/watch?v=4oh2aiOpMUU)
 - [¿Cuánto Ganan los YouTubers?](https://www.youtube.com/watch?v=T60LwwLloOY)
 - [Canal de YouTube Momoch](https://www.youtube.com/watch?v=NmcrDtRoVtQ)
 - [La moral pública: ¿Qué es justo y que no?](https://www.youtube.com/watch?v=rxroTb7rp3w)
 - [¿Qué es la meritocracia?](https://www.youtube.com/watch?v=eCie3Hz8muE)
-- [¿Qué podemos aprender de la comunicación?](https://www.youtube.com/watch?v=VNtp9IyWZP8)
 <!-- YOUTUBE:END -->
     
 </details>
