@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Podcast el único lugar donde la música vibra diferente](https://www.youtube.com/watch?v=5vFzPCvCkyM)
 - [Prepa o CCH, ¿cuál es mejor opción para nivel medio superior?](https://www.youtube.com/watch?v=4oh2aiOpMUU)
 - [¿Cuánto Ganan los YouTubers?](https://www.youtube.com/watch?v=T60LwwLloOY)
 - [Canal de YouTube Momoch](https://www.youtube.com/watch?v=NmcrDtRoVtQ)
 - [La moral pública: ¿Qué es justo y que no?](https://www.youtube.com/watch?v=rxroTb7rp3w)
-- [¿Qué es la meritocracia?](https://www.youtube.com/watch?v=eCie3Hz8muE)
 <!-- YOUTUBE:END -->
     
 </details>
