@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Actualizando App Formulae Flutter](https://www.youtube.com/watch?v=jYfa0JzQSLc)
 - [CHOCHITOS #20 FERNANDA CHÁVEZ](https://www.youtube.com/watch?v=kP1J3b_gmaE)
 - [Se pueden hacer grandes cosas con muy poco](https://www.youtube.com/watch?v=wBpUO_93RZQ)
 - [¿Es necesario estudiar música para ser profesional?](https://www.youtube.com/watch?v=gd4gv9lwdWo)
 - [Como hacer tu podcast musical](https://www.youtube.com/watch?v=5vFzPCvCkyM)
-- [Prepa o CCH, ¿cuál es mejor opción para nivel medio superior?](https://www.youtube.com/watch?v=4oh2aiOpMUU)
 <!-- YOUTUBE:END -->
     
 </details>
