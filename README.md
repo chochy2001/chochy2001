@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Por qué no estudiaste música?](https://www.youtube.com/watch?v=SkCTwHtxAdI)
 - [Cálculo Multivariable](https://www.youtube.com/watch?v=HO8CepUQmgA)
 - [Fernanda Chávez](https://www.youtube.com/watch?v=mhwT4OHVP5Y)
 - [Enseñando la aplicación Formulae](https://www.youtube.com/watch?v=zrRUDr2dUKE)
 - [Actualizando App Formulae Flutter](https://www.youtube.com/watch?v=jYfa0JzQSLc)
-- [CHOCHITOS #20 FERNANDA CHÁVEZ](https://www.youtube.com/watch?v=kP1J3b_gmaE)
 <!-- YOUTUBE:END -->
     
 </details>
