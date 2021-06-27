@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Enseñando la aplicación Formulae](https://www.youtube.com/watch?v=zrRUDr2dUKE)
 - [Actualizando App Formulae Flutter](https://www.youtube.com/watch?v=jYfa0JzQSLc)
 - [CHOCHITOS #20 FERNANDA CHÁVEZ](https://www.youtube.com/watch?v=kP1J3b_gmaE)
 - [Se pueden hacer grandes cosas con muy poco](https://www.youtube.com/watch?v=wBpUO_93RZQ)
 - [¿Es necesario estudiar música para ser profesional?](https://www.youtube.com/watch?v=gd4gv9lwdWo)
-- [Como hacer tu podcast musical](https://www.youtube.com/watch?v=5vFzPCvCkyM)
 <!-- YOUTUBE:END -->
     
 </details>
