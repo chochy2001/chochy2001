@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Poner anuncios en la App](https://www.youtube.com/watch?v=olPwlPyYvfI)
 - [Requisitos para ser edecán en prepa 5](https://www.youtube.com/watch?v=-52B24tLId8)
 - [Crear implementación de derivadas parciales](https://www.youtube.com/watch?v=uIIVWOpzgLA)
 - [¿Cómo es estudiar en prepa 5?](https://www.youtube.com/watch?v=TLAm26jp_tQ)
 - [Creando menú de cálculo multivariable](https://www.youtube.com/watch?v=CzwMZcCsURQ)
-- [¿Por qué no estudiaste música?](https://www.youtube.com/watch?v=SkCTwHtxAdI)
 <!-- YOUTUBE:END -->
     
 </details>
