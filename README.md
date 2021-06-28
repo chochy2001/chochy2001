@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo divides tu tiempo entre escuela, fiesta, amigos y novio?](https://www.youtube.com/watch?v=6j1eqkXBSr0)
 - [Poner anuncios en la App](https://www.youtube.com/watch?v=olPwlPyYvfI)
 - [Requisitos para ser edecán en prepa 5](https://www.youtube.com/watch?v=-52B24tLId8)
 - [Crear implementación de derivadas parciales](https://www.youtube.com/watch?v=uIIVWOpzgLA)
 - [¿Cómo es estudiar en prepa 5?](https://www.youtube.com/watch?v=TLAm26jp_tQ)
-- [Creando menú de cálculo multivariable](https://www.youtube.com/watch?v=CzwMZcCsURQ)
 <!-- YOUTUBE:END -->
     
 </details>
