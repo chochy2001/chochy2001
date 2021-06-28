@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo es estudiar en prepa 5?](https://www.youtube.com/watch?v=TLAm26jp_tQ)
 - [Creando menú de cálculo multivariable](https://www.youtube.com/watch?v=CzwMZcCsURQ)
 - [¿Por qué no estudiaste música?](https://www.youtube.com/watch?v=SkCTwHtxAdI)
 - [Cálculo Multivariable](https://www.youtube.com/watch?v=HO8CepUQmgA)
 - [Fernanda Chávez](https://www.youtube.com/watch?v=mhwT4OHVP5Y)
-- [Enseñando la aplicación Formulae](https://www.youtube.com/watch?v=zrRUDr2dUKE)
 <!-- YOUTUBE:END -->
     
 </details>
