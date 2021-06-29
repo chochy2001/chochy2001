@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Flutter usa muchas clases?](https://www.youtube.com/watch?v=F1yDqbybpuU)
 - [UNAM vs Privada](https://www.youtube.com/watch?v=N0KZP07pW3o)
 - [Cómo decidir entre flutter y otros](https://www.youtube.com/watch?v=xRj_ntaQnAk)
 - [¿Cuánto cuesta estudiar la carrera de Medicina en la UNAM?](https://www.youtube.com/watch?v=BeeB4gCfJR0)
 - [Cursos de flutter](https://www.youtube.com/watch?v=VjCMYiSVANs)
-- [La mejor forma de aprender](https://www.youtube.com/watch?v=WHnhcAxYSzw)
 <!-- YOUTUBE:END -->
     
 </details>
