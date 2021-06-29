@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [La mejor forma de aprender](https://www.youtube.com/watch?v=WHnhcAxYSzw)
 - [Actualizando App Formulae Flutter Parte 2](https://www.youtube.com/watch?v=3REx79Zuuzs)
 - [¿Cómo divides tu tiempo entre escuela, fiesta, amigos y novio?](https://www.youtube.com/watch?v=6j1eqkXBSr0)
 - [Poner anuncios en la App](https://www.youtube.com/watch?v=olPwlPyYvfI)
 - [Requisitos para ser edecán en prepa 5](https://www.youtube.com/watch?v=-52B24tLId8)
-- [Crear implementación de derivadas parciales](https://www.youtube.com/watch?v=uIIVWOpzgLA)
 <!-- YOUTUBE:END -->
     
 </details>
