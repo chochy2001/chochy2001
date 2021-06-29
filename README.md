@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuánto cuesta estudiar la carrera de Medicina en la UNAM?](https://www.youtube.com/watch?v=BeeB4gCfJR0)
 - [Cursos de flutter](https://www.youtube.com/watch?v=VjCMYiSVANs)
 - [La mejor forma de aprender](https://www.youtube.com/watch?v=WHnhcAxYSzw)
 - [Actualizando App Formulae Flutter Parte 2](https://www.youtube.com/watch?v=3REx79Zuuzs)
 - [¿Cómo divides tu tiempo entre escuela, fiesta, amigos y novio?](https://www.youtube.com/watch?v=6j1eqkXBSr0)
-- [Poner anuncios en la App](https://www.youtube.com/watch?v=olPwlPyYvfI)
 <!-- YOUTUBE:END -->
     
 </details>
