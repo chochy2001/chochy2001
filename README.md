@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Bioquímica e inmunología](https://www.youtube.com/watch?v=Zl8ghbwE-RY)
 - [Implementar Vim](https://www.youtube.com/watch?v=se26Yy2vpj0)
 - [Sesión de Estudio / Algoritmos sobre Grafos EDA 2 / CHOCHY](https://www.youtube.com/watch?v=bI-e-2-GV9E)
 - [Sesión de Estudio / Algoritmos de Busqueda EDA 2 / CHOCHY](https://www.youtube.com/watch?v=6G-rdzfJpV0)
 - [Técnico auxiliar en nutrición](https://www.youtube.com/watch?v=zWgiD7968Jk)
-- [¿Flutter usa muchas clases?](https://www.youtube.com/watch?v=F1yDqbybpuU)
 <!-- YOUTUBE:END -->
     
 </details>
