@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio / Algoritmos sobre Grafos EDA 2 / CHOCHY](https://www.youtube.com/watch?v=bI-e-2-GV9E)
 - [Sesión de Estudio / Algoritmos de Busqueda EDA 2 / CHOCHY](https://www.youtube.com/watch?v=6G-rdzfJpV0)
 - [Técnico auxiliar en nutrición](https://www.youtube.com/watch?v=zWgiD7968Jk)
 - [¿Flutter usa muchas clases?](https://www.youtube.com/watch?v=F1yDqbybpuU)
 - [UNAM vs Privada](https://www.youtube.com/watch?v=N0KZP07pW3o)
-- [Cómo decidir entre flutter y otros](https://www.youtube.com/watch?v=xRj_ntaQnAk)
 <!-- YOUTUBE:END -->
     
 </details>
