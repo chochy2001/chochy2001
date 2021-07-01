@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Mitos al estudiar medicina](https://www.youtube.com/watch?v=xCuIW53YmpQ)
+- [Empezando en Clash Royale](https://www.youtube.com/watch?v=r_tcgYYOhnE)
 - [Definición de ordenamiento](https://www.youtube.com/watch?v=Lsv9Y0BlFqQ)
 - [¿Cómo es estudiar medicina en la UNAM?](https://www.youtube.com/watch?v=LErMan9KXrQ)
 - [Chequen la aplicación](https://www.youtube.com/watch?v=kIlcil0qqsE)
-- [Bioquímica e inmunología](https://www.youtube.com/watch?v=Zl8ghbwE-RY)
-- [Implementar Vim](https://www.youtube.com/watch?v=se26Yy2vpj0)
 <!-- YOUTUBE:END -->
     
 </details>
