@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Operaciones básicas de ordenamiento](https://www.youtube.com/watch?v=xBTRoBhu8ig)
+- [Jugando con el mazo MÁS BARATO en Clash Royale](https://www.youtube.com/watch?v=LA3eXqhts_I)
 - [¿Qué tanta infidelidad hay en medicina?](https://www.youtube.com/watch?v=YCwf_6eqpvk)
 - [¿Cuál es el mejor algoritmo de ordenamiento?](https://www.youtube.com/watch?v=DTWslK01McQ)
 - [Empezando en Clash Royale](https://www.youtube.com/watch?v=r_tcgYYOhnE)
-- [Mitos al estudiar medicina](https://www.youtube.com/watch?v=xCuIW53YmpQ)
-- [Definición de ordenamiento](https://www.youtube.com/watch?v=Lsv9Y0BlFqQ)
 <!-- YOUTUBE:END -->
     
 </details>
