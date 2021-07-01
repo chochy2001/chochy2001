@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué tanta infidelidad hay en medicina?](https://www.youtube.com/watch?v=YCwf_6eqpvk)
 - [¿Cuál es el mejor algoritmo de ordenamiento?](https://www.youtube.com/watch?v=DTWslK01McQ)
 - [Empezando en Clash Royale](https://www.youtube.com/watch?v=r_tcgYYOhnE)
 - [Mitos al estudiar medicina](https://www.youtube.com/watch?v=xCuIW53YmpQ)
 - [Definición de ordenamiento](https://www.youtube.com/watch?v=Lsv9Y0BlFqQ)
-- [¿Cómo es estudiar medicina en la UNAM?](https://www.youtube.com/watch?v=LErMan9KXrQ)
 <!-- YOUTUBE:END -->
     
 </details>
