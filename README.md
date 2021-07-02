@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [¿Existe el machismo en la medicina?](https://www.youtube.com/watch?v=gESdVFegKzw)
+- [Algoritmo de ordenamiento Insertion Sort](https://www.youtube.com/watch?v=lfEagx_zYO0)
 - [MEJORANDO EL STREAM de Clash Royale](https://www.youtube.com/watch?v=ja1kF2HbU6o)
+- [¿Existe el machismo en la medicina?](https://www.youtube.com/watch?v=gESdVFegKzw)
 - [Clasificación de los algoritmos de ordenamiento](https://www.youtube.com/watch?v=K4CSb57YQho)
 - [¿Cómo es trabajar en un hospital?](https://www.youtube.com/watch?v=2GkG6s6YFks)
-- [Aspectos en el ordenamiento](https://www.youtube.com/watch?v=w5Cap3ECWM4)
 <!-- YOUTUBE:END -->
     
 </details>
