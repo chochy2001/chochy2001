@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Existe el machismo en la medicina?](https://www.youtube.com/watch?v=gESdVFegKzw)
 - [MEJORANDO EL STREAM de Clash Royale](https://www.youtube.com/watch?v=ja1kF2HbU6o)
 - [Clasificación de los algoritmos de ordenamiento](https://www.youtube.com/watch?v=K4CSb57YQho)
 - [¿Cómo es trabajar en un hospital?](https://www.youtube.com/watch?v=2GkG6s6YFks)
 - [Aspectos en el ordenamiento](https://www.youtube.com/watch?v=w5Cap3ECWM4)
-- [Jugando con SUSCRIPTORES en Clash Royale](https://www.youtube.com/watch?v=JCeiOWfu4f8)
 <!-- YOUTUBE:END -->
     
 </details>
