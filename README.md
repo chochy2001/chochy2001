@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué es kactuseria?](https://www.youtube.com/watch?v=yAgqPMXersY)
 - [¿Qué es la verificación en los algoritmos del ordenamiento?](https://www.youtube.com/watch?v=PhSd1neogkw)
 - [Jugando con el mazo MÁS BARATO en Clash Royale](https://www.youtube.com/watch?v=LA3eXqhts_I)
 - [Diplomado en medicina forense](https://www.youtube.com/watch?v=IgPHlLAj-FM)
 - [Operaciones básicas de ordenamiento](https://www.youtube.com/watch?v=xBTRoBhu8ig)
-- [¿Qué tanta infidelidad hay en medicina?](https://www.youtube.com/watch?v=YCwf_6eqpvk)
 <!-- YOUTUBE:END -->
     
 </details>
