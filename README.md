@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Aspectos en el ordenamiento](https://www.youtube.com/watch?v=w5Cap3ECWM4)
 - [Jugando con SUSCRIPTORES en Clash Royale](https://www.youtube.com/watch?v=JCeiOWfu4f8)
 - [¿Qué es kactuseria?](https://www.youtube.com/watch?v=yAgqPMXersY)
 - [¿Qué es la verificación en los algoritmos del ordenamiento?](https://www.youtube.com/watch?v=PhSd1neogkw)
 - [Jugando con el mazo MÁS BARATO en Clash Royale](https://www.youtube.com/watch?v=LA3eXqhts_I)
-- [Diplomado en medicina forense](https://www.youtube.com/watch?v=IgPHlLAj-FM)
 <!-- YOUTUBE:END -->
     
 </details>
