@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Ejemplo de un algoritmo estable](https://www.youtube.com/watch?v=cxoM8gmXgRA)
 - [¿Qué necesita saber la persona que quiere andar con un medico?](https://www.youtube.com/watch?v=cta2almlkFg)
 - [Algoritmos Estables E Inestables](https://www.youtube.com/watch?v=sCPNjqan5O8)
 - [Se gana bien o mal en la medicina](https://www.youtube.com/watch?v=652HkC2UFSg)
 - [Algoritmo de ordenamiento Insertion Sort](https://www.youtube.com/watch?v=lfEagx_zYO0)
-- [MEJORANDO EL STREAM de Clash Royale](https://www.youtube.com/watch?v=ja1kF2HbU6o)
 <!-- YOUTUBE:END -->
     
 </details>
