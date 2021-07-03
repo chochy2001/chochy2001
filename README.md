@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [La complejidad en los algoritmos de ordenamiento](https://www.youtube.com/watch?v=J78CFE75zq0)
 - [¿Por qué no andar con un médico?](https://www.youtube.com/watch?v=xuAv2sNIXAY)
 - [Ejemplo de un algoritmo estable](https://www.youtube.com/watch?v=cxoM8gmXgRA)
 - [¿Qué necesita saber la persona que quiere andar con un medico?](https://www.youtube.com/watch?v=cta2almlkFg)
 - [Algoritmos Estables E Inestables](https://www.youtube.com/watch?v=sCPNjqan5O8)
-- [Se gana bien o mal en la medicina](https://www.youtube.com/watch?v=652HkC2UFSg)
 <!-- YOUTUBE:END -->
     
 </details>
