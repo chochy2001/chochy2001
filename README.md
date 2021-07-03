@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Algoritmos Estables E Inestables](https://www.youtube.com/watch?v=sCPNjqan5O8)
 - [Se gana bien o mal en la medicina](https://www.youtube.com/watch?v=652HkC2UFSg)
 - [Algoritmo de ordenamiento Insertion Sort](https://www.youtube.com/watch?v=lfEagx_zYO0)
 - [MEJORANDO EL STREAM de Clash Royale](https://www.youtube.com/watch?v=ja1kF2HbU6o)
 - [¿Existe el machismo en la medicina?](https://www.youtube.com/watch?v=gESdVFegKzw)
-- [Clasificación de los algoritmos de ordenamiento](https://www.youtube.com/watch?v=K4CSb57YQho)
 <!-- YOUTUBE:END -->
     
 </details>
