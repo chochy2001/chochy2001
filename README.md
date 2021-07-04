@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Insertion Sort es estable e inestable?](https://www.youtube.com/watch?v=0B3DO8RB7Gw)
 - [La complejidad en los algoritmos de ordenamiento](https://www.youtube.com/watch?v=J78CFE75zq0)
 - [¿Por qué no andar con un médico?](https://www.youtube.com/watch?v=xuAv2sNIXAY)
 - [Ejemplo de un algoritmo estable](https://www.youtube.com/watch?v=cxoM8gmXgRA)
 - [¿Qué necesita saber la persona que quiere andar con un medico?](https://www.youtube.com/watch?v=cta2almlkFg)
-- [Algoritmos Estables E Inestables](https://www.youtube.com/watch?v=sCPNjqan5O8)
 <!-- YOUTUBE:END -->
     
 </details>
