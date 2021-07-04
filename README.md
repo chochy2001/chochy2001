@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Algoritmo Selection Sort](https://www.youtube.com/watch?v=BxGHY1cWckI)
 - [Binary Insertion Sort](https://www.youtube.com/watch?v=dQTaAJ8fxMY)
 - [¿Insertion Sort es estable e inestable?](https://www.youtube.com/watch?v=0B3DO8RB7Gw)
 - [La complejidad en los algoritmos de ordenamiento](https://www.youtube.com/watch?v=J78CFE75zq0)
 - [¿Por qué no andar con un médico?](https://www.youtube.com/watch?v=xuAv2sNIXAY)
-- [Ejemplo de un algoritmo estable](https://www.youtube.com/watch?v=cxoM8gmXgRA)
 <!-- YOUTUBE:END -->
     
 </details>
