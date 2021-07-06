@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Tipos de algoritmos](https://www.youtube.com/watch?v=pDDWivupKrU)
 - [Bubble sort](https://www.youtube.com/watch?v=cjCuzOFK4N4)
 - [Funcionamiento de heap sort](https://www.youtube.com/watch?v=R0K1DTFoq3Y)
 - [¿Qué es heap sort?](https://www.youtube.com/watch?v=d2cO2orqEvU)
 - [¿Qué es un heap?](https://www.youtube.com/watch?v=3Q3cOVN5KvY)
-- [Algoritmo Selection Sort](https://www.youtube.com/watch?v=BxGHY1cWckI)
 <!-- YOUTUBE:END -->
     
 </details>
