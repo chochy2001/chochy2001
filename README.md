@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Diferencia Quicksort y Heapsort](https://www.youtube.com/watch?v=xSC1QHDQ5lQ)
 - [Algoritmo QuickSort](https://www.youtube.com/watch?v=P7Lp6r2t6to)
 - [Tipos de algoritmos](https://www.youtube.com/watch?v=pDDWivupKrU)
 - [Bubble sort](https://www.youtube.com/watch?v=cjCuzOFK4N4)
 - [Funcionamiento de heap sort](https://www.youtube.com/watch?v=R0K1DTFoq3Y)
-- [¿Qué es heap sort?](https://www.youtube.com/watch?v=d2cO2orqEvU)
 <!-- YOUTUBE:END -->
     
 </details>
