@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Ejercicio de operación de ordenamiento](https://www.youtube.com/watch?v=yURG-2j4Jmw)
 - [¿Qué algoritmo es el mejor? heap, quicksort y mergesort](https://www.youtube.com/watch?v=GyS1cHElGwc)
 - [Algoritmo Merge Sort](https://www.youtube.com/watch?v=kao8rH5F6O0)
 - [Diferencia Quicksort y Heapsort](https://www.youtube.com/watch?v=xSC1QHDQ5lQ)
 - [Algoritmo QuickSort](https://www.youtube.com/watch?v=P7Lp6r2t6to)
-- [Tipos de algoritmos](https://www.youtube.com/watch?v=pDDWivupKrU)
 <!-- YOUTUBE:END -->
     
 </details>
