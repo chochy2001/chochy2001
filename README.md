@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Algoritmo de ordenamiento Externo](https://www.youtube.com/watch?v=r6JijUhvcuE)
 - [Algoritmo Radix Sort](https://www.youtube.com/watch?v=Xn4zXvQkSdg)
 - [Ordenamiento por conteo](https://www.youtube.com/watch?v=ju6cvTSunjk)
 - [Ejercicio de operación de ordenamiento](https://www.youtube.com/watch?v=yURG-2j4Jmw)
 - [¿Qué algoritmo es el mejor? heap, quicksort y mergesort](https://www.youtube.com/watch?v=GyS1cHElGwc)
-- [Algoritmo Merge Sort](https://www.youtube.com/watch?v=kao8rH5F6O0)
 <!-- YOUTUBE:END -->
     
 </details>
