@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Método por distribución](https://www.youtube.com/watch?v=tpz2_OtMxzo)
 - [Mezcla directa, mezcla equilibrada](https://www.youtube.com/watch?v=29_PGkNk9As)
 - [Polifase](https://www.youtube.com/watch?v=bAjFsYoYKiY)
 - [Algoritmo de ordenamiento Externo](https://www.youtube.com/watch?v=r6JijUhvcuE)
 - [Algoritmo Radix Sort](https://www.youtube.com/watch?v=Xn4zXvQkSdg)
-- [Ordenamiento por conteo](https://www.youtube.com/watch?v=ju6cvTSunjk)
 <!-- YOUTUBE:END -->
     
 </details>
