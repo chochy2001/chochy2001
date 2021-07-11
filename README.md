@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Aspectos a considerar en el análisis del algoritmo de ordenamiento](https://www.youtube.com/watch?v=aPeUaXJCpwc)
 - [Operaciones fundamentales del ordenamiento](https://www.youtube.com/watch?v=tVP8DkmODiw)
 - [Método por distribución](https://www.youtube.com/watch?v=tpz2_OtMxzo)
 - [Mezcla directa, mezcla equilibrada](https://www.youtube.com/watch?v=29_PGkNk9As)
 - [Polifase](https://www.youtube.com/watch?v=bAjFsYoYKiY)
-- [Algoritmo de ordenamiento Externo](https://www.youtube.com/watch?v=r6JijUhvcuE)
 <!-- YOUTUBE:END -->
     
 </details>
