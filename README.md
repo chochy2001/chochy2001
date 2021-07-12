@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué algoritmo es mejor bubble sort o insertion sort?](https://www.youtube.com/watch?v=rOjCS0C1y4Q)
 - [Primer Stream Después de la Operación](https://www.youtube.com/watch?v=oKUcaKLdROY)
 - [Algoritmos de n² y algoritmos estables e inestables](https://www.youtube.com/watch?v=GB-A1wTiDLE)
 - [Peor y mejor caso de los algoritmos de ordenamiento](https://www.youtube.com/watch?v=C-HLcwg_F5s)
 - [Clasificación de los algoritmos de ordenamiento](https://www.youtube.com/watch?v=plI1c_e-Hgw)
-- [Aspectos a considerar en el análisis del algoritmo de ordenamiento](https://www.youtube.com/watch?v=aPeUaXJCpwc)
 <!-- YOUTUBE:END -->
     
 </details>
