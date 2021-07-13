@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [CHOCHITOS #21 LEO FERNÁNDEZ](https://www.youtube.com/watch?v=IyTl5W0mtJI)
 - [Mejor, promedio y pero caso de los algoritmos de ordenamiento](https://www.youtube.com/watch?v=hiN4VFZtcNM)
 - [¿Cuál es mejor quick sort, merge sort o heap sort?](https://www.youtube.com/watch?v=pOwo73kAbaU)
 - [¿Qué algoritmo es mejor bubble sort o insertion sort?](https://www.youtube.com/watch?v=rOjCS0C1y4Q)
 - [Primer Stream Después de la Operación](https://www.youtube.com/watch?v=oKUcaKLdROY)
-- [Algoritmos de n² y algoritmos estables e inestables](https://www.youtube.com/watch?v=GB-A1wTiDLE)
 <!-- YOUTUBE:END -->
     
 </details>
