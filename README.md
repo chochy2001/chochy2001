@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Programas para empezar hacer DJ](https://www.youtube.com/watch?v=KMu_ayB45D8)
 - [¿Qué es un algoritmo de búsqueda?](https://www.youtube.com/watch?v=fbLSTJsxfSY)
 - [Leo Fernández](https://www.youtube.com/watch?v=D3NUu3osWh4)
 - [Algoritmos de búsqueda](https://www.youtube.com/watch?v=MJ1ps9AuxXg)
 - [CHOCHITOS #21 LEO FERNÁNDEZ](https://www.youtube.com/watch?v=IyTl5W0mtJI)
-- [Mejor, promedio y pero caso de los algoritmos de ordenamiento](https://www.youtube.com/watch?v=hiN4VFZtcNM)
 <!-- YOUTUBE:END -->
     
 </details>
