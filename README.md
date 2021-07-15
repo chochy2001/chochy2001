@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Algoritmo de búsqueda lineal](https://www.youtube.com/watch?v=OkZ4VY00N8k)
+- [Sesión de Estudio de Ingeniero en Computación de la UNAM](https://www.youtube.com/watch?v=XKGlqAtHEqA)
 - [DJ BUENO👍 VS DJ MALO 👎](https://www.youtube.com/watch?v=CerAL_uUC9Y)
 - [Búsqueda por comparación de llaves parte 1](https://www.youtube.com/watch?v=UdJ4ZthHVJY)
 - [Programas para empezar hacer DJ](https://www.youtube.com/watch?v=KMu_ayB45D8)
-- [¿Qué es un algoritmo de búsqueda?](https://www.youtube.com/watch?v=fbLSTJsxfSY)
-- [Leo Fernández](https://www.youtube.com/watch?v=D3NUu3osWh4)
 <!-- YOUTUBE:END -->
     
 </details>
