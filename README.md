@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo es un buen o mal DJ?](https://www.youtube.com/watch?v=CerAL_uUC9Y)
 - [Búsqueda por comparación de llaves parte 1](https://www.youtube.com/watch?v=UdJ4ZthHVJY)
 - [Programas para empezar hacer DJ](https://www.youtube.com/watch?v=KMu_ayB45D8)
 - [¿Qué es un algoritmo de búsqueda?](https://www.youtube.com/watch?v=fbLSTJsxfSY)
 - [Leo Fernández](https://www.youtube.com/watch?v=D3NUu3osWh4)
-- [Algoritmos de búsqueda](https://www.youtube.com/watch?v=MJ1ps9AuxXg)
 <!-- YOUTUBE:END -->
     
 </details>
