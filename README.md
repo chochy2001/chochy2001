@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Arboles](https://www.youtube.com/watch?v=Zf9dhH7j7z8)
 - [¿Cuánto gana un músico?](https://www.youtube.com/watch?v=WJglVvCMpDg)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM](https://www.youtube.com/watch?v=XKGlqAtHEqA)
 - [Algoritmo de búsqueda lineal](https://www.youtube.com/watch?v=OkZ4VY00N8k)
 - [DJ BUENO👍 VS DJ MALO 👎](https://www.youtube.com/watch?v=CerAL_uUC9Y)
-- [Búsqueda por comparación de llaves parte 1](https://www.youtube.com/watch?v=UdJ4ZthHVJY)
 <!-- YOUTUBE:END -->
     
 </details>
