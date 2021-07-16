@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales](https://www.youtube.com/watch?v=gg9j2LTWOgs)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Arboles y Ecuaciones Diferenciales](https://www.youtube.com/watch?v=Zf9dhH7j7z8)
 - [Algoritmo de búsqueda binaria](https://www.youtube.com/watch?v=atnErjspmR4)
 - [¿Cuánto gana un músico?](https://www.youtube.com/watch?v=WJglVvCMpDg)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM](https://www.youtube.com/watch?v=XKGlqAtHEqA)
-- [Algoritmo de búsqueda lineal](https://www.youtube.com/watch?v=OkZ4VY00N8k)
 <!-- YOUTUBE:END -->
     
 </details>
