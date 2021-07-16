@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo subir tus canciones a las plataformas musicales?](https://www.youtube.com/watch?v=7qQVrfrzHrs)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Ecuaciones Diferenciales Wronskiano](https://www.youtube.com/watch?v=e1YYa77cHQs)
 - [Búsqueda por comparación de llaves parte 2](https://www.youtube.com/watch?v=EhZX3SBCdtw)
 - [¿De qué se gana más de DJ o productor?](https://www.youtube.com/watch?v=PUmLKvPXxak)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales](https://www.youtube.com/watch?v=gg9j2LTWOgs)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Arboles y Ecuaciones Diferenciales](https://www.youtube.com/watch?v=Zf9dhH7j7z8)
 <!-- YOUTUBE:END -->
     
 </details>
