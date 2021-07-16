@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿De qué se gana más de DJ o productor?](https://www.youtube.com/watch?v=PUmLKvPXxak)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales](https://www.youtube.com/watch?v=gg9j2LTWOgs)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Arboles y Ecuaciones Diferenciales](https://www.youtube.com/watch?v=Zf9dhH7j7z8)
 - [Algoritmo de búsqueda binaria](https://www.youtube.com/watch?v=atnErjspmR4)
 - [¿Cuánto gana un músico?](https://www.youtube.com/watch?v=WJglVvCMpDg)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM](https://www.youtube.com/watch?v=XKGlqAtHEqA)
 <!-- YOUTUBE:END -->
     
 </details>
