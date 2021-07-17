@@ -90,10 +90,10 @@ __Cursos:__
     
 <!-- YOUTUBE:START -->
 - [Funciones Hash](https://www.youtube.com/watch?v=S35tqA1szFY)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos (A...](https://www.youtube.com/watch?v=b1e0zDXNON8)
 - [Plataformas musicales Spotify, Apple Music y iTunes ¿quién paga más?](https://www.youtube.com/watch?v=Jm2WtI6MAb4)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos](https://www.youtube.com/watch?v=r5Zv73nNEnU)
 - [Búsqueda por transformación de llaves](https://www.youtube.com/watch?v=N_RiokBenTY)
+- [¿Cómo subir tus canciones a las plataformas musicales?](https://www.youtube.com/watch?v=7qQVrfrzHrs)
 <!-- YOUTUBE:END -->
     
 </details>
