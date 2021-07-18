@@ -89,8 +89,8 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Reasignación](https://www.youtube.com/watch?v=FneNIut6YD8)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Programación Paralela](https://www.youtube.com/watch?v=Gys6mdpiDiM)
+- [Reasignación](https://www.youtube.com/watch?v=FneNIut6YD8)
 - [¿La música esta inmersa en un periodo de decadencia?](https://www.youtube.com/watch?v=EoNwnjqz6Mo)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos (A...](https://www.youtube.com/watch?v=b1e0zDXNON8)
 - [Funciones Hash](https://www.youtube.com/watch?v=S35tqA1szFY)
