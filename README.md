@@ -89,9 +89,9 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio Ingeniero en Computación / Calculo Vectorial](https://www.youtube.com/watch?v=YLwmNK9okfE)
 - [Arreglos anidados](https://www.youtube.com/watch?v=MzMSpARA80o)
 - [Escuela de Música G Martell](https://www.youtube.com/watch?v=46aSNOoOs78)
-- [Sesión de Estudio Ingeniero en Computación / Calculo Vectorial](https://www.youtube.com/watch?v=YLwmNK9okfE)
 - [Clash Royale contra seguidores / CHOCHY](https://www.youtube.com/watch?v=sF7GvMSboak)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Programación Paralela](https://www.youtube.com/watch?v=Gys6mdpiDiM)
 <!-- YOUTUBE:END -->
