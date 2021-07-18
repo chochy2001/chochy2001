@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Por qué estudiar música en G Martell?](https://www.youtube.com/watch?v=A1X7SD6Ubgw)
 - [Sesión de Estudio Ingeniero en Computación / Calculo Vectorial](https://www.youtube.com/watch?v=YLwmNK9okfE)
 - [Arreglos anidados](https://www.youtube.com/watch?v=MzMSpARA80o)
 - [Escuela de Música G Martell](https://www.youtube.com/watch?v=46aSNOoOs78)
 - [Clash Royale contra seguidores / CHOCHY](https://www.youtube.com/watch?v=sF7GvMSboak)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Programación Paralela](https://www.youtube.com/watch?v=Gys6mdpiDiM)
 <!-- YOUTUBE:END -->
     
 </details>
