@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Software Pro Tools,  Logic,  Ableton y FL Studio ¿cuál es mejor?](https://www.youtube.com/watch?v=hSjQz3ewTiE)
 - [Encadenamiento](https://www.youtube.com/watch?v=h1-oMEvW19g)
 - [¿Por qué estudiar música en G Martell?](https://www.youtube.com/watch?v=A1X7SD6Ubgw)
 - [Sesión de Estudio Ingeniero en Computación / Calculo Vectorial](https://www.youtube.com/watch?v=YLwmNK9okfE)
 - [Arreglos anidados](https://www.youtube.com/watch?v=MzMSpARA80o)
-- [Escuela de Música G Martell](https://www.youtube.com/watch?v=46aSNOoOs78)
 <!-- YOUTUBE:END -->
     
 </details>
