@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [El futuro laboral de un músico](https://www.youtube.com/watch?v=uXrBvjjzWu4)
 - [Sesión de Estudio Ingeniero en Computación / Ecuaciones Diferenciales](https://www.youtube.com/watch?v=_4nJsr0ofzI)
 - [Cuando usar reasignación por prueba cuadrática](https://www.youtube.com/watch?v=5BCLc2b36b8)
 - [Panorama de la música en México](https://www.youtube.com/watch?v=SFQhWgZXxSY)
 - [Cuando se ocupa la reasignación por prueba lineal](https://www.youtube.com/watch?v=19hGmhWqiyM)
-- [Software Pro Tools,  Logic,  Ableton y FL Studio ¿cuál es mejor?](https://www.youtube.com/watch?v=hSjQz3ewTiE)
 <!-- YOUTUBE:END -->
     
 </details>
