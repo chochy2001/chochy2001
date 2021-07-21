@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuál es el Hash más efectivo?](https://www.youtube.com/watch?v=GVU5N6ZB1P0)
 - [El artista es un ser egoísta](https://www.youtube.com/watch?v=sP8pxzebQ58)
 - [Cuando usar reasignación por doble dirección hash](https://www.youtube.com/watch?v=aXDU0aYIBHU)
 - [El futuro laboral de un músico](https://www.youtube.com/watch?v=uXrBvjjzWu4)
 - [Sesión de Estudio Ingeniero en Computación / Ecuaciones Diferenciales](https://www.youtube.com/watch?v=_4nJsr0ofzI)
-- [Cuando usar reasignación por prueba cuadrática](https://www.youtube.com/watch?v=5BCLc2b36b8)
 <!-- YOUTUBE:END -->
     
 </details>
