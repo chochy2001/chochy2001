@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Grafos](https://www.youtube.com/watch?v=4IPDsiRHx64)
 - [Sesión de Estudio Ingeniero En Computación / Programación Orientada a Objetos](https://www.youtube.com/watch?v=tE2jRCll4pg)
 - [Si algo te gusta lucha por ello](https://www.youtube.com/watch?v=lL_MmaQl0lU)
 - [Sesión de Estudio Ingeniero En Computación / Ecuaciones Diferenciales](https://www.youtube.com/watch?v=9tCIO4Tfim0)
 - [¿Cuál es el Hash más efectivo?](https://www.youtube.com/watch?v=GVU5N6ZB1P0)
-- [El artista es un ser egoísta](https://www.youtube.com/watch?v=sP8pxzebQ58)
 <!-- YOUTUBE:END -->
     
 </details>
