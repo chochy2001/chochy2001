@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudia conmigo en VIVO / Ingeniero en Computación](https://www.youtube.com/watch?v=UDYdOW0tP_g)
 - [Concepto de grafos](https://www.youtube.com/watch?v=o4-mNydaWG8)
 - [Clash Royale, si me GANAN les COPIO EL MAZO!](https://www.youtube.com/watch?v=PD5dq4NqFtM)
 - [Estructura de datos](https://www.youtube.com/watch?v=AdPKOnL65Eo)
 - [Grafos](https://www.youtube.com/watch?v=4IPDsiRHx64)
-- [Sesión de Estudio Ingeniero En Computación / Programación Orientada a Objetos](https://www.youtube.com/watch?v=tE2jRCll4pg)
 <!-- YOUTUBE:END -->
     
 </details>
