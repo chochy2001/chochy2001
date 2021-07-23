@@ -89,8 +89,8 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Clasificación de grafos](https://www.youtube.com/watch?v=0cQk2xn0ktE)
 - [ESTUDIA CONMIGO EN VIVO / Ingeniero en Computación](https://www.youtube.com/watch?v=COGu5HArbQ0)
+- [Clasificación de grafos](https://www.youtube.com/watch?v=0cQk2xn0ktE)
 - [Jugando Clash Royale con Seguidores](https://www.youtube.com/watch?v=IBM7b_DkCnc)
 - [Grafo dirigido y no dirigido](https://www.youtube.com/watch?v=IVDX8cGw1CM)
 - [Estudia conmigo en VIVO / Ingeniero en Computación](https://www.youtube.com/watch?v=UDYdOW0tP_g)
