@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando CLASH ROYALE con SEGUIDORES](https://www.youtube.com/watch?v=07MlpRl7p7I)
 - [Representación de grafos](https://www.youtube.com/watch?v=gbb2Mgvl6yk)
 - [ESTUDIA CONMIGO EN VIVO / Ingeniero en Computación](https://www.youtube.com/watch?v=COGu5HArbQ0)
 - [Clasificación de grafos](https://www.youtube.com/watch?v=0cQk2xn0ktE)
 - [Jugando Clash Royale con Seguidores](https://www.youtube.com/watch?v=IBM7b_DkCnc)
-- [Grafo dirigido y no dirigido](https://www.youtube.com/watch?v=IVDX8cGw1CM)
 <!-- YOUTUBE:END -->
     
 </details>
