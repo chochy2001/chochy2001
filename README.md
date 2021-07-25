@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [ESTUDIA CONMIGO EN VIVO / Ingenieria en Computación (Arboles)](https://www.youtube.com/watch?v=klnM60tzueI)
 - [ESTUDIA CONMIGO EN VIVO / Ingeniero en Computación (Probabilidad)](https://www.youtube.com/watch?v=qwrO4x09rww)
 - [Matriz de adyacencia, matriz de incidencia y lista de adyacencia](https://www.youtube.com/watch?v=lvOQOoMcj5I)
 - [Tipos de grafos](https://www.youtube.com/watch?v=QSEtvlGkhxE)
 - [Algoritmos sobre grafos](https://www.youtube.com/watch?v=Z6lYwIefwtA)
-- [Jugando CLASH ROYALE con SEGUIDORES](https://www.youtube.com/watch?v=07MlpRl7p7I)
 <!-- YOUTUBE:END -->
     
 </details>
