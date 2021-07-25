@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Tipos de grafos](https://www.youtube.com/watch?v=QSEtvlGkhxE)
 - [Algoritmos sobre grafos](https://www.youtube.com/watch?v=Z6lYwIefwtA)
 - [Jugando CLASH ROYALE con SEGUIDORES](https://www.youtube.com/watch?v=07MlpRl7p7I)
 - [Representación de grafos](https://www.youtube.com/watch?v=gbb2Mgvl6yk)
 - [ESTUDIA CONMIGO EN VIVO / Ingeniero en Computación](https://www.youtube.com/watch?v=COGu5HArbQ0)
-- [Clasificación de grafos](https://www.youtube.com/watch?v=0cQk2xn0ktE)
 <!-- YOUTUBE:END -->
     
 </details>
