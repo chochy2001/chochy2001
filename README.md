@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Heclop](https://www.youtube.com/watch?v=hgRhCZafFdY)
 - [Resumen de algoritmos de búsqueda](https://www.youtube.com/watch?v=c_kzpemJLUE)
 - [Otros algoritmos sobre grafos](https://www.youtube.com/watch?v=A1PQLdxRmvo)
 - [CHOCHITOS #22 HECLOP](https://www.youtube.com/watch?v=1oP2RIfAbgY)
 - [JUGANDO CLASH ROYALE CON SEGUIDORES](https://www.youtube.com/watch?v=yxV1MtFc8xQ)
-- [Recorridos BFS (Breadth First Search) y DFS (Depth First Search)](https://www.youtube.com/watch?v=SBV7WRt13dk)
 <!-- YOUTUBE:END -->
     
 </details>
