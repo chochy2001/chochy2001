@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo comenzar en la fotografía?](https://www.youtube.com/watch?v=YxkcC7CAcjM)
 - [Resumen de algoritmos sobre grafos](https://www.youtube.com/watch?v=n36hMMSu24g)
 - [Heclop](https://www.youtube.com/watch?v=hgRhCZafFdY)
 - [Resumen de algoritmos de búsqueda](https://www.youtube.com/watch?v=c_kzpemJLUE)
 - [Otros algoritmos sobre grafos](https://www.youtube.com/watch?v=A1PQLdxRmvo)
-- [CHOCHITOS #22 HECLOP](https://www.youtube.com/watch?v=1oP2RIfAbgY)
 <!-- YOUTUBE:END -->
     
 </details>
