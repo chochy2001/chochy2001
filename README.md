@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué tipo de fotos funcionan en redes sociales?](https://www.youtube.com/watch?v=m5ZPsfm4bsg)
 - [¿Cómo comenzar en la fotografía?](https://www.youtube.com/watch?v=YxkcC7CAcjM)
 - [Resumen de algoritmos sobre grafos](https://www.youtube.com/watch?v=n36hMMSu24g)
 - [Heclop](https://www.youtube.com/watch?v=hgRhCZafFdY)
 - [Resumen de algoritmos de búsqueda](https://www.youtube.com/watch?v=c_kzpemJLUE)
-- [Otros algoritmos sobre grafos](https://www.youtube.com/watch?v=A1PQLdxRmvo)
 <!-- YOUTUBE:END -->
     
 </details>
