@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Por qué motivo cambiar de carrera universitaria?](https://www.youtube.com/watch?v=TSmM8W2PpvE)
 - [¿Qué tipo de fotos funcionan en redes sociales?](https://www.youtube.com/watch?v=m5ZPsfm4bsg)
 - [¿Cómo comenzar en la fotografía?](https://www.youtube.com/watch?v=YxkcC7CAcjM)
 - [Resumen de algoritmos sobre grafos](https://www.youtube.com/watch?v=n36hMMSu24g)
 - [Heclop](https://www.youtube.com/watch?v=hgRhCZafFdY)
-- [Resumen de algoritmos de búsqueda](https://www.youtube.com/watch?v=c_kzpemJLUE)
 <!-- YOUTUBE:END -->
     
 </details>
