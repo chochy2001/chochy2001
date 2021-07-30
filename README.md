@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué es una sesión de fotos boudoir?](https://www.youtube.com/watch?v=oW0yi0p4DuI)
 - [Qué comprar para comenzar hacer fotógrafo](https://www.youtube.com/watch?v=YEgd4v3U7EE)
 - [Qué programas utilizar para foto](https://www.youtube.com/watch?v=4ugRk3B-11Q)
 - [¿Cómo conseguir modelos para fotografía?](https://www.youtube.com/watch?v=7LIAbyiysFA)
 - [¿Por qué motivo cambiar de carrera universitaria?](https://www.youtube.com/watch?v=TSmM8W2PpvE)
-- [¿Qué tipo de fotos funcionan en redes sociales?](https://www.youtube.com/watch?v=m5ZPsfm4bsg)
 <!-- YOUTUBE:END -->
     
 </details>
