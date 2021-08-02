@@ -89,7 +89,7 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Explicacion Algoritmo Gauss Seidel version Paralela y secuencial](https://www.youtube.com/watch?v=4Zdz9GkMykc)
+- [Explicacion Algoritmo Gauss Seidel versión Paralela y Secuencial](https://www.youtube.com/watch?v=4Zdz9GkMykc)
 - [¿Se puede vivir de la fotografía?](https://www.youtube.com/watch?v=sPBfIBbImEA)
 - [¿Qué es OnlyFans y cómo funciona?](https://www.youtube.com/watch?v=eC2LZjn_Eds)
 - [Ser novia de un fotógrafo...](https://www.youtube.com/watch?v=oJ8jRMHi9a0)
