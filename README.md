@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Explicacion Algoritmo Gauss Seidel version Paralela y secuencial](https://www.youtube.com/watch?v=4Zdz9GkMykc)
 - [¿Se puede vivir de la fotografía?](https://www.youtube.com/watch?v=sPBfIBbImEA)
 - [¿Qué es OnlyFans y cómo funciona?](https://www.youtube.com/watch?v=eC2LZjn_Eds)
 - [Ser novia de un fotógrafo...](https://www.youtube.com/watch?v=oJ8jRMHi9a0)
 - [Expectativa vs realidad en las fotos](https://www.youtube.com/watch?v=3_4JBr4zAfY)
-- [¿Qué es una sesión de fotos boudoir?](https://www.youtube.com/watch?v=oW0yi0p4DuI)
 <!-- YOUTUBE:END -->
     
 </details>
