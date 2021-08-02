@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Ser autodidacta o estudiar en escuela fotografía](https://www.youtube.com/watch?v=F9oFtWGHm9g)
 - [Explicacion Algoritmo Gauss Seidel versión Paralela y Secuencial](https://www.youtube.com/watch?v=4Zdz9GkMykc)
 - [¿Se puede vivir de la fotografía?](https://www.youtube.com/watch?v=sPBfIBbImEA)
 - [¿Qué es OnlyFans y cómo funciona?](https://www.youtube.com/watch?v=eC2LZjn_Eds)
 - [Ser novia de un fotógrafo...](https://www.youtube.com/watch?v=oJ8jRMHi9a0)
-- [Expectativa vs realidad en las fotos](https://www.youtube.com/watch?v=3_4JBr4zAfY)
 <!-- YOUTUBE:END -->
     
 </details>
