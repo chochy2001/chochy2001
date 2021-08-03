@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Ser profesional en tu trabajo](https://www.youtube.com/watch?v=ERLd6qbLj_I)
 - [Tipos de modelos y sus trabajos](https://www.youtube.com/watch?v=8QwIa_c9x4I)
 - [Ser autodidacta o estudiar en escuela fotografía](https://www.youtube.com/watch?v=F9oFtWGHm9g)
 - [Explicacion Algoritmo Gauss Seidel versión Paralela y Secuencial](https://www.youtube.com/watch?v=4Zdz9GkMykc)
 - [¿Se puede vivir de la fotografía?](https://www.youtube.com/watch?v=sPBfIBbImEA)
-- [¿Qué es OnlyFans y cómo funciona?](https://www.youtube.com/watch?v=eC2LZjn_Eds)
 <!-- YOUTUBE:END -->
     
 </details>
