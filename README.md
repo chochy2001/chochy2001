@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Programando en VIVO / Simulación Terminal Linux en Java](https://www.youtube.com/watch?v=cscqskVS5Fg)
-- [Aprende a Programar](https://www.youtube.com/watch?v=PArKFpTalVM)
-- [Resolvemos dudas de programación](https://www.youtube.com/watch?v=M7hf1wtPf_o)
-- [¿Cómo identificar a un mal fotógrafo?](https://www.youtube.com/watch?v=mW0uMaOjWDc)
-- [Programando en VIVO / Simulación Terminal Linux en Java](https://www.youtube.com/watch?v=fAMK8WsEFlE)
+- [Podcast Hendrick Ortega](https://www.youtube.com/watch?v=vJ1magUSJFg)
+- [Cuanto cuesta estudiar en el Tec de Monterrey](https://www.youtube.com/watch?v=_zobYCAfJmE)
+- [Ingeniería en Producción Musical](https://www.youtube.com/watch?v=XBq2-Eh7LKc)
+- [Equipo para hacer música](https://www.youtube.com/watch?v=dCmH8emii44)
+- [Sigan creando](https://www.youtube.com/watch?v=cl8_NjXyD8E)
 <!-- YOUTUBE:END -->
     
 </details>
