@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Podcast Hendrick Ortega](https://www.youtube.com/watch?v=vJ1magUSJFg)
-- [Cuanto cuesta estudiar en el Tec de Monterrey](https://www.youtube.com/watch?v=_zobYCAfJmE)
-- [Ingeniería en Producción Musical](https://www.youtube.com/watch?v=XBq2-Eh7LKc)
-- [Equipo para hacer música](https://www.youtube.com/watch?v=dCmH8emii44)
-- [Sigan creando](https://www.youtube.com/watch?v=cl8_NjXyD8E)
+- [Como estudiar correctamente ✅](https://www.youtube.com/watch?v=0zcZs24WNnQ)
+- [Podcast Fer Chavez](https://www.youtube.com/watch?v=FceJnIHBRno)
+- [Podcast Eddy Vega](https://www.youtube.com/watch?v=I4BeKVEYm7k)
+- [No estudies biología](https://www.youtube.com/watch?v=1phAYIw60ic)
+- [Los hobbies que debes tener](https://www.youtube.com/watch?v=LcsLYMQRlxA)
 <!-- YOUTUBE:END -->
     
 </details>
