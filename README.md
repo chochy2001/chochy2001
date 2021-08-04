@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [La constancia: virtud que logra metas](https://www.youtube.com/watch?v=qR2MPaVguiY)
 - [Como estudiar correctamente ✅](https://www.youtube.com/watch?v=0zcZs24WNnQ)
 - [Podcast Fer Chavez](https://www.youtube.com/watch?v=FceJnIHBRno)
 - [Podcast Eddy Vega](https://www.youtube.com/watch?v=I4BeKVEYm7k)
 - [No estudies biología](https://www.youtube.com/watch?v=1phAYIw60ic)
-- [Los hobbies que debes tener](https://www.youtube.com/watch?v=LcsLYMQRlxA)
 <!-- YOUTUBE:END -->
     
 </details>
