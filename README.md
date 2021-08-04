@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Programando en VIVO / Simulación Terminal Linux en Java](https://www.youtube.com/watch?v=cscqskVS5Fg)
 - [¿Cómo identificar a un mal fotógrafo?](https://www.youtube.com/watch?v=mW0uMaOjWDc)
 - [Programando en VIVO / Simulación Terminal Linux en Java](https://www.youtube.com/watch?v=fAMK8WsEFlE)
 - [Ser profesional en tu trabajo](https://www.youtube.com/watch?v=ERLd6qbLj_I)
 - [Tipos de modelos y sus trabajos](https://www.youtube.com/watch?v=8QwIa_c9x4I)
-- [Ser autodidacta o estudiar en escuela fotografía](https://www.youtube.com/watch?v=F9oFtWGHm9g)
 <!-- YOUTUBE:END -->
     
 </details>
