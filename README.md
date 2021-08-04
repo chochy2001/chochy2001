@@ -90,10 +90,10 @@ __Cursos:__
     
 <!-- YOUTUBE:START -->
 - [Programando en VIVO / Simulación Terminal Linux en Java](https://www.youtube.com/watch?v=cscqskVS5Fg)
+- [Aprende a Programar](https://www.youtube.com/watch?v=PArKFpTalVM)
+- [Resolvemos dudas de programación](https://www.youtube.com/watch?v=M7hf1wtPf_o)
 - [¿Cómo identificar a un mal fotógrafo?](https://www.youtube.com/watch?v=mW0uMaOjWDc)
 - [Programando en VIVO / Simulación Terminal Linux en Java](https://www.youtube.com/watch?v=fAMK8WsEFlE)
-- [Ser profesional en tu trabajo](https://www.youtube.com/watch?v=ERLd6qbLj_I)
-- [Tipos de modelos y sus trabajos](https://www.youtube.com/watch?v=8QwIa_c9x4I)
 <!-- YOUTUBE:END -->
     
 </details>
