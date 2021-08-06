@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Ful](https://www.youtube.com/watch?v=LWbuNqeabvA)
 - [CHOCHITOS #23 FUL](https://www.youtube.com/watch?v=uAyxd0rmBCU)
 - [La constancia: virtud que logra metas](https://www.youtube.com/watch?v=qR2MPaVguiY)
 - [Como estudiar correctamente ✅](https://www.youtube.com/watch?v=0zcZs24WNnQ)
 - [Podcast Fer Chavez](https://www.youtube.com/watch?v=FceJnIHBRno)
-- [Podcast Eddy Vega](https://www.youtube.com/watch?v=I4BeKVEYm7k)
 <!-- YOUTUBE:END -->
     
 </details>
