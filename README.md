@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Vale la pena estudiar una carrera en México?](https://www.youtube.com/watch?v=o0fMORT9UoM)
 - [Empezando a jugar en Clash Royale partidas ganadas parte 2](https://www.youtube.com/watch?v=Rtr-RzPf_lQ)
 - [¿Qué es la economía y las finanzas?](https://www.youtube.com/watch?v=4Yhg7GHTads)
 - [Empezando a jugar Clash Royale partidas ganadas parte 1](https://www.youtube.com/watch?v=Ugp0e2DlDIw)
 - [Ful](https://www.youtube.com/watch?v=LWbuNqeabvA)
-- [CHOCHITOS #23 FUL](https://www.youtube.com/watch?v=uAyxd0rmBCU)
 <!-- YOUTUBE:END -->
     
 </details>
