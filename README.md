@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué pasa si no estudió en la universidad?](https://www.youtube.com/watch?v=uJrIB4IMeuw)
 - [Empezando a jugar en Clash Royale partidas ganadas parte 3](https://www.youtube.com/watch?v=9qTRI8ggsps)
 - [¿Vale la pena estudiar una carrera en México?](https://www.youtube.com/watch?v=o0fMORT9UoM)
 - [Empezando a jugar en Clash Royale partidas ganadas parte 2](https://www.youtube.com/watch?v=Rtr-RzPf_lQ)
 - [¿Qué es la economía y las finanzas?](https://www.youtube.com/watch?v=4Yhg7GHTads)
-- [Empezando a jugar Clash Royale partidas ganadas parte 1](https://www.youtube.com/watch?v=Ugp0e2DlDIw)
 <!-- YOUTUBE:END -->
     
 </details>
