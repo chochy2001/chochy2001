@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué hacer si tu carrera no te gusta?](https://www.youtube.com/watch?v=J3i6ghnN1KA)
 - [Jugando con el mazo más barato en clash royale 1](https://www.youtube.com/watch?v=9KyxPP1XWUY)
 - [¿Es bueno o malo compararse con los demás?](https://www.youtube.com/watch?v=-hdB507AhSE)
 - [¿Cómo encontrar las oportunidades?](https://www.youtube.com/watch?v=p5zpzCn1UlI)
 - [¿Cómo trabajar en ti  para poder obtener resultados?](https://www.youtube.com/watch?v=c4jKrKoO2Z4)
-- [¿Qué pasa si no estudió en la universidad?](https://www.youtube.com/watch?v=uJrIB4IMeuw)
 <!-- YOUTUBE:END -->
     
 </details>
