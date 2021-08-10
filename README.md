@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué son las habilidades transversales?](https://www.youtube.com/watch?v=bo-uh_mvqqo)
 - [Jugando con el mazo más barato en clash royale 2](https://www.youtube.com/watch?v=e2lSld4u-FY)
 - [¿Qué hacer si tu carrera no te gusta?](https://www.youtube.com/watch?v=J3i6ghnN1KA)
 - [Jugando con el mazo más barato en clash royale 1](https://www.youtube.com/watch?v=9KyxPP1XWUY)
 - [¿Es bueno o malo compararse con los demás?](https://www.youtube.com/watch?v=-hdB507AhSE)
-- [¿Cómo encontrar las oportunidades?](https://www.youtube.com/watch?v=p5zpzCn1UlI)
 <!-- YOUTUBE:END -->
     
 </details>
