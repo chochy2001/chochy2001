@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Expectativas vs realidad de canadá](https://www.youtube.com/watch?v=aNGoNCyEffA)
 - [Jugando con el mazo más barato en clash royale 5](https://www.youtube.com/watch?v=DPqTlMMZ77A)
 - [México vs Canadá](https://www.youtube.com/watch?v=Nm05IT3WHQQ)
 - [Jugando con el mazo más barato en clash royale 4](https://www.youtube.com/watch?v=1v_jAAlQQTA)
 - [Beneficios y cultura en Canadá](https://www.youtube.com/watch?v=c4f-VPVVmZE)
-- [Jugando con el mazo más barato en clash royale 3](https://www.youtube.com/watch?v=oj-CyB0UGkA)
 <!-- YOUTUBE:END -->
     
 </details>
