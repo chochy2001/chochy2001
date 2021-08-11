@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [México vs Canadá](https://www.youtube.com/watch?v=Nm05IT3WHQQ)
 - [Jugando con el mazo más barato en clash royale 4](https://www.youtube.com/watch?v=1v_jAAlQQTA)
 - [Beneficios y cultura en Canadá](https://www.youtube.com/watch?v=c4f-VPVVmZE)
 - [Jugando con el mazo más barato en clash royale 3](https://www.youtube.com/watch?v=oj-CyB0UGkA)
 - [¿Qué son las habilidades transversales?](https://www.youtube.com/watch?v=bo-uh_mvqqo)
-- [Jugando con el mazo más barato en clash royale 2](https://www.youtube.com/watch?v=e2lSld4u-FY)
 <!-- YOUTUBE:END -->
     
 </details>
