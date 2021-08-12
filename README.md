@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Requisitos para poder ir a vivir a Canadá](https://www.youtube.com/watch?v=WyVvvo3InHk)
 - [Regresando a CLASH ROYALE](https://www.youtube.com/watch?v=GUg4PXA2MFY)
 - [Consejos para mejorar tu stream](https://www.youtube.com/watch?v=klAYIl23w60)
 - [Jugando con suscriptores Clash Royale Parte 1](https://www.youtube.com/watch?v=g_NpS_a783k)
 - [Expectativas vs realidad de canadá](https://www.youtube.com/watch?v=aNGoNCyEffA)
-- [Jugando con el mazo más barato en clash royale 5](https://www.youtube.com/watch?v=DPqTlMMZ77A)
 <!-- YOUTUBE:END -->
     
 </details>
