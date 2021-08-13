@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando con suscriptores Clash Royale Parte 3](https://www.youtube.com/watch?v=kH3Se59pRVQ)
 - [Cómo planificar tu vida](https://www.youtube.com/watch?v=tvrcPvEmGIw)
 - [Jugando con suscriptores Clash Royale Parte 2](https://www.youtube.com/watch?v=ulMHmpJyFA8)
 - [Requisitos para poder ir a vivir a Canadá](https://www.youtube.com/watch?v=WyVvvo3InHk)
 - [Regresando a CLASH ROYALE](https://www.youtube.com/watch?v=GUg4PXA2MFY)
-- [Consejos para mejorar tu stream](https://www.youtube.com/watch?v=klAYIl23w60)
 <!-- YOUTUBE:END -->
     
 </details>
