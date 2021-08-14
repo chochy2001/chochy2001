@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Certificación para entrenadores de box](https://www.youtube.com/watch?v=47ZwJ7Ou0mQ)
 - [Mejorando el stream de Clash Royale Parte 2](https://www.youtube.com/watch?v=meqjT65FZGo)
 - [Pavel Franco](https://www.youtube.com/watch?v=Hnj7CX0HwOY)
 - [Mejorando el stream de Clash Royale Parte 1](https://www.youtube.com/watch?v=ayUgtoQLEp0)
 - [Jugando con suscriptores Clash Royale Parte 4](https://www.youtube.com/watch?v=crxsv1xMnPI)
-- [CHOCHITOS #24 PAVEL FRANCO](https://www.youtube.com/watch?v=B18pQqFmw_o)
 <!-- YOUTUBE:END -->
     
 </details>
