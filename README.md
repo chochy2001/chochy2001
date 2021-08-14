@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Mejorando el stream de Clash Royale Parte 1](https://www.youtube.com/watch?v=ayUgtoQLEp0)
 - [Jugando con suscriptores Clash Royale Parte 4](https://www.youtube.com/watch?v=crxsv1xMnPI)
 - [CHOCHITOS #24 PAVEL FRANCO](https://www.youtube.com/watch?v=B18pQqFmw_o)
 - [Jugando con suscriptores Clash Royale Parte 3](https://www.youtube.com/watch?v=kH3Se59pRVQ)
 - [Cómo planificar tu vida](https://www.youtube.com/watch?v=tvrcPvEmGIw)
-- [Jugando con suscriptores Clash Royale Parte 2](https://www.youtube.com/watch?v=ulMHmpJyFA8)
 <!-- YOUTUBE:END -->
     
 </details>
