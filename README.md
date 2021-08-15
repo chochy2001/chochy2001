@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Es necesario tener un certificado en boxeo, para ser entrenador?](https://www.youtube.com/watch?v=FOHkRsi8wuY)
 - [Mejorando el stream de Clash Royale Parte 3](https://www.youtube.com/watch?v=w9DM4MfwGFw)
 - [Certificación para entrenadores de box](https://www.youtube.com/watch?v=47ZwJ7Ou0mQ)
 - [Mejorando el stream de Clash Royale Parte 2](https://www.youtube.com/watch?v=meqjT65FZGo)
 - [Pavel Franco](https://www.youtube.com/watch?v=Hnj7CX0HwOY)
-- [Mejorando el stream de Clash Royale Parte 1](https://www.youtube.com/watch?v=ayUgtoQLEp0)
 <!-- YOUTUBE:END -->
     
 </details>
