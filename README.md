@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Mejorando el stream de Clash Royale Parte 5](https://www.youtube.com/watch?v=c6zETlXDn6U)
 - [¿Qué significa ser un entrenador nivel 12?](https://www.youtube.com/watch?v=zCjsYleKRMs)
 - [Mejorando el stream de Clash Royale Parte 4](https://www.youtube.com/watch?v=pQuya3D5BKw)
 - [¿Es necesario tener un certificado en boxeo, para ser entrenador?](https://www.youtube.com/watch?v=FOHkRsi8wuY)
 - [Mejorando el stream de Clash Royale Parte 3](https://www.youtube.com/watch?v=w9DM4MfwGFw)
-- [Certificación para entrenadores de box](https://www.youtube.com/watch?v=47ZwJ7Ou0mQ)
 <!-- YOUTUBE:END -->
     
 </details>
