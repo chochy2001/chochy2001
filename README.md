@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Mejorando el stream de Clash Royale Parte 6](https://www.youtube.com/watch?v=JkPnOxVsOgM)
 - [Estudiando programacion en Golang](https://www.youtube.com/watch?v=ZMWsuyYm0oI)
 - [¿Cómo ser un buen entrenador de boxeo?](https://www.youtube.com/watch?v=YxbKFCtBVfI)
 - [Mejorando el stream de Clash Royale Parte 5](https://www.youtube.com/watch?v=c6zETlXDn6U)
 - [¿Qué significa ser un entrenador nivel 12?](https://www.youtube.com/watch?v=zCjsYleKRMs)
-- [Mejorando el stream de Clash Royale Parte 4](https://www.youtube.com/watch?v=pQuya3D5BKw)
 <!-- YOUTUBE:END -->
     
 </details>
