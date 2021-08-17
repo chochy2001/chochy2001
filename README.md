@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Tipos de artes marciales](https://www.youtube.com/watch?v=4QvjOFVYk_I)
 - [Mejorando el stream de Clash Royale Parte 7](https://www.youtube.com/watch?v=X32EtqIUE3o)
 - [Cómo mantener tu cuerpo en forma](https://www.youtube.com/watch?v=fgo9DXvHFHg)
 - [Mejorando el stream de Clash Royale Parte 6](https://www.youtube.com/watch?v=JkPnOxVsOgM)
 - [Estudiando programacion en Golang](https://www.youtube.com/watch?v=ZMWsuyYm0oI)
-- [¿Cómo ser un buen entrenador de boxeo?](https://www.youtube.com/watch?v=YxbKFCtBVfI)
 <!-- YOUTUBE:END -->
     
 </details>
