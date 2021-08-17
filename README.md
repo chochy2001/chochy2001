@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Mejorando el stream de Clash Royale Parte 8](https://www.youtube.com/watch?v=A6_vG9lih_Y)
 - [Estudiando programacion en Golang](https://www.youtube.com/watch?v=rMs6AaSK-1g)
 - [Tipos de artes marciales](https://www.youtube.com/watch?v=4QvjOFVYk_I)
 - [Mejorando el stream de Clash Royale Parte 7](https://www.youtube.com/watch?v=X32EtqIUE3o)
 - [Cómo mantener tu cuerpo en forma](https://www.youtube.com/watch?v=fgo9DXvHFHg)
-- [Mejorando el stream de Clash Royale Parte 6](https://www.youtube.com/watch?v=JkPnOxVsOgM)
 <!-- YOUTUBE:END -->
     
 </details>
