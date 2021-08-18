@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Mejorando el stream de Clash Royale Parte 9](https://www.youtube.com/watch?v=OznHD6pWFAI)
 - [Estudiando programacion en Golang](https://www.youtube.com/watch?v=YXRIZwNCKWM)
 - [Estudiando programacion en Golang](https://www.youtube.com/watch?v=H226WyJ5N3M)
 - [Box vs karate](https://www.youtube.com/watch?v=ESSNWJsbrD4)
 - [Mejorando el stream de Clash Royale Parte 8](https://www.youtube.com/watch?v=A6_vG9lih_Y)
-- [Estudiando programacion en Golang](https://www.youtube.com/watch?v=rMs6AaSK-1g)
 <!-- YOUTUBE:END -->
     
 </details>
