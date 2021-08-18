@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Rutina de boxeo](https://www.youtube.com/watch?v=Wh08lccsHpE)
 - [Mejorando el stream de Clash Royale Parte 10](https://www.youtube.com/watch?v=Pzl6lSJ6_uU)
 - [Entrenamiento personal, clase de boxeo](https://www.youtube.com/watch?v=LSVgAZcx2R8)
 - [Mejorando el stream de Clash Royale Parte 9](https://www.youtube.com/watch?v=OznHD6pWFAI)
 - [Estudiando programacion en Golang](https://www.youtube.com/watch?v=YXRIZwNCKWM)
-- [Estudiando programacion en Golang](https://www.youtube.com/watch?v=H226WyJ5N3M)
 <!-- YOUTUBE:END -->
     
 </details>
