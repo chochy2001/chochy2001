@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Quién entrena a un entrenador?](https://www.youtube.com/watch?v=Sag_f3gdM0A)
 - [Estudiando Programación en Golang (Funciones)](https://www.youtube.com/watch?v=-sHV8n6B80Y)
 - [Estudiando Programación en Golang](https://www.youtube.com/watch?v=UWLgZk0SCwc)
 - [Primer stream después de la operación](https://www.youtube.com/watch?v=_kNldUAWLuQ)
 - [Rutina de boxeo](https://www.youtube.com/watch?v=Wh08lccsHpE)
-- [Mejorando el stream de Clash Royale Parte 10](https://www.youtube.com/watch?v=Pzl6lSJ6_uU)
 <!-- YOUTUBE:END -->
     
 </details>
