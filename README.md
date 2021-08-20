@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio de Ingeniero en Computación de la UNAM Parte2](https://www.youtube.com/watch?v=QRa6obBzY1M)
 - [Estudios de educación](https://www.youtube.com/watch?v=Gte0S8ExRz8)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM Parte 1](https://www.youtube.com/watch?v=nEfdujnFpp0)
 - [Estudiando Programación en Golang (Funciones)](https://www.youtube.com/watch?v=-sHV8n6B80Y)
 - [¿Quién entrena a un entrenador?](https://www.youtube.com/watch?v=Sag_f3gdM0A)
-- [Estudiando Programación en Golang](https://www.youtube.com/watch?v=UWLgZk0SCwc)
 <!-- YOUTUBE:END -->
     
 </details>
