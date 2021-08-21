@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Árboles y Ecuaciones Diferenciales Parte 2](https://www.youtube.com/watch?v=G8hxDyMQ2Tw)
 - [Horas de entrenamiento en el boxeo](https://www.youtube.com/watch?v=jTvi9mdrkIw)
 - [Árboles y Ecuaciones Diferenciales Parte 1](https://www.youtube.com/watch?v=yOuHMHlsNLE)
 - [¿Qué es un sueño guajiro?](https://www.youtube.com/watch?v=5jPxWGn9MJw)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM Parte3](https://www.youtube.com/watch?v=LMiEUH0tqL0)
-- [¿Cuánto gana un entrenador de boxeo?](https://www.youtube.com/watch?v=5MEXdOJ39eA)
 <!-- YOUTUBE:END -->
     
 </details>
