@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Artículos básicos para ser entrenador de boxeo](https://www.youtube.com/watch?v=_DjP9z-k1nY)
 - [Árboles y Ecuaciones Diferenciales Parte 2](https://www.youtube.com/watch?v=G8hxDyMQ2Tw)
 - [Horas de entrenamiento en el boxeo](https://www.youtube.com/watch?v=jTvi9mdrkIw)
 - [Árboles y Ecuaciones Diferenciales Parte 1](https://www.youtube.com/watch?v=yOuHMHlsNLE)
 - [¿Qué es un sueño guajiro?](https://www.youtube.com/watch?v=5jPxWGn9MJw)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM Parte3](https://www.youtube.com/watch?v=LMiEUH0tqL0)
 <!-- YOUTUBE:END -->
     
 </details>
