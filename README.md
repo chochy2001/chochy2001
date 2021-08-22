@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Árboles y Ecuaciones Diferenciales Parte 4](https://www.youtube.com/watch?v=hW6YtWcegG8)
 - [¿Cómo ser  bueno en el box?](https://www.youtube.com/watch?v=vgUW9XTnb7A)
 - [Árboles y Ecuaciones Diferenciales Parte 3](https://www.youtube.com/watch?v=3LXC68tlj0g)
 - [Artículos básicos para ser entrenador de boxeo](https://www.youtube.com/watch?v=_DjP9z-k1nY)
 - [Árboles y Ecuaciones Diferenciales Parte 2](https://www.youtube.com/watch?v=G8hxDyMQ2Tw)
-- [Horas de entrenamiento en el boxeo](https://www.youtube.com/watch?v=jTvi9mdrkIw)
 <!-- YOUTUBE:END -->
     
 </details>
