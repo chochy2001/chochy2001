@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Tatuajes significativos](https://www.youtube.com/watch?v=YHlLZg8KdQE)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales Parte 1](https://www.youtube.com/watch?v=GXjJf2CxMFQ)
 - [¿Un boxeador puede pelearse en la calle?](https://www.youtube.com/watch?v=aOQSXW0LoGE)
 - [Árboles y Ecuaciones Diferenciales Parte 4](https://www.youtube.com/watch?v=hW6YtWcegG8)
 - [¿Cómo ser  bueno en el box?](https://www.youtube.com/watch?v=vgUW9XTnb7A)
-- [Árboles y Ecuaciones Diferenciales Parte 3](https://www.youtube.com/watch?v=3LXC68tlj0g)
 <!-- YOUTUBE:END -->
     
 </details>
