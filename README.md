@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Artzz club escuela de boxeo](https://www.youtube.com/watch?v=J_tfurFXDvU)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales Parte 3](https://www.youtube.com/watch?v=cm4RUjDMSVQ)
 - [¿Qué es un nocauts?](https://www.youtube.com/watch?v=y2IW5vYnoLw)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales Parte 2](https://www.youtube.com/watch?v=W3lXdTQZQiY)
 - [Tatuajes significativos](https://www.youtube.com/watch?v=YHlLZg8KdQE)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales Parte 1](https://www.youtube.com/watch?v=GXjJf2CxMFQ)
 <!-- YOUTUBE:END -->
     
 </details>
