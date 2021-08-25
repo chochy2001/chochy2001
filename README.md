@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [CHOCHITOS #25 KARLA ESPIRITU](https://www.youtube.com/watch?v=2A8ioCmjqC0)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales Parte 5](https://www.youtube.com/watch?v=FU-xXoTffOs)
 - [Descubrir tus talentos](https://www.youtube.com/watch?v=elZvFyPoLmE)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales Parte 4](https://www.youtube.com/watch?v=c5LpR7Xk5Y8)
 - [Artzz club escuela de boxeo](https://www.youtube.com/watch?v=J_tfurFXDvU)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM /Ecuaciones Diferenciales Parte 3](https://www.youtube.com/watch?v=cm4RUjDMSVQ)
 <!-- YOUTUBE:END -->
     
 </details>
