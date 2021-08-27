@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Ecuaciones Diferenciales Wronskiano 3](https://www.youtube.com/watch?v=Zfr8NwQZcC4)
 - [Diferencia entre una agencia y una academia](https://www.youtube.com/watch?v=BRJ6ftXnp1c)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Ecuaciones Diferenciales Wronskiano 2](https://www.youtube.com/watch?v=6o-lyRIPbGo)
 - [Inicios en el modelaje](https://www.youtube.com/watch?v=bptrIw4dgp8)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Ecuaciones Diferenciales Wronskiano 1](https://www.youtube.com/watch?v=sCJ7koo8lxs)
-- [Karla Espiritu](https://www.youtube.com/watch?v=9FZUm-E8hBw)
 <!-- YOUTUBE:END -->
     
 </details>
