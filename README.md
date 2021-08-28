@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Ser plástico](https://www.youtube.com/watch?v=Sksbxf0NPAw)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos Parte 2](https://www.youtube.com/watch?v=R-15kzAkynM)
 - [La familia y el modelaje](https://www.youtube.com/watch?v=W5MTnpVVOKc)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos Parte1](https://www.youtube.com/watch?v=Q70XGS_pFME)
 - [¿Qué debo hacer, si quiero ser modelo?](https://www.youtube.com/watch?v=L6WlWaNOrNE)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Ecuaciones Diferenciales Wronskiano 3](https://www.youtube.com/watch?v=Zfr8NwQZcC4)
 <!-- YOUTUBE:END -->
     
 </details>
