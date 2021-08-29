@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Problemas alimenticios](https://www.youtube.com/watch?v=E4VgljybW5s)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos 2 (2)](https://www.youtube.com/watch?v=xEPD9JOXJdQ)
 - [¿Qué necesito para  entrar a una agencia de modelaje?](https://www.youtube.com/watch?v=8--RntX5hic)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos 2 (1)](https://www.youtube.com/watch?v=txtb4KHp7zM)
 - [Ser plástico](https://www.youtube.com/watch?v=Sksbxf0NPAw)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos Parte 2](https://www.youtube.com/watch?v=R-15kzAkynM)
 <!-- YOUTUBE:END -->
     
 </details>
