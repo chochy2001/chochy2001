@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos 2 (4)](https://www.youtube.com/watch?v=NWXgcxmfm9c)
 - [¿Como es un casting?](https://www.youtube.com/watch?v=-zntzphwhcs)
 - [Estudiando Programación en Golang (Funciones)](https://www.youtube.com/watch?v=6GcTjb_69M8)
 - [Problemas alimenticios](https://www.youtube.com/watch?v=E4VgljybW5s)
 - [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos 2 (2)](https://www.youtube.com/watch?v=xEPD9JOXJdQ)
-- [¿Qué necesito para  entrar a una agencia de modelaje?](https://www.youtube.com/watch?v=8--RntX5hic)
 <!-- YOUTUBE:END -->
     
 </details>
