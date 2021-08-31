@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Cirugías plásticas de una modelo](https://www.youtube.com/watch?v=gxqJWYzDBlA)
 - [Formulae Math Versión en Ingles (Flutter Programming)](https://www.youtube.com/watch?v=343klC_dU6g)
 - [¿Qué inseguridades tiene una modelo?](https://www.youtube.com/watch?v=EflNDNL34yk)
 - [Estudiando Programación en Golang (Funciones)](https://www.youtube.com/watch?v=G3TUKqSntnU)
 - [¿Qué estudia un modelo?](https://www.youtube.com/watch?v=fnL_xq4uIYg)
-- [Sesión de Estudio de Ingeniero en Computación de la UNAM / Estructuras de Datos y Algoritmos 2 (4)](https://www.youtube.com/watch?v=NWXgcxmfm9c)
 <!-- YOUTUBE:END -->
     
 </details>
