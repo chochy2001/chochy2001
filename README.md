@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudianfo programacion en Go (Golang) Apuntadores](https://www.youtube.com/watch?v=6wmZna-cghQ)
 - [Cirugías plásticas de una modelo](https://www.youtube.com/watch?v=gxqJWYzDBlA)
 - [Formulae Math Versión en Ingles (Flutter Programming)](https://www.youtube.com/watch?v=343klC_dU6g)
 - [¿Qué inseguridades tiene una modelo?](https://www.youtube.com/watch?v=EflNDNL34yk)
 - [Estudiando Programación en Golang (Funciones)](https://www.youtube.com/watch?v=G3TUKqSntnU)
-- [¿Qué estudia un modelo?](https://www.youtube.com/watch?v=fnL_xq4uIYg)
 <!-- YOUTUBE:END -->
     
 </details>
