@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Proceso para colaboraciones con fotógrafos](https://www.youtube.com/watch?v=YVNC0qd_1X4)
 - [Formulae Math Pro English Version (Flutter Programming)](https://www.youtube.com/watch?v=VtYV0rJ_eyg)
 - [Estudiando programacion en Go (Golang) Apuntadores](https://www.youtube.com/watch?v=6wmZna-cghQ)
 - [La pandemia y el modelaje](https://www.youtube.com/watch?v=UBt--tMLUYg)
 - [Cirugías plásticas de una modelo](https://www.youtube.com/watch?v=gxqJWYzDBlA)
-- [Formulae Math Versión en Ingles (Flutter Programming)](https://www.youtube.com/watch?v=343klC_dU6g)
 <!-- YOUTUBE:END -->
     
 </details>
