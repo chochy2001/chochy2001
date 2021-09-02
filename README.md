@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Diferentes trabajos para modelos](https://www.youtube.com/watch?v=b6ZGwuHLWZQ)
 - [Campañas con marcas](https://www.youtube.com/watch?v=2CXgK-YRLmo)
 - [Proceso para colaboraciones con fotógrafos](https://www.youtube.com/watch?v=YVNC0qd_1X4)
 - [Formulae Math Pro English Version (Flutter Programming)](https://www.youtube.com/watch?v=VtYV0rJ_eyg)
 - [Estudiando programacion en Go (Golang) Apuntadores](https://www.youtube.com/watch?v=6wmZna-cghQ)
-- [La pandemia y el modelaje](https://www.youtube.com/watch?v=UBt--tMLUYg)
 <!-- YOUTUBE:END -->
     
 </details>
