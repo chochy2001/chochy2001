@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Malas experiencias como modelo](https://www.youtube.com/watch?v=0MdqtwdkPK8)
 - [La dieta y el ejercicio](https://www.youtube.com/watch?v=h5F6F2TdPbg)
 - [Diferentes trabajos para modelos](https://www.youtube.com/watch?v=b6ZGwuHLWZQ)
 - [Campañas con marcas](https://www.youtube.com/watch?v=2CXgK-YRLmo)
 - [Proceso para colaboraciones con fotógrafos](https://www.youtube.com/watch?v=YVNC0qd_1X4)
-- [Formulae Math Pro English Version (Flutter Programming)](https://www.youtube.com/watch?v=VtYV0rJ_eyg)
 <!-- YOUTUBE:END -->
     
 </details>
