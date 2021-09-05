@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [La inclusion en el modelaje](https://www.youtube.com/watch?v=5dQxBsY_jmc)
 - [Los sacrificios en el modelaje](https://www.youtube.com/watch?v=Ix8FhEnkNoI)
 - [La fama](https://www.youtube.com/watch?v=xbX8tPSzhyA)
 - [¿Qué tipos de modelos hay?](https://www.youtube.com/watch?v=jfX2lM6GkNs)
 - [Malas experiencias como modelo](https://www.youtube.com/watch?v=0MdqtwdkPK8)
-- [La dieta y el ejercicio](https://www.youtube.com/watch?v=h5F6F2TdPbg)
 <!-- YOUTUBE:END -->
     
 </details>
