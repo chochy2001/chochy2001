@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Recomendaciones para ser modelo](https://www.youtube.com/watch?v=gOxAxK0yxmY)
 - [La prepa 5 y la organización de fiestas](https://www.youtube.com/watch?v=TS5YzRaEbWQ)
 - [Las relaciones y los celos en el modelaje](https://www.youtube.com/watch?v=ACS4W8yE-hM)
 - [La inclusion en el modelaje](https://www.youtube.com/watch?v=5dQxBsY_jmc)
 - [Los sacrificios en el modelaje](https://www.youtube.com/watch?v=Ix8FhEnkNoI)
-- [La fama](https://www.youtube.com/watch?v=xbX8tPSzhyA)
 <!-- YOUTUBE:END -->
     
 </details>
