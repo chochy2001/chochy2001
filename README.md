@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué género de música haces?](https://www.youtube.com/watch?v=o5ABA1UL_9k)
 - [Esteban Garma](https://www.youtube.com/watch?v=IylGjM6GkiE)
 - [CHOCHITOS #26 ESTEBAN GARMA](https://www.youtube.com/watch?v=0nuELSbUChk)
 - [Recomendaciones para ser modelo](https://www.youtube.com/watch?v=gOxAxK0yxmY)
 - [La prepa 5 y la organización de fiestas](https://www.youtube.com/watch?v=TS5YzRaEbWQ)
-- [Las relaciones y los celos en el modelaje](https://www.youtube.com/watch?v=ACS4W8yE-hM)
 <!-- YOUTUBE:END -->
     
 </details>
