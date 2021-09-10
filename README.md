@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo superar una ruptura amorosa con depresión?](https://www.youtube.com/watch?v=lyvFnW2S63g)
 - [Orientación sexual](https://www.youtube.com/watch?v=FZ6bbufKQqk)
 - [¿Qué género de música haces?](https://www.youtube.com/watch?v=o5ABA1UL_9k)
 - [Esteban Garma](https://www.youtube.com/watch?v=IylGjM6GkiE)
 - [CHOCHITOS #26 ESTEBAN GARMA](https://www.youtube.com/watch?v=0nuELSbUChk)
-- [Recomendaciones para ser modelo](https://www.youtube.com/watch?v=gOxAxK0yxmY)
 <!-- YOUTUBE:END -->
     
 </details>
