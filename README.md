@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuáles son las 7 Bellas Artes?](https://www.youtube.com/watch?v=0FtrvmfcA3o)
 - [Influencias musicales](https://www.youtube.com/watch?v=3ZElzgr9jEY)
 - [¿Qué es la motivación?](https://www.youtube.com/watch?v=KrCPYG3VVCg)
 - [¿Cómo superar una ruptura amorosa con depresión?](https://www.youtube.com/watch?v=lyvFnW2S63g)
 - [Orientación sexual](https://www.youtube.com/watch?v=FZ6bbufKQqk)
-- [¿Qué género de música haces?](https://www.youtube.com/watch?v=o5ABA1UL_9k)
 <!-- YOUTUBE:END -->
     
 </details>
