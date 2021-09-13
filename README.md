@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo poder tocar varios instrumentos?](https://www.youtube.com/watch?v=CbFNTVcDYcQ)
 - [Estudiar para poder ser músico](https://www.youtube.com/watch?v=5EWmmRAfUio)
 - [¿Cuáles son las 7 Bellas Artes?](https://www.youtube.com/watch?v=0FtrvmfcA3o)
 - [Influencias musicales](https://www.youtube.com/watch?v=3ZElzgr9jEY)
 - [¿Qué es la motivación?](https://www.youtube.com/watch?v=KrCPYG3VVCg)
-- [¿Cómo superar una ruptura amorosa con depresión?](https://www.youtube.com/watch?v=lyvFnW2S63g)
 <!-- YOUTUBE:END -->
     
 </details>
