@@ -89,11 +89,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Los complejos del ser humano](https://www.youtube.com/watch?v=MtM7QNB-TYw)
 - [¿Qué es un paranoico?](https://www.youtube.com/watch?v=ACFoHRDw8-E)
 - [¿Drogas buenas o malas?](https://www.youtube.com/watch?v=fIAXji_8nHU)
 - [¿Cómo poder tocar varios instrumentos?](https://www.youtube.com/watch?v=CbFNTVcDYcQ)
 - [Estudiar para poder ser músico](https://www.youtube.com/watch?v=5EWmmRAfUio)
-- [¿Cuáles son las 7 Bellas Artes?](https://www.youtube.com/watch?v=0FtrvmfcA3o)
 <!-- YOUTUBE:END -->
     
 </details>
