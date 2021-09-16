@@ -71,8 +71,8 @@ __Cursos:__
 **Formulae Math Pro** *(De Pago)*
 <br />
 <br />
-[<img align="left" alt="Formulae Calculo Pro English Version" width="30px" src="https://play.google.com/store/apps/details?id=com.capdesis.formulae.pro.english.formulae_pro_english_version" />][FormulaeProIngles]
-**Formulae Math Pro** *(De Pago)*
+[<img align="left" alt="Formulae Calculo Pro English Version" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaeProIngles]
+**Formulae Math Pro English Version** *(De Pago)*
 <br />
 <br />
 
