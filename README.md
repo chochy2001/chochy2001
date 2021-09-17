@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Diego Layún](https://www.youtube.com/watch?v=ag56jJCzG-s)
 - [CHOCHITOS #27 DIEGO LAYÚN](https://www.youtube.com/watch?v=S2F0FkyxOwI)
 - [¿Cómo creer en un ser superior ?](https://www.youtube.com/watch?v=yz86OocbYf8)
 - [Dedicar canciones a las ex](https://www.youtube.com/watch?v=QcKNTiqSMQ4)
 - [Los complejos del ser humano](https://www.youtube.com/watch?v=MtM7QNB-TYw)
-- [¿Qué es un paranoico?](https://www.youtube.com/watch?v=ACFoHRDw8-E)
 <!-- YOUTUBE:END -->
     
 </details>
