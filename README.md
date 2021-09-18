@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuánto gana un tiktoker?](https://www.youtube.com/watch?v=R5M_RxLnpg8)
 - [Cómo hacer que tus vídeos de TikTok se hagan virales](https://www.youtube.com/watch?v=vljc2tyfOFU)
 - [¿Influencer vs famosos?](https://www.youtube.com/watch?v=0tCbqfDuzy8)
 - [Diego Layún](https://www.youtube.com/watch?v=ag56jJCzG-s)
 - [CHOCHITOS #27 DIEGO LAYÚN](https://www.youtube.com/watch?v=S2F0FkyxOwI)
-- [¿Cómo creer en un ser superior ?](https://www.youtube.com/watch?v=yz86OocbYf8)
 <!-- YOUTUBE:END -->
     
 </details>
