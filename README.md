@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Quién Te Conoce a Ti?](https://www.youtube.com/watch?v=0YPLHkvtPZc)
 - [¿Cómo ser streamer?](https://www.youtube.com/watch?v=XXooJwAQq7g)
 - [¿Cuánto gana un tiktoker?](https://www.youtube.com/watch?v=R5M_RxLnpg8)
 - [Cómo hacer que tus vídeos de TikTok se hagan virales](https://www.youtube.com/watch?v=vljc2tyfOFU)
 - [¿Influencer vs famosos?](https://www.youtube.com/watch?v=0tCbqfDuzy8)
-- [Diego Layún](https://www.youtube.com/watch?v=ag56jJCzG-s)
 <!-- YOUTUBE:END -->
     
 </details>
