@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Carrera de Ciencias Políticas](https://www.youtube.com/watch?v=5GhDamSTm04)
 - [¿Qué hacer para motivarse uno mismo?](https://www.youtube.com/watch?v=co3yN-Pvq58)
 - [¿Quién Te Conoce a Ti?](https://www.youtube.com/watch?v=0YPLHkvtPZc)
 - [¿Cómo ser streamer?](https://www.youtube.com/watch?v=XXooJwAQq7g)
 - [¿Cuánto gana un tiktoker?](https://www.youtube.com/watch?v=R5M_RxLnpg8)
-- [Cómo hacer que tus vídeos de TikTok se hagan virales](https://www.youtube.com/watch?v=vljc2tyfOFU)
 <!-- YOUTUBE:END -->
     
 </details>
