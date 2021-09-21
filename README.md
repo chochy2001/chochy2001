@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuáles son tus metas a  mediano plazo?](https://www.youtube.com/watch?v=ibXq2M5Pqb4)
 - [¿Qué es Heater en redes sociales?](https://www.youtube.com/watch?v=hLLQBbdEtZ8)
 - [Carrera de Ciencias Políticas](https://www.youtube.com/watch?v=5GhDamSTm04)
 - [¿Qué hacer para motivarse uno mismo?](https://www.youtube.com/watch?v=co3yN-Pvq58)
 - [¿Quién Te Conoce a Ti?](https://www.youtube.com/watch?v=0YPLHkvtPZc)
-- [¿Cómo ser streamer?](https://www.youtube.com/watch?v=XXooJwAQq7g)
 <!-- YOUTUBE:END -->
     
 </details>
