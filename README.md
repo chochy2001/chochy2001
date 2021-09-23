@@ -93,7 +93,7 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Seión de Estudio Ingenieria en Computación / Anásisis Numérico](https://www.youtube.com/watch?v=CJjD214tz2k)
+- [Mejor plataforma para subir contenido](https://www.youtube.com/watch?v=Nzg8j1wLKSk)
 - [¿Cómo te eligen para que participes en colaboraciones?](https://www.youtube.com/watch?v=9sATfsPKFZY)
 - [¿Qué tan importante son los seguidores?](https://www.youtube.com/watch?v=HixBkwdXaO8)
 - [¿Cuáles son tus metas a  mediano plazo?](https://www.youtube.com/watch?v=ibXq2M5Pqb4)
