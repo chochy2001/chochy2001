@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Seión de Estudio Ingenieria en Computación / Anásisis Numérico](https://www.youtube.com/watch?v=CJjD214tz2k)
 - [¿Cómo te eligen para que participes en colaboraciones?](https://www.youtube.com/watch?v=9sATfsPKFZY)
 - [¿Qué tan importante son los seguidores?](https://www.youtube.com/watch?v=HixBkwdXaO8)
 - [¿Cuáles son tus metas a  mediano plazo?](https://www.youtube.com/watch?v=ibXq2M5Pqb4)
 - [¿Qué es Heater en redes sociales?](https://www.youtube.com/watch?v=hLLQBbdEtZ8)
-- [Carrera de Ciencias Políticas](https://www.youtube.com/watch?v=5GhDamSTm04)
 <!-- YOUTUBE:END -->
     
 </details>
