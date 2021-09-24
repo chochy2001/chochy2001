@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=8xuqdSOcD_g)
 - [La importancia de estudiar la universidad](https://www.youtube.com/watch?v=qNHEDGtpc-Q)
 - [¿Cómo elaborar un plan de innovación?](https://www.youtube.com/watch?v=bUtVQkcBs5E)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=CJjD214tz2k)
 - [Mejor plataforma para subir contenido](https://www.youtube.com/watch?v=Nzg8j1wLKSk)
-- [¿Cómo te eligen para que participes en colaboraciones?](https://www.youtube.com/watch?v=9sATfsPKFZY)
 <!-- YOUTUBE:END -->
     
 </details>
