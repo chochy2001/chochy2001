@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuánto gana un barrendero?](https://www.youtube.com/watch?v=u-RKspJ5Fj4)
 - [Margarita del Cielo](https://www.youtube.com/watch?v=CzNJoQ3qSkE)
 - [CHOCHITOS #28 MARGARITA DEL CIELO](https://www.youtube.com/watch?v=x4inZLLCHIE)
 - [Sesión de Estudio Ingenieria en Computación / Fundamentos de Estadistica](https://www.youtube.com/watch?v=xYsdGsltW6E)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=8xuqdSOcD_g)
-- [La importancia de estudiar la universidad](https://www.youtube.com/watch?v=qNHEDGtpc-Q)
 <!-- YOUTUBE:END -->
     
 </details>
