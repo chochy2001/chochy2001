@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Acciones para mantenerte enfocado](https://www.youtube.com/watch?v=elT6pJOPThA)
 - [Limpieza espiritual y amarres amorosos](https://www.youtube.com/watch?v=_A7DJOPqSd4)
 - [¿Cuánto gana un barrendero?](https://www.youtube.com/watch?v=u-RKspJ5Fj4)
 - [Margarita del Cielo](https://www.youtube.com/watch?v=CzNJoQ3qSkE)
 - [CHOCHITOS #28 MARGARITA DEL CIELO](https://www.youtube.com/watch?v=x4inZLLCHIE)
-- [Sesión de Estudio Ingenieria en Computación / Fundamentos de Estadistica](https://www.youtube.com/watch?v=xYsdGsltW6E)
 <!-- YOUTUBE:END -->
     
 </details>
