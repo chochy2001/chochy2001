@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo protegerse de un amarre?](https://www.youtube.com/watch?v=fRGTrCOxViQ)
+- [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=YvU79RaTmag)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=cn_DiyPkyAQ)
 - [Conexión con cosas paranormales](https://www.youtube.com/watch?v=VuMUbX7jU34)
 - [Sesión de Estudio Ingenieria en Computación / Fundamentos de Estadistica](https://www.youtube.com/watch?v=XqCfioO7h68)
-- [Acciones para mantenerte enfocado](https://www.youtube.com/watch?v=elT6pJOPThA)
-- [Limpieza espiritual y amarres amorosos](https://www.youtube.com/watch?v=_A7DJOPqSd4)
 <!-- YOUTUBE:END -->
     
 </details>
