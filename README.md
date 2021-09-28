@@ -93,9 +93,9 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=cn_DiyPkyAQ)
 - [Conexión con cosas paranormales](https://www.youtube.com/watch?v=VuMUbX7jU34)
 - [Sesión de Estudio Ingenieria en Computación / Fundamentos de Estadistica](https://www.youtube.com/watch?v=XqCfioO7h68)
-- [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=cn_DiyPkyAQ)
 - [Acciones para mantenerte enfocado](https://www.youtube.com/watch?v=elT6pJOPThA)
 - [Limpieza espiritual y amarres amorosos](https://www.youtube.com/watch?v=_A7DJOPqSd4)
 <!-- YOUTUBE:END -->
