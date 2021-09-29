@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Las brujas nacen o se hacen?](https://www.youtube.com/watch?v=Rw0GYPbQqSA)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=wPNGa_emfNo)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=YvU79RaTmag)
 - [¿Cómo protegerse de un amarre?](https://www.youtube.com/watch?v=fRGTrCOxViQ)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=cn_DiyPkyAQ)
-- [Conexión con cosas paranormales](https://www.youtube.com/watch?v=VuMUbX7jU34)
 <!-- YOUTUBE:END -->
     
 </details>
