@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Mantener oculto el don de ver fantasmas](https://www.youtube.com/watch?v=bXx_izsgfCw)
 - [Los casos reales de los Warren](https://www.youtube.com/watch?v=qywL3rGaDpc)
 - [¿Las brujas nacen o se hacen?](https://www.youtube.com/watch?v=Rw0GYPbQqSA)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=wPNGa_emfNo)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=YvU79RaTmag)
-- [¿Cómo protegerse de un amarre?](https://www.youtube.com/watch?v=fRGTrCOxViQ)
 <!-- YOUTUBE:END -->
     
 </details>
