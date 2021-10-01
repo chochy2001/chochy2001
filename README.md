@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo identificar brujos charlatanes?](https://www.youtube.com/watch?v=BKi5vK1zl7k)
 - [Rituales de las brujas blancas](https://www.youtube.com/watch?v=nW7d6A6fyAM)
 - [¿Cómo nos ayudan las ánimas del purgatorio?](https://www.youtube.com/watch?v=rnZjt6s1zWo)
 - [Mantener oculto el don de ver fantasmas](https://www.youtube.com/watch?v=bXx_izsgfCw)
 - [Los casos reales de los Warren](https://www.youtube.com/watch?v=qywL3rGaDpc)
-- [¿Las brujas nacen o se hacen?](https://www.youtube.com/watch?v=Rw0GYPbQqSA)
 <!-- YOUTUBE:END -->
     
 </details>
