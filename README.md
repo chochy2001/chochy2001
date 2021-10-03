@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Historias paranormales reales](https://www.youtube.com/watch?v=-hc_fbcQC-s)
 - [¿Por qué no cree la gente en lo paranormal?](https://www.youtube.com/watch?v=9e1pKUfs9Wg)
 - [Sesión de Estudio Ingenieria en Computación / Fundamentos de Estadistica](https://www.youtube.com/watch?v=1RhfNGRei2Q)
 - [¿Debemos creer en todos los seres terroríficos y celestiales?](https://www.youtube.com/watch?v=bQf22XRAiK8)
 - [¿Cómo identificar brujos charlatanes?](https://www.youtube.com/watch?v=BKi5vK1zl7k)
-- [Rituales de las brujas blancas](https://www.youtube.com/watch?v=nW7d6A6fyAM)
 <!-- YOUTUBE:END -->
     
 </details>
