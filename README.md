@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Rechazar el don de ver fantasmas](https://www.youtube.com/watch?v=9RLjECAd8Mo)
 - [¿Qué hace un vidente?](https://www.youtube.com/watch?v=EZltIfl7b7w)
 - [Los peligros de abrir el tercer ojo](https://www.youtube.com/watch?v=uG6fyjuMdUg)
 - [Historias paranormales reales](https://www.youtube.com/watch?v=-hc_fbcQC-s)
 - [¿Por qué no cree la gente en lo paranormal?](https://www.youtube.com/watch?v=9e1pKUfs9Wg)
-- [Sesión de Estudio Ingenieria en Computación / Fundamentos de Estadistica](https://www.youtube.com/watch?v=1RhfNGRei2Q)
 <!-- YOUTUBE:END -->
     
 </details>
