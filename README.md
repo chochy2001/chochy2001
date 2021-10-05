@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué es el aura de las personas y cómo puedes verla?](https://www.youtube.com/watch?v=-AfTEyuBatE)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=Qy3MvR6lNxs)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=771OrPTGkho)
 - [¿cómo saber cuándo naces con el tercer ojo abierto?](https://www.youtube.com/watch?v=m6dNNMwNPrM)
 - [Sesión de Estudio Ingenieria en Computación / Uso e implementación de R](https://www.youtube.com/watch?v=Y35kIj_WBaU)
-- [Rechazar el don de ver fantasmas](https://www.youtube.com/watch?v=9RLjECAd8Mo)
 <!-- YOUTUBE:END -->
     
 </details>
