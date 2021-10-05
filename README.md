@@ -94,10 +94,10 @@ __Cursos:__
     
 <!-- YOUTUBE:START -->
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=771OrPTGkho)
+- [¿cómo saber cuándo naces con el tercer ojo abierto?](https://www.youtube.com/watch?v=m6dNNMwNPrM)
 - [Sesión de Estudio Ingenieria en Computación / Uso e implementación de R](https://www.youtube.com/watch?v=Y35kIj_WBaU)
 - [Rechazar el don de ver fantasmas](https://www.youtube.com/watch?v=9RLjECAd8Mo)
 - [¿Qué hace un vidente?](https://www.youtube.com/watch?v=EZltIfl7b7w)
-- [Los peligros de abrir el tercer ojo](https://www.youtube.com/watch?v=uG6fyjuMdUg)
 <!-- YOUTUBE:END -->
     
 </details>
