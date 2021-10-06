@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sesión de Estudio Ingenieria en Computación / Escribiendo un ensayo "Ensayo sobre la ceguera"](https://www.youtube.com/watch?v=dYyy-6iXgdk)
+- [Nunca hagas un amarre a nadie](https://www.youtube.com/watch?v=8-pZuadEb7s)
 - [¿Qué es el aura de las personas y cómo puedes verla?](https://www.youtube.com/watch?v=-AfTEyuBatE)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=Qy3MvR6lNxs)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=771OrPTGkho)
-- [¿cómo saber cuándo naces con el tercer ojo abierto?](https://www.youtube.com/watch?v=m6dNNMwNPrM)
-- [Sesión de Estudio Ingenieria en Computación / Uso e implementación de R](https://www.youtube.com/watch?v=Y35kIj_WBaU)
 <!-- YOUTUBE:END -->
     
 </details>
