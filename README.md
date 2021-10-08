@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Fabian Jair](https://www.youtube.com/watch?v=Plyee6lt86I)
 - [CHOCHITOS #29 FABIAN JAIR](https://www.youtube.com/watch?v=9nZWtz94J5g)
 - [Sesión de Estudio Ingenieria en Computación / Matemáticas Avanzadas "Introducción a variable …](https://www.youtube.com/watch?v=GQC7X3cONj4)
 - [Sesión de Estudio Ingenieria en Computación / Escribiendo un ensayo "Ensayo sobre la ceguera"](https://www.youtube.com/watch?v=dYyy-6iXgdk)
 - [Nunca hagas un amarre a nadie](https://www.youtube.com/watch?v=8-pZuadEb7s)
-- [¿Qué es el aura de las personas y cómo puedes verla?](https://www.youtube.com/watch?v=-AfTEyuBatE)
 <!-- YOUTUBE:END -->
     
 </details>
