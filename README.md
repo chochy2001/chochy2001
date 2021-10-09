@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Tu pagina de autos te deja dinero?](https://www.youtube.com/watch?v=fX-IINnI-HI)
 - [Sesión de Estudio Ingenieria en Computación / Uso de R](https://www.youtube.com/watch?v=GpzzaGveZio)
 - [¿Qué es lo que más te gusta de tu carrera de veterinaria y tu pagina de speed cars?](https://www.youtube.com/watch?v=IO60fJrNxRE)
 - [Fabian Jair](https://www.youtube.com/watch?v=Plyee6lt86I)
 - [CHOCHITOS #29 FABIAN JAIR](https://www.youtube.com/watch?v=9nZWtz94J5g)
-- [Sesión de Estudio Ingenieria en Computación / Matemáticas Avanzadas "Introducción a variable …](https://www.youtube.com/watch?v=GQC7X3cONj4)
 <!-- YOUTUBE:END -->
     
 </details>
