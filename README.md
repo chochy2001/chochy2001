@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Rediseñando la web de Capdesis](https://www.youtube.com/watch?v=A922xRQbZ10)
 - [¿Por qué elegiste veterinaria y no una ingeniería?](https://www.youtube.com/watch?v=ZEc4fxfGwUo)
 - [Sesión de Estudio Ingenieria en Computación / Haciendo Miniaturas para CAPDESIS](https://www.youtube.com/watch?v=1Gz6fnE9eb0)
 - [¿Tu pagina de autos te deja dinero?](https://www.youtube.com/watch?v=fX-IINnI-HI)
 - [Sesión de Estudio Ingenieria en Computación / Uso de R](https://www.youtube.com/watch?v=GpzzaGveZio)
-- [¿Qué es lo que más te gusta de tu carrera de veterinaria y tu pagina de speed cars?](https://www.youtube.com/watch?v=IO60fJrNxRE)
 <!-- YOUTUBE:END -->
     
 </details>
