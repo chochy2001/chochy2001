@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Programando la App de Formulae Math Pro (Solución de Ecuaciones)](https://www.youtube.com/watch?v=tWAarDjOkec)
 - [Pagina de instagram de carros de lujo](https://www.youtube.com/watch?v=FBRXylF7IPU)
 - [Programando la App de Formulae Math Pro](https://www.youtube.com/watch?v=G3E04k_znzw)
 - [Programando la App de Formulae Math Pro](https://www.youtube.com/watch?v=03gWnBZxYJI)
 - [Rediseñando la web de Capdesis](https://www.youtube.com/watch?v=A922xRQbZ10)
-- [¿Por qué elegiste veterinaria y no una ingeniería?](https://www.youtube.com/watch?v=ZEc4fxfGwUo)
 <!-- YOUTUBE:END -->
     
 </details>
