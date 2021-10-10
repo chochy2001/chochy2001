@@ -93,8 +93,8 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Rediseñando la web de Capdesis](https://www.youtube.com/watch?v=A922xRQbZ10)
 - [Programando la App de Formulae Math Pro](https://www.youtube.com/watch?v=03gWnBZxYJI)
+- [Rediseñando la web de Capdesis](https://www.youtube.com/watch?v=A922xRQbZ10)
 - [¿Por qué elegiste veterinaria y no una ingeniería?](https://www.youtube.com/watch?v=ZEc4fxfGwUo)
 - [Sesión de Estudio Ingenieria en Computación / Haciendo Miniaturas para CAPDESIS](https://www.youtube.com/watch?v=1Gz6fnE9eb0)
 - [¿Tu pagina de autos te deja dinero?](https://www.youtube.com/watch?v=fX-IINnI-HI)
