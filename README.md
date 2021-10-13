@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuándo el alcohol es una adicción?](https://www.youtube.com/watch?v=gWiWak2WdSY)
+- [Sesión de Estudio Ingenieria en Computación / Estadistica](https://www.youtube.com/watch?v=loIRDW_F0Lg)
 - [¿Qué significa ser alumno regular?](https://www.youtube.com/watch?v=lqg7V2Ss67E)
 - [Cómo organizar tu tiempo y ser más eficiente](https://www.youtube.com/watch?v=P84RrmP9sN0)
 - [¿Cómo contactar a los dueños de los autos de lujo?](https://www.youtube.com/watch?v=H9LhgczrkMo)
-- [Una mujer con metas y proyectos](https://www.youtube.com/watch?v=ugJYzcNOsw8)
-- [¿Qué es el huevo orgánico?](https://www.youtube.com/watch?v=3I-8uN9yL0c)
 <!-- YOUTUBE:END -->
     
 </details>
