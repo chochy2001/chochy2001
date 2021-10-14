@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Prácticas de cirugía en la carrera de veterinaria](https://www.youtube.com/watch?v=5t_jOvdLu3s)
 - [¿La importancia de creer en algo espiritual?](https://www.youtube.com/watch?v=Df8hfTZ28uE)
 - [Sesión de Estudio Ingenieria en Computación / Estadistica](https://www.youtube.com/watch?v=loIRDW_F0Lg)
 - [¿Cuándo el alcohol es una adicción?](https://www.youtube.com/watch?v=gWiWak2WdSY)
 - [¿Qué significa ser alumno regular?](https://www.youtube.com/watch?v=lqg7V2Ss67E)
-- [Cómo organizar tu tiempo y ser más eficiente](https://www.youtube.com/watch?v=P84RrmP9sN0)
 <!-- YOUTUBE:END -->
     
 </details>
