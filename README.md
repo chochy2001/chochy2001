@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [CHOCHITOS #30 DANIEL MIXTLI](https://www.youtube.com/watch?v=lHjF4vgyBp8)
 - [¿Qué área de la carrera de veterinaria te deja más dinero?](https://www.youtube.com/watch?v=XgE2fCINLsI)
 - [Prácticas de cirugía en la carrera de veterinaria](https://www.youtube.com/watch?v=5t_jOvdLu3s)
 - [¿La importancia de creer en algo espiritual?](https://www.youtube.com/watch?v=Df8hfTZ28uE)
 - [Sesión de Estudio Ingenieria en Computación / Estadistica](https://www.youtube.com/watch?v=loIRDW_F0Lg)
-- [¿Cuándo el alcohol es una adicción?](https://www.youtube.com/watch?v=gWiWak2WdSY)
 <!-- YOUTUBE:END -->
     
 </details>
