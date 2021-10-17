@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué estudia un físico?](https://www.youtube.com/watch?v=G2DK1V57FwM)
 - [¿Hacer otras cosas mientras estas estudiando o solo estudiar?](https://www.youtube.com/watch?v=Jeuf-T_URnU)
 - [¿Cómo es estudiar física en la UNAM?](https://www.youtube.com/watch?v=bQbfNsIqgXo)
 - [Daniel Mixtli](https://www.youtube.com/watch?v=KLSKnaYhyMY)
 - [CHOCHITOS #30 DANIEL MIXTLI](https://www.youtube.com/watch?v=lHjF4vgyBp8)
-- [¿Qué área de la carrera de veterinaria te deja más dinero?](https://www.youtube.com/watch?v=XgE2fCINLsI)
 <!-- YOUTUBE:END -->
     
 </details>
