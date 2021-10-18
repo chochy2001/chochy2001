@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué puedo estudiar si me gustan las Matemáticas?](https://www.youtube.com/watch?v=pyBjlRldnB4)
 - [¿Qué estudia un físico?](https://www.youtube.com/watch?v=G2DK1V57FwM)
 - [¿Hacer otras cosas mientras estas estudiando o solo estudiar?](https://www.youtube.com/watch?v=Jeuf-T_URnU)
 - [¿Cómo es estudiar física en la UNAM?](https://www.youtube.com/watch?v=bQbfNsIqgXo)
 - [Daniel Mixtli](https://www.youtube.com/watch?v=KLSKnaYhyMY)
-- [CHOCHITOS #30 DANIEL MIXTLI](https://www.youtube.com/watch?v=lHjF4vgyBp8)
 <!-- YOUTUBE:END -->
     
 </details>
