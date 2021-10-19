@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Tips para elegir carrera](https://www.youtube.com/watch?v=J-51-NdXv6k)
 - [Aplicación Formulae Math Pro](https://www.youtube.com/watch?v=HG54YHlggd4)
 - [Aplicación Formulae Math Gratis](https://www.youtube.com/watch?v=ALwftOVA2Vs)
 - [¿Dónde trabajan los profesionales de la Física?](https://www.youtube.com/watch?v=kXkbmOEV-4Y)
 - [¿Qué puedo estudiar si me gustan las Matemáticas?](https://www.youtube.com/watch?v=pyBjlRldnB4)
-- [¿Qué estudia un físico?](https://www.youtube.com/watch?v=G2DK1V57FwM)
 <!-- YOUTUBE:END -->
     
 </details>
