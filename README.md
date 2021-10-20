@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Ser musculoso es estar saludable?](https://www.youtube.com/watch?v=TnzyIc6lWWA)
 - [Criticando vídeos musicales](https://www.youtube.com/watch?v=80CeVQWKYOw)
 - [¿Quién liga más, un guapo o un musculoso?](https://www.youtube.com/watch?v=1iZQo_rYdrI)
 - [Tips para elegir carrera](https://www.youtube.com/watch?v=J-51-NdXv6k)
 - [Aplicación Formulae Math Pro](https://www.youtube.com/watch?v=HG54YHlggd4)
-- [Aplicación Formulae Math Gratis](https://www.youtube.com/watch?v=ALwftOVA2Vs)
 <!-- YOUTUBE:END -->
     
 </details>
