@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Curso VIM gratis  (PARTE 1)](https://www.youtube.com/watch?v=ALUGvhzpbtI)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=E5DsgnEApUM)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=QA-SGlqsGDs)
 - [¿Ser musculoso es estar saludable?](https://www.youtube.com/watch?v=TnzyIc6lWWA)
 - [Criticando vídeos musicales](https://www.youtube.com/watch?v=80CeVQWKYOw)
-- [¿Quién liga más, un guapo o un musculoso?](https://www.youtube.com/watch?v=1iZQo_rYdrI)
 <!-- YOUTUBE:END -->
     
 </details>
