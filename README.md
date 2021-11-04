@@ -93,7 +93,7 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Curso VIM gratis  (PARTE 1)](https://www.youtube.com/watch?v=ALUGvhzpbtI)
+- [Curso VIM gratis (Parte 1)](https://www.youtube.com/watch?v=oGkZ45VwPtM)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=E5DsgnEApUM)
 - [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=QA-SGlqsGDs)
 - [¿Ser musculoso es estar saludable?](https://www.youtube.com/watch?v=TnzyIc6lWWA)
