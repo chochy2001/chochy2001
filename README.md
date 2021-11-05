@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Porque se están postulando?](https://www.youtube.com/watch?v=Wk0MfainIO0)
 - [Ricardo Ruelas y Farid Pozos](https://www.youtube.com/watch?v=vjlCEuqiJgc)
 - [CHOCHITOS #31 CONSEJEROS UNIVERSITARIOS](https://www.youtube.com/watch?v=Y8c9xfuQMU4)
 - [Curso VIM gratis (Parte 1)](https://www.youtube.com/watch?v=oGkZ45VwPtM)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=E5DsgnEApUM)
-- [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=QA-SGlqsGDs)
 <!-- YOUTUBE:END -->
     
 </details>
