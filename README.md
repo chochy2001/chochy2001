@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué hace un consejero universitario?](https://www.youtube.com/watch?v=TMdAJzmq70k)
 - [¿Porque se están postulando?](https://www.youtube.com/watch?v=Wk0MfainIO0)
 - [Ricardo Ruelas y Farid Pozos](https://www.youtube.com/watch?v=vjlCEuqiJgc)
 - [CHOCHITOS #31 CONSEJEROS UNIVERSITARIOS](https://www.youtube.com/watch?v=Y8c9xfuQMU4)
 - [Curso VIM gratis (Parte 1)](https://www.youtube.com/watch?v=oGkZ45VwPtM)
-- [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=E5DsgnEApUM)
 <!-- YOUTUBE:END -->
     
 </details>
