@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Porque decidieron estudiar ingeniería en computación?](https://www.youtube.com/watch?v=VongU_Edcdo)
 - [¿Desde cuándo hay consejeros universitarios?](https://www.youtube.com/watch?v=mtIpPK7HCgE)
 - [¿Qué hace un consejero universitario?](https://www.youtube.com/watch?v=TMdAJzmq70k)
 - [¿Porque se están postulando?](https://www.youtube.com/watch?v=Wk0MfainIO0)
 - [Ricardo Ruelas y Farid Pozos](https://www.youtube.com/watch?v=vjlCEuqiJgc)
-- [CHOCHITOS #31 CONSEJEROS UNIVERSITARIOS](https://www.youtube.com/watch?v=Y8c9xfuQMU4)
 <!-- YOUTUBE:END -->
     
 </details>
