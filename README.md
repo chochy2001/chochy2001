@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Porque la UNAM y no una escuela privada?](https://www.youtube.com/watch?v=buUD4Evf4Ic)
 - [¿Recomiendan estudiar la universidad o no?](https://www.youtube.com/watch?v=QTaRn7RItkM)
 - [¿Porque decidieron estudiar ingeniería en computación?](https://www.youtube.com/watch?v=VongU_Edcdo)
 - [¿Desde cuándo hay consejeros universitarios?](https://www.youtube.com/watch?v=mtIpPK7HCgE)
 - [¿Qué hace un consejero universitario?](https://www.youtube.com/watch?v=TMdAJzmq70k)
-- [¿Porque se están postulando?](https://www.youtube.com/watch?v=Wk0MfainIO0)
 <!-- YOUTUBE:END -->
     
 </details>
