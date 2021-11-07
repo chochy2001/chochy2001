@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué ofrece la facultad de ingeniería?](https://www.youtube.com/watch?v=Tqz19mn8uo8)
 - [¿El promedio es importante?](https://www.youtube.com/watch?v=JuUr5REsmeM)
 - [¿Que propuestas tienen para que los elijan?](https://www.youtube.com/watch?v=ybt39uolMW8)
 - [¿Porque la UNAM y no una escuela privada?](https://www.youtube.com/watch?v=buUD4Evf4Ic)
 - [¿Recomiendan estudiar la universidad o no?](https://www.youtube.com/watch?v=QTaRn7RItkM)
-- [¿Porque decidieron estudiar ingeniería en computación?](https://www.youtube.com/watch?v=VongU_Edcdo)
 <!-- YOUTUBE:END -->
     
 </details>
