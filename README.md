@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Sistemas de control con microcontroladores](https://www.youtube.com/watch?v=sxlUGat0l7o)
 - [¿Porque elegiste la carrera de ingeniería en Mecatrónica?](https://www.youtube.com/watch?v=Gslml6U7fQQ)
 - [Damián Pérez](https://www.youtube.com/watch?v=tQH5y-m5ZzQ)
 - [CHOCHITOS #32 DAMIÁN PÉREZ](https://www.youtube.com/watch?v=XrFYjJhRMPk)
 - [Curso VIM gratis  &lpar;PARTE 2&rpar;](https://www.youtube.com/watch?v=DVOpq5MAnCs)
-- [Curso VIM gratis &lpar;Parte 1&rpar;](https://www.youtube.com/watch?v=oGkZ45VwPtM)
 <!-- YOUTUBE:END -->
     
 </details>
