@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Materias de primer semestre de ingeniería en mecatrónica](https://www.youtube.com/watch?v=6vhfybVLa-g)
 - [¿Qué ingeniería es mejor mecatrónica o computación?](https://www.youtube.com/watch?v=HKThexWInZU)
 - [¿Qué es un microcontrolador?](https://www.youtube.com/watch?v=hlG7DQVAiFI)
 - [Sistemas de control con microcontroladores](https://www.youtube.com/watch?v=sxlUGat0l7o)
 - [¿Porque elegiste la carrera de ingeniería en Mecatrónica?](https://www.youtube.com/watch?v=Gslml6U7fQQ)
-- [Damián Pérez](https://www.youtube.com/watch?v=tQH5y-m5ZzQ)
 <!-- YOUTUBE:END -->
     
 </details>
