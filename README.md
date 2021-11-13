@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo elegir qué carrera universitaria estudiar?](https://www.youtube.com/watch?v=F6qTQK3-5pw)
 - [¿Qué es la frustración?](https://www.youtube.com/watch?v=TKgZXe9073I)
 - [¿Vale la pena certificarse?](https://www.youtube.com/watch?v=etiMAwdyp4g)
 - [Materias de primer semestre de ingeniería en mecatrónica](https://www.youtube.com/watch?v=6vhfybVLa-g)
 - [¿Qué ingeniería es mejor mecatrónica o computación?](https://www.youtube.com/watch?v=HKThexWInZU)
-- [¿Qué es un microcontrolador?](https://www.youtube.com/watch?v=hlG7DQVAiFI)
 <!-- YOUTUBE:END -->
     
 </details>
