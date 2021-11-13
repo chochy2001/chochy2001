@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué es la frustración?](https://www.youtube.com/watch?v=TKgZXe9073I)
 - [¿Vale la pena certificarse?](https://www.youtube.com/watch?v=etiMAwdyp4g)
 - [Materias de primer semestre de ingeniería en mecatrónica](https://www.youtube.com/watch?v=6vhfybVLa-g)
 - [¿Qué ingeniería es mejor mecatrónica o computación?](https://www.youtube.com/watch?v=HKThexWInZU)
 - [¿Qué es un microcontrolador?](https://www.youtube.com/watch?v=hlG7DQVAiFI)
-- [Sistemas de control con microcontroladores](https://www.youtube.com/watch?v=sxlUGat0l7o)
 <!-- YOUTUBE:END -->
     
 </details>
