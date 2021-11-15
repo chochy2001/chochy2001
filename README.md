@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Que beneficios te da saber inglés?](https://www.youtube.com/watch?v=VOcLOcx4JBQ)
 - [¿Cómo ser miembro de la comunidad de Microsoft?](https://www.youtube.com/watch?v=gzuCiI5PSkc)
 - [UANL – Universidad Autónoma de Nuevo León](https://www.youtube.com/watch?v=cQU7-ubRT08)
 - [¿Cómo elegir qué carrera universitaria estudiar?](https://www.youtube.com/watch?v=F6qTQK3-5pw)
 - [¿Qué es la frustración?](https://www.youtube.com/watch?v=TKgZXe9073I)
-- [¿Vale la pena certificarse?](https://www.youtube.com/watch?v=etiMAwdyp4g)
 <!-- YOUTUBE:END -->
     
 </details>
