@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo saber qué contenido subir en tiktok?](https://www.youtube.com/watch?v=x8zBOtCYlnY)
 - [Curso VIM gratis  &lpar;PARTE 3&rpar;](https://www.youtube.com/watch?v=eRxD3yLBMtI)
 - [Redes sociales y tik tok](https://www.youtube.com/watch?v=aeIQ8HHucR8)
 - [¿Que beneficios te da saber inglés?](https://www.youtube.com/watch?v=VOcLOcx4JBQ)
 - [¿Cómo ser miembro de la comunidad de Microsoft?](https://www.youtube.com/watch?v=gzuCiI5PSkc)
-- [UANL – Universidad Autónoma de Nuevo León](https://www.youtube.com/watch?v=cQU7-ubRT08)
 <!-- YOUTUBE:END -->
     
 </details>
