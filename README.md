@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Algoritmos de Grafos](https://www.youtube.com/watch?v=F1fhg6tPPXw)
 - [Ser bueno en algo sin esforzarse ¿se puede?](https://www.youtube.com/watch?v=BrxkbmghIOA)
 - [¿Cómo saber qué contenido subir en tiktok?](https://www.youtube.com/watch?v=x8zBOtCYlnY)
 - [Curso VIM gratis  &lpar;PARTE 3&rpar;](https://www.youtube.com/watch?v=eRxD3yLBMtI)
 - [Redes sociales y tik tok](https://www.youtube.com/watch?v=aeIQ8HHucR8)
-- [¿Que beneficios te da saber inglés?](https://www.youtube.com/watch?v=VOcLOcx4JBQ)
 <!-- YOUTUBE:END -->
     
 </details>
