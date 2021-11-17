@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudia conmigo Estructuras de Datos y Algoritmos / Ingenieria en Computación](https://www.youtube.com/watch?v=vibJeNLJmzI)
 - [Los mejores hábitos de estudio](https://www.youtube.com/watch?v=-uOCfF3jJGg)
 - [Algoritmos de Grafos](https://www.youtube.com/watch?v=F1fhg6tPPXw)
 - [Ser bueno en algo sin esforzarse ¿se puede?](https://www.youtube.com/watch?v=BrxkbmghIOA)
 - [¿Cómo saber qué contenido subir en tiktok?](https://www.youtube.com/watch?v=x8zBOtCYlnY)
-- [Curso VIM gratis  &lpar;PARTE 3&rpar;](https://www.youtube.com/watch?v=eRxD3yLBMtI)
 <!-- YOUTUBE:END -->
     
 </details>
