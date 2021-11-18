@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Algoritmos de Grafos - Matriz de Adyacencia](https://www.youtube.com/watch?v=GgtHl2FylII)
 - [Cambiar de una red social a otras](https://www.youtube.com/watch?v=pCJiOoG5b0I)
 - [¿Cómo venderse bien en redes sociales?](https://www.youtube.com/watch?v=cka5tpx2dE4)
 - [Ser obsesivo con la productividad](https://www.youtube.com/watch?v=KgBKejtKqsY)
 - [Estudia conmigo Estructuras de Datos y Algoritmos / Ingenieria en Computación](https://www.youtube.com/watch?v=vibJeNLJmzI)
-- [Los mejores hábitos de estudio](https://www.youtube.com/watch?v=-uOCfF3jJGg)
 <!-- YOUTUBE:END -->
     
 </details>
