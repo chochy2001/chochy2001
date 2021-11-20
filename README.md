@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=_Fj3iir-heQ)
-- [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=wNL6_BhIm_M)
+- [Sesión de Estudio Ingenieria en Computación / Análisis Numérico](https://www.youtube.com/watch?v=V5JCIKSVOa4)
 - [Consejo: disfrutar la vida](https://www.youtube.com/watch?v=qlvzhsalz8g)
 - [Algoritmos de Grafos - Matriz de Adyacencia](https://www.youtube.com/watch?v=GgtHl2FylII)
 - [Cambiar de una red social a otras](https://www.youtube.com/watch?v=pCJiOoG5b0I)
+- [¿Cómo venderse bien en redes sociales?](https://www.youtube.com/watch?v=cka5tpx2dE4)
 <!-- YOUTUBE:END -->
     
 </details>
