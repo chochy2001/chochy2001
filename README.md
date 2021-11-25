@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Descomposición LU Doolittle en Excel](https://www.youtube.com/watch?v=PHh2H8Eqot8)
 - [Cuanto dinero puede generar un youtuber pequeño](https://www.youtube.com/watch?v=A0h8yNgSglk)
 - [Algoritmos de Grafos - Lista de Adyacencia](https://www.youtube.com/watch?v=KHyGn4cRjN4)
 - [Descarga toda la Suite de Jetbrains](https://www.youtube.com/watch?v=ZRig_4WKHCE)
 - [Curso VIM gratis  &lpar;PARTE 4&rpar;](https://www.youtube.com/watch?v=jzFC-_GRKsg)
-- [Algoritmos de Grafos - Matriz de Incidencia](https://www.youtube.com/watch?v=tB2IB5BrJ80)
 <!-- YOUTUBE:END -->
     
 </details>
