@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Mejora la calidad de tu stream con estos simples ajustes en OBS](https://www.youtube.com/watch?v=AZGZaP2fHJk)
 - [Descomposición LU Doolittle en Excel](https://www.youtube.com/watch?v=PHh2H8Eqot8)
 - [Cuanto dinero puede generar un youtuber pequeño](https://www.youtube.com/watch?v=A0h8yNgSglk)
 - [Algoritmos de Grafos - Lista de Adyacencia](https://www.youtube.com/watch?v=KHyGn4cRjN4)
 - [Descarga toda la Suite de Jetbrains](https://www.youtube.com/watch?v=ZRig_4WKHCE)
-- [Curso VIM gratis  &lpar;PARTE 4&rpar;](https://www.youtube.com/watch?v=jzFC-_GRKsg)
 <!-- YOUTUBE:END -->
     
 </details>
