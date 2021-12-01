@@ -93,11 +93,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cómo poner una imagen de fondo a tu editor de código?](https://www.youtube.com/watch?v=0zci6Qlux5M)
 - [A que bitrate poner obs y como hacer que se vean mejor tus streams](https://www.youtube.com/watch?v=RHDGYQj4BJg)
 - [Curso VIM gratis  &lpar;PARTE 5&rpar;](https://www.youtube.com/watch?v=5WouoinE9VM)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=RxOQqshSDTg)
 - [Sesión de Estudio Ingenieria en Computación / Estructuras de Datos y Algoritmos](https://www.youtube.com/watch?v=23cS9J-Q4wk)
-- [Mejora la calidad de tu stream con estos simples ajustes en OBS](https://www.youtube.com/watch?v=AZGZaP2fHJk)
 <!-- YOUTUBE:END -->
     
 </details>
