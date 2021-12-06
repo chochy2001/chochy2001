@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Paginas que ayudan a aprender a escribir mas rápido](https://www.youtube.com/watch?v=A8UE4TmgyU4)
 - [¿Cómo aumentar o disminuir la memoria ram que usan los IDEs?](https://www.youtube.com/watch?v=DHuR8mqK1d4)
 - [¿Cómo poner una imagen de fondo a tu editor de código?](https://www.youtube.com/watch?v=0zci6Qlux5M)
 - [A que bitrate poner obs y como hacer que se vean mejor tus streams](https://www.youtube.com/watch?v=RHDGYQj4BJg)
 - [Curso VIM gratis  &lpar;PARTE 5&rpar;](https://www.youtube.com/watch?v=5WouoinE9VM)
-- [Sesión de Estudio Ingenieria en Computación / Estructuras Discretas](https://www.youtube.com/watch?v=RxOQqshSDTg)
 <!-- YOUTUBE:END -->
     
 </details>
