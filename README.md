@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Como escribir codigo más rápido](https://www.youtube.com/watch?v=VkZAXygbMDg)
 - [Regresando a Clash Royale / Nueva Temporada](https://www.youtube.com/watch?v=72f4wjEn1E4)
 - [Paginas que ayudan a aprender a escribir mas rápido](https://www.youtube.com/watch?v=A8UE4TmgyU4)
 - [¿Cómo aumentar o disminuir la memoria ram que usan los IDEs?](https://www.youtube.com/watch?v=DHuR8mqK1d4)
 - [¿Cómo poner una imagen de fondo a tu editor de código?](https://www.youtube.com/watch?v=0zci6Qlux5M)
-- [A que bitrate poner obs y como hacer que se vean mejor tus streams](https://www.youtube.com/watch?v=RHDGYQj4BJg)
 <!-- YOUTUBE:END -->
     
 </details>
