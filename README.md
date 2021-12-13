@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Diferentes modos en el shure sm7b y cual es el mejor](https://www.youtube.com/watch?v=f4cJZjByD18)
 - [Estudia conmigo en Directo sin Música](https://www.youtube.com/watch?v=rrXZ4e2FonM)
 - [Estudia conmigo en Vivo sin Música](https://www.youtube.com/watch?v=5ZTv1VUjXT0)
 - [Jugando Clash Royale con Seguidores / CHOCHY](https://www.youtube.com/watch?v=Tm_meMloZzI)
 - [Regresando a Clash Royale / Nueva Temporada](https://www.youtube.com/watch?v=LlWJxZ1Io9k)
-- [Unboxing  y review del Shure SM7b](https://www.youtube.com/watch?v=yK0ZM2gxFJc)
 <!-- YOUTUBE:END -->
     
 </details>
