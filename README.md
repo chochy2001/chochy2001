@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Así acabó el Extensible de TheGrefg](https://www.youtube.com/watch?v=XyIzIWmc4os)
 - [¿Qué es el patrón polar de un micrófono? y cual es el mejor para ti](https://www.youtube.com/watch?v=xwqNKaeK6x0)
 - [Mejores plugins para los IDE de Jetbrains](https://www.youtube.com/watch?v=6izf05v1wik)
 - [Regresando a Fortnite con skin de Spider Man No Way Home](https://www.youtube.com/watch?v=uDWGyBQ-dAE)
 - [¿Cuál es el mejor iPad para estudiantes 2022?](https://www.youtube.com/watch?v=V7ZqPPfDyjA)
-- [Regresando a Clash Royale / Nueva Temporada](https://www.youtube.com/watch?v=P6Aoy0aOlOA)
 <!-- YOUTUBE:END -->
     
 </details>
