@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Editando vídeos con Premiere Pro en Vivo](https://www.youtube.com/watch?v=PiQZpCB2CZw)
 - [TheGrefg llega a 50000 SUBS en TWITCH y se CONFIRMA CALVALAND 2](https://www.youtube.com/watch?v=WtbF8m20BPY)
 - [Diferencias entre micrófono de condensador y dinámico, ¿cuál elegir y por qué?](https://www.youtube.com/watch?v=NGW80o6sNmU)
 - [TheGrefg estuvo a UN MINUTO de que TERMINARA su EXTENSIBLE y ESTO PASÓ](https://www.youtube.com/watch?v=LcBlzYsePK4)
 - [Así acabó el Extensible de TheGrefg](https://www.youtube.com/watch?v=XyIzIWmc4os)
-- [¿Qué es el patrón polar de un micrófono? y cual es el mejor para ti](https://www.youtube.com/watch?v=xwqNKaeK6x0)
 <!-- YOUTUBE:END -->
     
 </details>
