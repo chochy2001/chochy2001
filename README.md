@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Editando Podcast en Directo / Chochy](https://www.youtube.com/watch?v=Db0P1M3AFrc)
 - [Plugins para sonar mejor en OBS](https://www.youtube.com/watch?v=WiwVz-qWrvg)
 - [Jugando Clash Royale con Seguidores en VIVO](https://www.youtube.com/watch?v=TPO-hCYPL38)
 - [Editando vídeos con Premiere Pro en Vivo](https://www.youtube.com/watch?v=PiQZpCB2CZw)
 - [TheGrefg llega a 50000 SUBS en TWITCH y se CONFIRMA CALVALAND 2](https://www.youtube.com/watch?v=WtbF8m20BPY)
-- [Diferencias entre micrófono de condensador y dinámico, ¿cuál elegir y por qué?](https://www.youtube.com/watch?v=NGW80o6sNmU)
 <!-- YOUTUBE:END -->
     
 </details>
