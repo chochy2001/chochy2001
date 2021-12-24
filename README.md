@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Especificaciones técnicas del shure sm7b](https://www.youtube.com/watch?v=f4Z_WyVoz6M)
 - [CHOCHITOS #33 RIcho Salgado](https://www.youtube.com/watch?v=_Eu_pe3KN0A)
 - [Editando Podcast en Directo con Adobe Premiere Pro / CHOCHY](https://www.youtube.com/watch?v=jfIvfy-xOBA)
 - [Jugando Fortnite Duós con TheRayga / CHOCHY](https://www.youtube.com/watch?v=D_-bHv7vkQE)
 - [Editando Podcast en Directo con Adobe Premiere Pro / CHOCHY](https://www.youtube.com/watch?v=du-DhPdADxY)
-- [Editando Podcast de @Richo Salgado en Directo / Chochy](https://www.youtube.com/watch?v=4iheE7DBvec)
 <!-- YOUTUBE:END -->
     
 </details>
