@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Editando Podcast en Directo con Adobe Premiere Pro / CHOCHY](https://www.youtube.com/watch?v=jfIvfy-xOBA)
 - [Jugando Fortnite Duós con TheRayga / CHOCHY](https://www.youtube.com/watch?v=D_-bHv7vkQE)
 - [Editando Podcast en Directo con Adobe Premiere Pro / CHOCHY](https://www.youtube.com/watch?v=du-DhPdADxY)
 - [Editando Podcast de @Richo Salgado en Directo / Chochy](https://www.youtube.com/watch?v=4iheE7DBvec)
 - [Editando Podcast en Directo / Chochy](https://www.youtube.com/watch?v=Db0P1M3AFrc)
-- [Plugins para sonar mejor en OBS](https://www.youtube.com/watch?v=WiwVz-qWrvg)
 <!-- YOUTUBE:END -->
     
 </details>
