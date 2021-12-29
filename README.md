@@ -96,10 +96,10 @@ __Cursos:__
     
 <!-- YOUTUBE:START -->
 - [Jugando Fortnite con Seguidores en VIVO](https://www.youtube.com/watch?v=s87ghEi6FqA)
+- [Clash Royale vs Seguidores en VIVO](https://www.youtube.com/watch?v=AGyeMMYQsJc)
 - [TROLEAN a THEGREFG antes de TERMINAR EXTENSIBLE](https://www.youtube.com/watch?v=0KcYh-8IGTA)
 - [¿Para qué sirve el phantom power y qué micrófonos lo necesitan?](https://www.youtube.com/watch?v=y55EvZzY8G8)
 - [Especificaciones técnicas del shure sm7b](https://www.youtube.com/watch?v=f4Z_WyVoz6M)
-- [CHOCHITOS #33 RIcho Salgado](https://www.youtube.com/watch?v=_Eu_pe3KN0A)
 <!-- YOUTUBE:END -->
     
 </details>
