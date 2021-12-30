@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Clash Royale con Seguidores en VIVO](https://www.youtube.com/watch?v=jMbr-mazqzY)
 - [ESTUDIA CONMIGO EN VIVO / INGENIERIA EN COMPUTACIÓN](https://www.youtube.com/watch?v=cDTEM7GZ24g)
 - [Shure sm7b vs MXL v67 ¿Cuál es mejor sin preamplificador?](https://www.youtube.com/watch?v=DIOvW1VTdxQ)
 - [Clash Royale vs Seguidores en VIVO](https://www.youtube.com/watch?v=AGyeMMYQsJc)
 - [Jugando Fortnite con Seguidores en VIVO](https://www.youtube.com/watch?v=s87ghEi6FqA)
-- [TROLEAN a THEGREFG antes de TERMINAR EXTENSIBLE](https://www.youtube.com/watch?v=0KcYh-8IGTA)
 <!-- YOUTUBE:END -->
     
 </details>
