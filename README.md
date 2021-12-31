@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Como instalar MinGW para compilar programas en C y C++](https://www.youtube.com/watch?v=DYCRQCPsLsM)
 - [Jugando Clash Royale con Seguidores en VIVO](https://www.youtube.com/watch?v=jMbr-mazqzY)
 - [ESTUDIA CONMIGO EN VIVO / INGENIERIA EN COMPUTACIÓN](https://www.youtube.com/watch?v=cDTEM7GZ24g)
 - [Shure sm7b vs MXL v67 ¿Cuál es mejor sin preamplificador?](https://www.youtube.com/watch?v=DIOvW1VTdxQ)
 - [Clash Royale vs Seguidores en VIVO](https://www.youtube.com/watch?v=AGyeMMYQsJc)
-- [Jugando Fortnite con Seguidores en VIVO](https://www.youtube.com/watch?v=s87ghEi6FqA)
 <!-- YOUTUBE:END -->
     
 </details>
