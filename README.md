@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Como Empezo Richo Salgado a hacer música](https://www.youtube.com/watch?v=br3VQMcPA4o)
 - [CHOCHITOS #33 RIcho Salgado](https://www.youtube.com/watch?v=_Eu_pe3KN0A)
 - [Como instalar MinGW para compilar programas en C y C++](https://www.youtube.com/watch?v=DYCRQCPsLsM)
 - [Jugando Clash Royale con Seguidores en VIVO](https://www.youtube.com/watch?v=jMbr-mazqzY)
 - [ESTUDIA CONMIGO EN VIVO / INGENIERIA EN COMPUTACIÓN](https://www.youtube.com/watch?v=cDTEM7GZ24g)
-- [Shure sm7b vs MXL v67 ¿Cuál es mejor sin preamplificador?](https://www.youtube.com/watch?v=DIOvW1VTdxQ)
 <!-- YOUTUBE:END -->
     
 </details>
