@@ -95,8 +95,8 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Como compilar programas en C y C++ desde la terminal](https://www.youtube.com/watch?v=IqTt7VeQP0I)
 - [Teoria de Grafos / Sesión de estudio en VIVO](https://www.youtube.com/watch?v=jk4XXFlKMHk)
+- [Como compilar programas en C y C++ desde la terminal](https://www.youtube.com/watch?v=IqTt7VeQP0I)
 - [Como Empezo Richo Salgado a hacer música](https://www.youtube.com/watch?v=br3VQMcPA4o)
 - [CHOCHITOS #33 RIcho Salgado](https://www.youtube.com/watch?v=_Eu_pe3KN0A)
 - [Como instalar MinGW para compilar programas en C y C++](https://www.youtube.com/watch?v=DYCRQCPsLsM)
