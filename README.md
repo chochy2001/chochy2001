@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Teoria de Grafos / Sesión de estudio en VIVO](https://www.youtube.com/watch?v=jk4XXFlKMHk)
 - [Como Empezo Richo Salgado a hacer música](https://www.youtube.com/watch?v=br3VQMcPA4o)
 - [CHOCHITOS #33 RIcho Salgado](https://www.youtube.com/watch?v=_Eu_pe3KN0A)
 - [Como instalar MinGW para compilar programas en C y C++](https://www.youtube.com/watch?v=DYCRQCPsLsM)
 - [Jugando Clash Royale con Seguidores en VIVO](https://www.youtube.com/watch?v=jMbr-mazqzY)
-- [ESTUDIA CONMIGO EN VIVO / INGENIERIA EN COMPUTACIÓN](https://www.youtube.com/watch?v=cDTEM7GZ24g)
 <!-- YOUTUBE:END -->
     
 </details>
