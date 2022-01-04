@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudia conmigo en directo Teoría de Grafos](https://www.youtube.com/watch?v=za5C3Ys1Wx4)
+- [Como encontrar la motivacion para hacer la cosas](https://www.youtube.com/watch?v=5xTroE-g968)
 - [Comenzando con la serie de Minecraft](https://www.youtube.com/watch?v=Nwky5ikJlH0)
 - [Teoria de Grafos / Sesión de estudio en VIVO](https://www.youtube.com/watch?v=jk4XXFlKMHk)
 - [Como compilar programas en C y C++ desde la terminal](https://www.youtube.com/watch?v=IqTt7VeQP0I)
-- [Como Empezo Richo Salgado a hacer música](https://www.youtube.com/watch?v=br3VQMcPA4o)
-- [CHOCHITOS #33 RIcho Salgado](https://www.youtube.com/watch?v=_Eu_pe3KN0A)
 <!-- YOUTUBE:END -->
     
 </details>
