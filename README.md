@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Todo lo que tienes que saber sobre Javascript para el 2022](https://www.youtube.com/watch?v=tPkSIkZNRj4)
 - [como evitar que las cosas te molesten](https://www.youtube.com/watch?v=UwZb1sRzt1U)
 - [¿Qué lenguajes son los más populares para programar y en que se usan?](https://www.youtube.com/watch?v=sDKXhDv4GyU)
 - [Jugando Clash Royale con Seguidores EN VIVO](https://www.youtube.com/watch?v=HZAK-8IALCM)
 - [Comenzando con la serie de Minecraft](https://www.youtube.com/watch?v=fG36prJeDV8)
-- [Estudia conmigo en directo Teoría de Grafos](https://www.youtube.com/watch?v=za5C3Ys1Wx4)
 <!-- YOUTUBE:END -->
     
 </details>
