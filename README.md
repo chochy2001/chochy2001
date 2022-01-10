@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Como lidiar con gente egocentrica](https://www.youtube.com/watch?v=IL5cRdV3Yjs)
 - [Como Obtener descuentos en Cursos de Udemy / CHOCHY](https://www.youtube.com/watch?v=-AWKwJ6Ng6c)
 - [Como hacer distintos generos musicales](https://www.youtube.com/watch?v=UU-ujOjhyk8)
 - [Todo lo que tienes que saber sobre Javascript para el 2022](https://www.youtube.com/watch?v=tPkSIkZNRj4)
 - [Como evitar que las cosas te molesten](https://www.youtube.com/watch?v=UwZb1sRzt1U)
-- [¿Qué lenguajes son los más populares para programar y en que se usan?](https://www.youtube.com/watch?v=sDKXhDv4GyU)
 <!-- YOUTUBE:END -->
     
 </details>
