@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Todo lo que tienes que saber sobre Java en 2022](https://www.youtube.com/watch?v=ZvMHEW1rYJY)
 - [Como lidiar con gente egocentrica](https://www.youtube.com/watch?v=IL5cRdV3Yjs)
 - [Como Obtener descuentos en Cursos de Udemy / CHOCHY](https://www.youtube.com/watch?v=-AWKwJ6Ng6c)
 - [Como hacer distintos generos musicales](https://www.youtube.com/watch?v=UU-ujOjhyk8)
 - [Todo lo que tienes que saber sobre Javascript para el 2022](https://www.youtube.com/watch?v=tPkSIkZNRj4)
-- [Como evitar que las cosas te molesten](https://www.youtube.com/watch?v=UwZb1sRzt1U)
 <!-- YOUTUBE:END -->
     
 </details>
