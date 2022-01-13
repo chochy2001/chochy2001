@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Como OCULTAR SUSCRIPTORES de mi canal de YOUTUBE o mostrarlos / CHOCHY](https://www.youtube.com/watch?v=rVnuAyI9fjY)
 - [Como lidiar con gente creida en la musica](https://www.youtube.com/watch?v=utXXQAxyr_M)
 - [Todo lo que tienes que saber sobre Java en 2022](https://www.youtube.com/watch?v=ZvMHEW1rYJY)
 - [Como lidiar con gente egocentrica](https://www.youtube.com/watch?v=IL5cRdV3Yjs)
 - [Como Obtener descuentos en Cursos de Udemy / CHOCHY](https://www.youtube.com/watch?v=-AWKwJ6Ng6c)
-- [Como hacer distintos generos musicales](https://www.youtube.com/watch?v=UU-ujOjhyk8)
 <!-- YOUTUBE:END -->
     
 </details>
