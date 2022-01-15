@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Todo lo que tienes que saber sobre Swift y Objective C en 2022](https://www.youtube.com/watch?v=RUyNqai4Al0)
 - [Como se hace para componer una canción](https://www.youtube.com/watch?v=L2mnoj9EQ1c)
 - [Como OCULTAR SUSCRIPTORES de mi canal de YOUTUBE o mostrarlos / CHOCHY](https://www.youtube.com/watch?v=rVnuAyI9fjY)
 - [Como lidiar con gente creida en la musica](https://www.youtube.com/watch?v=utXXQAxyr_M)
 - [Todo lo que tienes que saber sobre Java en 2022](https://www.youtube.com/watch?v=ZvMHEW1rYJY)
-- [Como lidiar con gente egocentrica](https://www.youtube.com/watch?v=IL5cRdV3Yjs)
 <!-- YOUTUBE:END -->
     
 </details>
