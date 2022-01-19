@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Todo lo que tienes que saber sobre Python en 2022](https://www.youtube.com/watch?v=lL4hb4anxPQ)
 - [Como subir canciones a spotify y a cualquier plataforma digital](https://www.youtube.com/watch?v=UPhGSOPsRFs)
 - [Configurar opciones predeterminadas de carga en Youtube / CHOCHY](https://www.youtube.com/watch?v=ZsvPzmYCyro)
 - [Como volverse productor musical](https://www.youtube.com/watch?v=TBiw1sOtKBA)
 - [Todo lo que tienes que saber sobre Swift y Objective C en 2022](https://www.youtube.com/watch?v=RUyNqai4Al0)
-- [Como se hace para componer una canción](https://www.youtube.com/watch?v=L2mnoj9EQ1c)
 <!-- YOUTUBE:END -->
     
 </details>
