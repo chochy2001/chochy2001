@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [como usar la depresion para hacer musica](https://www.youtube.com/watch?v=n8ZK8rNOXeE)
 - [Todo lo que tienes que saber sobre Python en 2022](https://www.youtube.com/watch?v=lL4hb4anxPQ)
 - [Como subir canciones a spotify y a cualquier plataforma digital](https://www.youtube.com/watch?v=UPhGSOPsRFs)
 - [Configurar opciones predeterminadas de carga en Youtube / CHOCHY](https://www.youtube.com/watch?v=ZsvPzmYCyro)
 - [Como volverse productor musical](https://www.youtube.com/watch?v=TBiw1sOtKBA)
-- [Todo lo que tienes que saber sobre Swift y Objective C en 2022](https://www.youtube.com/watch?v=RUyNqai4Al0)
 <!-- YOUTUBE:END -->
     
 </details>
