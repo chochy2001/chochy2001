@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿El shure sm7b requiere de preamplificador o no?](https://www.youtube.com/watch?v=8UpefejXark)
 - [Cuanto cobrar por una produccion de una cancion](https://www.youtube.com/watch?v=lgxgW3YlYiE)
 - [Todo lo que tienes que saber sobre Kotlin en 2022](https://www.youtube.com/watch?v=1tXo3_GAHuA)
 - [Cual es el proceso para hacer una canción](https://www.youtube.com/watch?v=h77qfb7IlpU)
 - [Como calificar cursos en Udemy / CHOCHY](https://www.youtube.com/watch?v=fvkNzopqkKc)
-- [como usar la depresion para hacer musica](https://www.youtube.com/watch?v=n8ZK8rNOXeE)
 <!-- YOUTUBE:END -->
     
 </details>
