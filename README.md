@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Unboxing, Review  y funcionamiento del StreamDeck XL](https://www.youtube.com/watch?v=nfO-75CrUS0)
 - [experiencias con las dr0ga5, por que consumirlas y porque no hacerlo](https://www.youtube.com/watch?v=ZmMVH58PWXA)
 - [¿El shure sm7b requiere de preamplificador o no?](https://www.youtube.com/watch?v=8UpefejXark)
 - [Cuanto cobrar por una produccion de una cancion](https://www.youtube.com/watch?v=lgxgW3YlYiE)
 - [Todo lo que tienes que saber sobre Kotlin en 2022](https://www.youtube.com/watch?v=1tXo3_GAHuA)
-- [Cual es el proceso para hacer una canción](https://www.youtube.com/watch?v=h77qfb7IlpU)
 <!-- YOUTUBE:END -->
     
 </details>
