@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Unboxing y Review del MEJOR IPAD PARA ESTUDIANTES](https://www.youtube.com/watch?v=Q369KqtVGgs)
 - [Mensaje de Richo Salgado para todos](https://www.youtube.com/watch?v=xncwRlzt3hU)
 - [Unboxing, Review  y funcionamiento del StreamDeck XL](https://www.youtube.com/watch?v=nfO-75CrUS0)
 - [experiencias con las dr0ga5, por que consumirlas y porque no hacerlo](https://www.youtube.com/watch?v=ZmMVH58PWXA)
 - [¿El shure sm7b requiere de preamplificador o no?](https://www.youtube.com/watch?v=8UpefejXark)
-- [Cuanto cobrar por una produccion de una cancion](https://www.youtube.com/watch?v=lgxgW3YlYiE)
 <!-- YOUTUBE:END -->
     
 </details>
