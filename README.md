@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [TODO lo que NECESITAS para hacer STREAM con tu IPAD o CELULAR](https://www.youtube.com/watch?v=IjK9nPhsRTY)
 - [No hagas musica comercial sin saber esto antes](https://www.youtube.com/watch?v=z6GM8FsFDNk)
 - [Unboxing y Review del MEJOR IPAD PARA ESTUDIANTES](https://www.youtube.com/watch?v=Q369KqtVGgs)
 - [Mensaje de Richo Salgado para todos](https://www.youtube.com/watch?v=xncwRlzt3hU)
 - [Unboxing, Review  y funcionamiento del StreamDeck XL](https://www.youtube.com/watch?v=nfO-75CrUS0)
-- [experiencias con las dr0ga5, por que consumirlas y porque no hacerlo](https://www.youtube.com/watch?v=ZmMVH58PWXA)
 <!-- YOUTUBE:END -->
     
 </details>
