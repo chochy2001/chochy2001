@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Cual FILTRO ANTIPOP es MEJOR: TELA vs ESPUMA](https://www.youtube.com/watch?v=0YGAo05NTPQ)
 - [por que si deberias y no deberias dejar la escuela](https://www.youtube.com/watch?v=HnDpZqhaPSM)
 - [Review del micrófono MXL V67G](https://www.youtube.com/watch?v=bJMrVVTwqKk)
 - [No termine la prepa para dedicarme a hacer música](https://www.youtube.com/watch?v=1BAFjTKPAwA)
 - [TODO lo que NECESITAS para hacer STREAM con tu IPAD o CELULAR](https://www.youtube.com/watch?v=IjK9nPhsRTY)
-- [No hagas musica comercial sin saber esto antes](https://www.youtube.com/watch?v=z6GM8FsFDNk)
 <!-- YOUTUBE:END -->
     
 </details>
