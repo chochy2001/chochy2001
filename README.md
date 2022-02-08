@@ -95,7 +95,7 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Que es Urban Music y como formar parte de el colectivo](https://www.youtube.com/watch?v=RRly_HlCt7g)
+- [Que es Urban Music y como formar parte del colectivo](https://www.youtube.com/watch?v=RRly_HlCt7g)
 - [Review del Micrófono MXL 990He, Heritage Edition](https://www.youtube.com/watch?v=sb07fTsK-wM)
 - [porque vale la pena ser famoso y tener dinero](https://www.youtube.com/watch?v=5diF7tlRJ_4)
 - [Cual FILTRO ANTIPOP es MEJOR: TELA vs ESPUMA](https://www.youtube.com/watch?v=0YGAo05NTPQ)
