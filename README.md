@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Review Micrófono Shure PG57](https://www.youtube.com/watch?v=OU-WBzBY61Q)
 - [SKYLINE el nuevo EP de Richo y Soster NM](https://www.youtube.com/watch?v=rxSquqmmTSI)
 - [MEJOR Página para CONFIGURAR tu PC](https://www.youtube.com/watch?v=XasuC2XD1yM)
 - [Quien es Richo Salgado](https://www.youtube.com/watch?v=JGHRdZYwjm8)
 - [¿Cuál FILTRO ANTIPOP es MEJOR para el Shure SM7B?](https://www.youtube.com/watch?v=FwastZufRMY)
-- [Que es Urban Music y como formar parte del colectivo](https://www.youtube.com/watch?v=RRly_HlCt7g)
 <!-- YOUTUBE:END -->
     
 </details>
