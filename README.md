@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Todo lo que necesitas para hacer una cancion, equipo y conocimiento](https://www.youtube.com/watch?v=T25DfyiApD0)
 - [Review Micrófono Shure PG57](https://www.youtube.com/watch?v=OU-WBzBY61Q)
 - [SKYLINE el nuevo EP de Richo y Soster NM](https://www.youtube.com/watch?v=rxSquqmmTSI)
 - [MEJOR Página para CONFIGURAR tu PC](https://www.youtube.com/watch?v=XasuC2XD1yM)
 - [Quien es Richo Salgado](https://www.youtube.com/watch?v=JGHRdZYwjm8)
-- [¿Cuál FILTRO ANTIPOP es MEJOR para el Shure SM7B?](https://www.youtube.com/watch?v=FwastZufRMY)
 <!-- YOUTUBE:END -->
     
 </details>
