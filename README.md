@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [REVIEW AKG P420 para HOME STUDIO](https://www.youtube.com/watch?v=-02xH189cSY)
 - [vale la pena ser religioso](https://www.youtube.com/watch?v=GbfVwAQZT_Q)
 - [MEJOR TECLADO GAMER calidad precio con CABLE REMOVIBLE y Ñ](https://www.youtube.com/watch?v=MeusKeawo3Q)
 - [Todo lo que necesitas para hacer una cancion, equipo y conocimiento](https://www.youtube.com/watch?v=T25DfyiApD0)
 - [Review Micrófono Shure PG57](https://www.youtube.com/watch?v=OU-WBzBY61Q)
-- [SKYLINE el nuevo EP de Richo y Soster NM](https://www.youtube.com/watch?v=rxSquqmmTSI)
 <!-- YOUTUBE:END -->
     
 </details>
