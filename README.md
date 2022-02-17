@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [ASMR con TECLADO MECANICO switches Blue / CHOCHY](https://www.youtube.com/watch?v=6VRx5_x2eu4)
 - [REVIEW AKG P420 para HOME STUDIO](https://www.youtube.com/watch?v=-02xH189cSY)
 - [vale la pena ser religioso](https://www.youtube.com/watch?v=GbfVwAQZT_Q)
 - [MEJOR TECLADO GAMER calidad precio con CABLE REMOVIBLE y Ñ](https://www.youtube.com/watch?v=MeusKeawo3Q)
 - [Todo lo que necesitas para hacer una cancion, equipo y conocimiento](https://www.youtube.com/watch?v=T25DfyiApD0)
-- [Review Micrófono Shure PG57](https://www.youtube.com/watch?v=OU-WBzBY61Q)
 <!-- YOUTUBE:END -->
     
 </details>
