@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Clash Royale vs Seguidores en VIVO 2](https://www.youtube.com/watch?v=pS2A66ilpXA)
 - [Estudia conmigo teoria de grafos 1](https://www.youtube.com/watch?v=kb8-tn32230)
 - [Clash Royale vs Seguidores en VIVO 1](https://www.youtube.com/watch?v=OGWLDMQCGZk)
 - [Review Micrófono Shure PGA48](https://www.youtube.com/watch?v=Sb15H85yevE)
 - [ASMR con TECLADO MECANICO switches Blue / CHOCHY](https://www.youtube.com/watch?v=6VRx5_x2eu4)
-- [REVIEW AKG P420 para HOME STUDIO](https://www.youtube.com/watch?v=-02xH189cSY)
 <!-- YOUTUBE:END -->
     
 </details>
