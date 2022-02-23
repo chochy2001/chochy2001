@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Clash Royale vs Seguidores en VIVO 3](https://www.youtube.com/watch?v=f_DeP7tG5wc)
 - [Estudia conmigo teoria de grafos 2](https://www.youtube.com/watch?v=A_Qjx3ygHis)
 - [Clash Royale vs Seguidores en VIVO 2](https://www.youtube.com/watch?v=pS2A66ilpXA)
 - [Estudia conmigo teoria de grafos 1](https://www.youtube.com/watch?v=kb8-tn32230)
 - [Clash Royale vs Seguidores en VIVO 1](https://www.youtube.com/watch?v=OGWLDMQCGZk)
-- [Review Micrófono Shure PGA48](https://www.youtube.com/watch?v=Sb15H85yevE)
 <!-- YOUTUBE:END -->
     
 </details>
