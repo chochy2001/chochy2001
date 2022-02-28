@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Probando filtros en directo 3](https://www.youtube.com/watch?v=NDYlNw8cxMk)
 - [Probando filtros en directo 2](https://www.youtube.com/watch?v=_H5A7n0JnGU)
 - [Probando filtros en directo 1](https://www.youtube.com/watch?v=tjEEYla787M)
 - [Clash Royale vs Seguidores en VIVO 4](https://www.youtube.com/watch?v=GKz0AZulBLg)
 - [Estudia conmigo teoria de grafos 3](https://www.youtube.com/watch?v=ThgFQ_JZPns)
-- [Clash Royale vs Seguidores en VIVO 3](https://www.youtube.com/watch?v=f_DeP7tG5wc)
 <!-- YOUTUBE:END -->
     
 </details>
