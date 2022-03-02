@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Clash Royale con seguidores 2](https://www.youtube.com/watch?v=qEn-xcCZBQA)
 - [Jugando Clash Royale con seguidores 1](https://www.youtube.com/watch?v=eOch0wXKU50)
 - [Probando filtros en directo 3](https://www.youtube.com/watch?v=NDYlNw8cxMk)
 - [Probando filtros en directo 2](https://www.youtube.com/watch?v=_H5A7n0JnGU)
 - [Probando filtros en directo 1](https://www.youtube.com/watch?v=tjEEYla787M)
-- [Clash Royale vs Seguidores en VIVO 4](https://www.youtube.com/watch?v=GKz0AZulBLg)
 <!-- YOUTUBE:END -->
     
 </details>
