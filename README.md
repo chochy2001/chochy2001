@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Así se hacen los emotes para YouTube y Twitch](https://www.youtube.com/watch?v=OJzHJOnXcDM)
 - [Jugando Clash Royale con seguidores 3](https://www.youtube.com/watch?v=Fo8x0b3FFgs)
 - [Jugando Clash Royale con seguidores 2](https://www.youtube.com/watch?v=qEn-xcCZBQA)
 - [Jugando Clash Royale con seguidores 1](https://www.youtube.com/watch?v=eOch0wXKU50)
 - [Probando filtros en directo 3](https://www.youtube.com/watch?v=NDYlNw8cxMk)
-- [Probando filtros en directo 2](https://www.youtube.com/watch?v=_H5A7n0JnGU)
 <!-- YOUTUBE:END -->
     
 </details>
