@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudia conmigo teoria de grafos 7 algoritmo de warshall](https://www.youtube.com/watch?v=IHjrj9WKQcM)
 - [Estudia conmigo teoria de grafos 5](https://www.youtube.com/watch?v=xRbeJE9TOds)
 - [Estudia conmigo teoria de grafos 4](https://www.youtube.com/watch?v=5QF54D-GImw)
 - [Así se hacen los emotes para YouTube y Twitch](https://www.youtube.com/watch?v=OJzHJOnXcDM)
 - [Jugando Clash Royale con seguidores 3](https://www.youtube.com/watch?v=Fo8x0b3FFgs)
-- [Jugando Clash Royale con seguidores 2](https://www.youtube.com/watch?v=qEn-xcCZBQA)
 <!-- YOUTUBE:END -->
     
 </details>
