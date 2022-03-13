@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Clash Royale con seguidores 7](https://www.youtube.com/watch?v=ybDO9kqBvj8)
 - [Jugando Clash Royale con seguidores 6](https://www.youtube.com/watch?v=3ZBjgwDONi0)
 - [Jugando Clash Royale con seguidores 5](https://www.youtube.com/watch?v=FWPA6xpjuRc)
 - [Jugando Clash Royale con seguidores 4](https://www.youtube.com/watch?v=OeF5OTT9n1I)
 - [Estudia conmigo teoria de grafos 8 algoritmo de prim y algoritmo de kruskal](https://www.youtube.com/watch?v=MykRigRspFU)
-- [Estudia conmigo teoria de grafos 6 Algoritmo de DIjkstra](https://www.youtube.com/watch?v=nh9OC1CFrVk)
 <!-- YOUTUBE:END -->
     
 </details>
