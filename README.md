@@ -95,9 +95,9 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Clash Royale con Seguidores EN VIVO](https://www.youtube.com/watch?v=7_RfNYv_A74)
 - [Jugando Fortnite SIN CONSTRUCCIÓN con Seguidores](https://www.youtube.com/watch?v=2tM1wYIxBWc)
 - [Jugando Fortnite SIN CONSTRUCCIÓN en VIVO](https://www.youtube.com/watch?v=ETPu-lw38GM)
-- [Jugando Clash Royale con Seguidores EN VIVO](https://www.youtube.com/watch?v=7_RfNYv_A74)
 - [Curso vim](https://www.youtube.com/watch?v=STCCHssHC4M)
 - [Jugando Clash Royale con seguidores 8](https://www.youtube.com/watch?v=H7OXs5PphZo)
 <!-- YOUTUBE:END -->
