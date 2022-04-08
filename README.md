@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Clash Royale con Seguidores PARTE 2](https://www.youtube.com/watch?v=w0NiEdviX4A)
 - [Jugando Clash Royale con Seguidores PARTE 1](https://www.youtube.com/watch?v=6GF7Nsmnsqo)
 - [Jugando Clash Royale con Seguidores EN VIVO](https://www.youtube.com/watch?v=7_RfNYv_A74)
 - [Jugando Fortnite SIN CONSTRUCCIÓN con Seguidores](https://www.youtube.com/watch?v=2tM1wYIxBWc)
 - [Jugando Fortnite SIN CONSTRUCCIÓN en VIVO](https://www.youtube.com/watch?v=ETPu-lw38GM)
-- [Curso vim](https://www.youtube.com/watch?v=STCCHssHC4M)
 <!-- YOUTUBE:END -->
     
 </details>
