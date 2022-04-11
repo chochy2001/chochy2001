@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Clash Royale con Seguidores PARTE 5](https://www.youtube.com/watch?v=78-XopiHhsQ)
 - [Jugando Clash Royale con Seguidores PARTE 4](https://www.youtube.com/watch?v=mv7E8X8p1pU)
 - [Jugando Clash Royale con Seguidores PARTE 3](https://www.youtube.com/watch?v=P7-BBherp1k)
 - [Jugando Clash Royale con Seguidores PARTE 2](https://www.youtube.com/watch?v=w0NiEdviX4A)
 - [Jugando Clash Royale con Seguidores PARTE 1](https://www.youtube.com/watch?v=6GF7Nsmnsqo)
-- [Jugando Clash Royale con Seguidores EN VIVO](https://www.youtube.com/watch?v=7_RfNYv_A74)
 <!-- YOUTUBE:END -->
     
 </details>
