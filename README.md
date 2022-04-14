@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Jugando Clash Royale con Seguidores PARTE 8](https://www.youtube.com/watch?v=3muezzcTHmo)
 - [Sesión de Estudio Ingenieria en Computación, Lenguajes Formales y Autómatas](https://www.youtube.com/watch?v=3GAmWzNaLME)
 - [Jugando Clash Royale con Seguidores PARTE 7](https://www.youtube.com/watch?v=bPqTwsTZraY)
 - [Jugando Clash Royale con Seguidores PARTE 6](https://www.youtube.com/watch?v=f7oVgBDcqpE)
 - [Jugando Clash Royale con Seguidores PARTE 5](https://www.youtube.com/watch?v=78-XopiHhsQ)
-- [Jugando Clash Royale con Seguidores PARTE 4](https://www.youtube.com/watch?v=mv7E8X8p1pU)
 <!-- YOUTUBE:END -->
     
 </details>
