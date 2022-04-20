@@ -95,7 +95,7 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Estudia conmigo Teoría de Grafos Parte 1](https://www.youtube.com/watch?v=UD6l_8CdlW0)
+- [Estudia Conmigo Teoría de Grafos Parte 1](https://www.youtube.com/watch?v=UD6l_8CdlW0)
 - [Jugando Clash Royale con Seguidores PARTE 9](https://www.youtube.com/watch?v=1klmtHC4SiM)
 - [Jugando Clash Royale con Seguidores PARTE 8](https://www.youtube.com/watch?v=3muezzcTHmo)
 - [Sesión de Estudio Ingenieria en Computación, Lenguajes Formales y Autómatas](https://www.youtube.com/watch?v=3GAmWzNaLME)
