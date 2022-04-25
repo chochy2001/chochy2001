@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudia Conmigo Teoría de Grafos Parte 7](https://www.youtube.com/watch?v=5CSzi9-PaxA)
 - [Estudia Conmigo Teoría de Grafos Parte 6](https://www.youtube.com/watch?v=yVINcLxtv5o)
 - [Estudia Conmigo Teoría de Grafos  Parte 5](https://www.youtube.com/watch?v=fXI53V_Wxrc)
 - [Estudia Conmigo Teoría de Grafos Parte 4](https://www.youtube.com/watch?v=qBzqIgsMnG4)
 - [Estudia Conmigo Teoría de Grafos Parte 3](https://www.youtube.com/watch?v=f--JH0l7NHo)
-- [Estudia Conmigo Teoría de Grafos Parte 2](https://www.youtube.com/watch?v=TaH2szlb6ks)
 <!-- YOUTUBE:END -->
     
 </details>
