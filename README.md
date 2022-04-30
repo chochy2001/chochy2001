@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 3&rpar;](https://www.youtube.com/watch?v=0mq1bPmrOqU)
 - [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 2&rpar;](https://www.youtube.com/watch?v=E9mom2ZBj9g)
 - [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 1&rpar;](https://www.youtube.com/watch?v=iC7VhhzBzWI)
 - [Estudia Conmigo Teoría de Grafos Parte 9](https://www.youtube.com/watch?v=0ReI-5cJn4Y)
 - [Estudia Conmigo Teoría de Grafos Parte 8](https://www.youtube.com/watch?v=U9XBzhxNRNA)
-- [Estudia Conmigo Teoría de Grafos Parte 7](https://www.youtube.com/watch?v=5CSzi9-PaxA)
 <!-- YOUTUBE:END -->
     
 </details>
