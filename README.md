@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [CHOCHITOS #1 Oswaldito](https://www.youtube.com/watch?v=NRsrHNL3BP8)
 - [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 7&rpar;](https://www.youtube.com/watch?v=MGborrfzpN8)
 - [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 6&rpar;](https://www.youtube.com/watch?v=gsEW737V1nk)
 - [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 5&rpar;](https://www.youtube.com/watch?v=O-cW3CcVQW8)
 - [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 4&rpar;](https://www.youtube.com/watch?v=2B6P8F7VaQA)
-- [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 3&rpar;](https://www.youtube.com/watch?v=0mq1bPmrOqU)
 <!-- YOUTUBE:END -->
     
 </details>
