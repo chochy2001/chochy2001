@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Hacer lo mejor que pueda con lo que tengo](https://www.youtube.com/watch?v=bcRQp28KFRY)
 - [¿Qué es un amigovio?](https://www.youtube.com/watch?v=h5CzHfXqaTo)
 - [CHOCHITOS #1 Oswaldito](https://www.youtube.com/watch?v=NRsrHNL3BP8)
 - [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 7&rpar;](https://www.youtube.com/watch?v=MGborrfzpN8)
 - [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 6&rpar;](https://www.youtube.com/watch?v=gsEW737V1nk)
-- [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 5&rpar;](https://www.youtube.com/watch?v=O-cW3CcVQW8)
 <!-- YOUTUBE:END -->
     
 </details>
