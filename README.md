@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [El hábito de la lectura](https://www.youtube.com/watch?v=nBOfNZ9bpXA)
 - [Aprender a pensar por uno mismo](https://www.youtube.com/watch?v=oSN5KBQvrhM)
 - [Hacer lo mejor que pueda con lo que tengo](https://www.youtube.com/watch?v=bcRQp28KFRY)
 - [¿Qué es un amigovio?](https://www.youtube.com/watch?v=h5CzHfXqaTo)
 - [CHOCHITOS #1 Oswaldito](https://www.youtube.com/watch?v=NRsrHNL3BP8)
-- [ESTUDIA CONMIGO INGENIERIA EN COMPUTACIÓN &lpar;GRAFOS 7&rpar;](https://www.youtube.com/watch?v=MGborrfzpN8)
 <!-- YOUTUBE:END -->
     
 </details>
