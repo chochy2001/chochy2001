@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Temas dificiles](https://www.youtube.com/watch?v=BTZKA4zvWhw)
 - [Perspectiva personal](https://www.youtube.com/watch?v=iZYQ_KLVqrI)
 - [¿Cómo sabes que sabes lo que sabes?](https://www.youtube.com/watch?v=P4nXC3XZ6_4)
 - [El hábito de la lectura](https://www.youtube.com/watch?v=nBOfNZ9bpXA)
 - [Aprender a pensar por uno mismo](https://www.youtube.com/watch?v=oSN5KBQvrhM)
-- [Hacer lo mejor que pueda con lo que tengo](https://www.youtube.com/watch?v=bcRQp28KFRY)
 <!-- YOUTUBE:END -->
     
 </details>
