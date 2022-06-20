@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [La responsabilidad de nuestros actos](https://www.youtube.com/watch?v=NXWUkd4CWlk)
 - [¿Cómo darle sentido a la vida?](https://www.youtube.com/watch?v=AaUmnnskMxU)
 - [¿La empatía nos hace ser más felices?](https://www.youtube.com/watch?v=8zI6bWFar8Y)
 - [¿Eres más productivo si optimizas tu tiempo?](https://www.youtube.com/watch?v=uAQ0oiziGj4)
 - [Temas dificiles](https://www.youtube.com/watch?v=BTZKA4zvWhw)
-- [Perspectiva personal](https://www.youtube.com/watch?v=iZYQ_KLVqrI)
 <!-- YOUTUBE:END -->
     
 </details>
