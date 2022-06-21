@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Cuestionar todo siempre](https://www.youtube.com/watch?v=wY-b5wjFDxI)
 - [El sutil arte de que te importe un carajo](https://www.youtube.com/watch?v=W6j0sxZSPvo)
 - [¿Qué es la meritocracia?](https://www.youtube.com/watch?v=lOMsArUtM9U)
 - [La responsabilidad de nuestros actos](https://www.youtube.com/watch?v=NXWUkd4CWlk)
 - [¿Cómo darle sentido a la vida?](https://www.youtube.com/watch?v=AaUmnnskMxU)
-- [¿La empatía nos hace ser más felices?](https://www.youtube.com/watch?v=8zI6bWFar8Y)
 <!-- YOUTUBE:END -->
     
 </details>
