@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [CHOCHITOS #35 Larios](https://www.youtube.com/watch?v=vQilhAyI-v8)
 - [Quédate con lo que te sirve](https://www.youtube.com/watch?v=pS617FDCbMk)
 - [El destino, las criticas y tu valor](https://www.youtube.com/watch?v=UeRNUbpMbqc)
 - [Señales de que te estan usando](https://www.youtube.com/watch?v=xlMB7nAKju4)
 - [Cuestionar todo siempre](https://www.youtube.com/watch?v=wY-b5wjFDxI)
-- [El sutil arte de que te importe un carajo](https://www.youtube.com/watch?v=W6j0sxZSPvo)
 <!-- YOUTUBE:END -->
     
 </details>
