@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [La ingeniería y la vocación](https://www.youtube.com/watch?v=mYx7dd7JcQs)
 - [Analfabetismo digital](https://www.youtube.com/watch?v=cGeoSlprThA)
 - [¿Qué es mejor Ciencias de la Computación o Ingeniería en Computación](https://www.youtube.com/watch?v=ye0HQ27UAFk)
 - [¿Cuál es la diferencia entre una escuela pública y una privada?](https://www.youtube.com/watch?v=-Y-lw6ai8cw)
 - [¿Cómo se da el emprendimiento?](https://www.youtube.com/watch?v=5esEwxkUNWE)
-- [Capacidades de un ingeniero en computación](https://www.youtube.com/watch?v=EhFm9ng0sBQ)
 <!-- YOUTUBE:END -->
     
 </details>
