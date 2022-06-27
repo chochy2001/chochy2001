@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Áreas laborales para ingenieros en computación](https://www.youtube.com/watch?v=e1rJsnKpziY)
 - [¿Qué busca un reclutador?](https://www.youtube.com/watch?v=iOKHE1wu8Ts)
 - [Capacidad de adaptarse](https://www.youtube.com/watch?v=etUo1q88S-E)
 - [La ingeniería y la vocación](https://www.youtube.com/watch?v=mYx7dd7JcQs)
 - [Analfabetismo digital](https://www.youtube.com/watch?v=cGeoSlprThA)
-- [¿Qué es mejor Ciencias de la Computación o Ingeniería en Computación](https://www.youtube.com/watch?v=ye0HQ27UAFk)
 <!-- YOUTUBE:END -->
     
 </details>
