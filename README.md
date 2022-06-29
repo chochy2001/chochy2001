@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Artes Marciales Mixtas o MMA](https://www.youtube.com/watch?v=Bh9gOOkMg_w)
 - [Naomi Sosa](https://www.youtube.com/watch?v=ri6jpuHAUYU)
 - [CHOCHITOS #36 Naomi Sosa](https://www.youtube.com/watch?v=cEDj1tAWxF8)
 - [Ser feliz para estar en paz](https://www.youtube.com/watch?v=qLhm47Z0UoE)
 - [Áreas laborales para ingenieros en computación](https://www.youtube.com/watch?v=e1rJsnKpziY)
-- [¿Qué busca un reclutador?](https://www.youtube.com/watch?v=iOKHE1wu8Ts)
 <!-- YOUTUBE:END -->
     
 </details>
