@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué tipo de artes marciales existen?](https://www.youtube.com/watch?v=hvWoUGM8N7w)
 - [Artes Marciales Mixtas o MMA](https://www.youtube.com/watch?v=Bh9gOOkMg_w)
 - [Naomi Sosa](https://www.youtube.com/watch?v=ri6jpuHAUYU)
 - [CHOCHITOS #36 Naomi Sosa](https://www.youtube.com/watch?v=cEDj1tAWxF8)
 - [Ser feliz para estar en paz](https://www.youtube.com/watch?v=qLhm47Z0UoE)
-- [Áreas laborales para ingenieros en computación](https://www.youtube.com/watch?v=e1rJsnKpziY)
 <!-- YOUTUBE:END -->
     
 </details>
