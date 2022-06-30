@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Puede una persona convertirse en peleador de MMA?](https://www.youtube.com/watch?v=qpnlfOq87tA)
 - [¿Que te enseñan en el judo?](https://www.youtube.com/watch?v=Y2nYLuvuUcA)
 - [¿Cuántos años tiene la MMA?](https://www.youtube.com/watch?v=IEzhV65850o)
 - [¿Qué tipo de artes marciales existen?](https://www.youtube.com/watch?v=hvWoUGM8N7w)
 - [Artes Marciales Mixtas o MMA](https://www.youtube.com/watch?v=Bh9gOOkMg_w)
-- [Naomi Sosa](https://www.youtube.com/watch?v=ri6jpuHAUYU)
 <!-- YOUTUBE:END -->
     
 </details>
