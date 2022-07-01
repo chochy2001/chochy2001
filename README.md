@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuál es el mejor sistema de defensa personal?](https://www.youtube.com/watch?v=kg-sXbcKKhg)
 - [¿Cuáles son los beneficios del boxeo?](https://www.youtube.com/watch?v=AUdGzKzEfqE)
 - [¿Puede una persona convertirse en peleador de MMA?](https://www.youtube.com/watch?v=qpnlfOq87tA)
 - [¿Que te enseñan en el judo?](https://www.youtube.com/watch?v=Y2nYLuvuUcA)
 - [¿Cuántos años tiene la MMA?](https://www.youtube.com/watch?v=IEzhV65850o)
-- [¿Qué tipo de artes marciales existen?](https://www.youtube.com/watch?v=hvWoUGM8N7w)
 <!-- YOUTUBE:END -->
     
 </details>
