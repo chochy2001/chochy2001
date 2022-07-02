@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Torneo Nacional de Artes Marciales Mixtas](https://www.youtube.com/watch?v=BskL7pmsMkw)
 - [Facultad de Derecho · UNAM](https://www.youtube.com/watch?v=6U4tllqKBn0)
 - [¿Cuáles son las técnicas en las peleas callejeras?](https://www.youtube.com/watch?v=jIJFmDHcAsI)
 - [¿Cuál es el mejor sistema de defensa personal?](https://www.youtube.com/watch?v=kg-sXbcKKhg)
 - [¿Cuáles son los beneficios del boxeo?](https://www.youtube.com/watch?v=AUdGzKzEfqE)
-- [¿Puede una persona convertirse en peleador de MMA?](https://www.youtube.com/watch?v=qpnlfOq87tA)
 <!-- YOUTUBE:END -->
     
 </details>
