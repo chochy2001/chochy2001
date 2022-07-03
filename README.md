@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Cuánto dinero y equipo se necesita para comenzar a entrenar MMA?](https://www.youtube.com/watch?v=Qu0-b9SsueU)
 - [Salud mental de los luchadores de la MMA](https://www.youtube.com/watch?v=afQgdVAWXlU)
 - [Lesiones en la MMA](https://www.youtube.com/watch?v=Z-P5zc4rcYg)
 - [Torneo Nacional de Artes Marciales Mixtas](https://www.youtube.com/watch?v=BskL7pmsMkw)
 - [Facultad de Derecho · UNAM](https://www.youtube.com/watch?v=6U4tllqKBn0)
-- [¿Cuáles son las técnicas en las peleas callejeras?](https://www.youtube.com/watch?v=jIJFmDHcAsI)
 <!-- YOUTUBE:END -->
     
 </details>
