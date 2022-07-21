@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Programando en Vivo Aplicacion movil](https://www.youtube.com/watch?v=GeW111xmVH8)
 - [Programando en Vivo Aplicacion movil](https://www.youtube.com/watch?v=M5tuTmcp93E)
 - [Especialidades de la carrera de derecho](https://www.youtube.com/watch?v=Lp8KDr7ZNf8)
 - [¿Cómo distinguir un peleador amateur de un profesional?](https://www.youtube.com/watch?v=DyTPz8hTMTg)
 - [Tiempo de preparación para una pelea en MMA](https://www.youtube.com/watch?v=7RycSaVhb70)
-- [¿Cuánto dinero y equipo se necesita para comenzar a entrenar MMA?](https://www.youtube.com/watch?v=Qu0-b9SsueU)
 <!-- YOUTUBE:END -->
     
 </details>
