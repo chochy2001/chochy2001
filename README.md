@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Editando Podcast de Jos  En Vivo](https://www.youtube.com/watch?v=uxbFJmRd2ak)
 - [Editando Podcast En Vivo](https://www.youtube.com/watch?v=WkBSJUubBbA)
 - [Programando en Vivo Aplicacion movil](https://www.youtube.com/watch?v=GeW111xmVH8)
 - [Programando en Vivo Aplicacion movil](https://www.youtube.com/watch?v=M5tuTmcp93E)
 - [Especialidades de la carrera de derecho](https://www.youtube.com/watch?v=Lp8KDr7ZNf8)
-- [¿Cómo distinguir un peleador amateur de un profesional?](https://www.youtube.com/watch?v=DyTPz8hTMTg)
 <!-- YOUTUBE:END -->
     
 </details>
