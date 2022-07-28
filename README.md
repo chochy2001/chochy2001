@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Editando Podcast En Vivo](https://www.youtube.com/watch?v=ZQtAZPOlLNQ)
-- [Editando Podcast de Jos  En Vivo](https://www.youtube.com/watch?v=uxbFJmRd2ak)
-- [Editando Podcast En Vivo](https://www.youtube.com/watch?v=WkBSJUubBbA)
-- [Programando en Vivo Aplicacion movil](https://www.youtube.com/watch?v=GeW111xmVH8)
-- [Programando en Vivo Aplicacion movil](https://www.youtube.com/watch?v=M5tuTmcp93E)
+- [Estudiar o no la Universidad / CHOCHY](https://www.youtube.com/watch?v=Zi8p99Vbwik)
+- [Estudiar o no estudiar la universidad / Salgado Miranda Jorge](https://www.youtube.com/watch?v=p7h6NeGBZxg)
+- [Estudiar o No la Universidad &lpar;Redacción&rpar; Jorge Salgado Miranda](https://www.youtube.com/watch?v=39eSqI6ryRg)
+- [Expectativas EDA II / CHOCHY](https://www.youtube.com/watch?v=cxcPUN_3xhY)
+- [Cuadratura Gaussiana](https://www.youtube.com/watch?v=D5E2MK7GlRI)
 <!-- YOUTUBE:END -->
     
 </details>
