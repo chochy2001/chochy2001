@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Salir del pais en busca de alcanzar un sueño](https://www.youtube.com/watch?v=DSk4M1UyEI0)
 - [CHOCHITOS #37 | J-ALEX | VIVIR DE LA MUSICA, EMIGRAR A OTRO PAIS](https://www.youtube.com/watch?v=YhrDEIEe6wg)
 - [Dandole a Fortnite un rato](https://www.youtube.com/watch?v=6Fnz9gwlzgg)
 - [Programando Aplicación Móvil en Vivo](https://www.youtube.com/watch?v=ANDaIGQfuM4)
 - [Editando Podcast En Vivo](https://www.youtube.com/watch?v=ZQtAZPOlLNQ)
-- [Editando Podcast de Jos  En Vivo](https://www.youtube.com/watch?v=uxbFJmRd2ak)
 <!-- YOUTUBE:END -->
     
 </details>
