@@ -95,7 +95,7 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [CHOCHITOS #37 | J-ALEX | VIVIR DE LA MUSICA, EMIGRAR A OTRO PAIS](https://www.youtube.com/watch?v=krfz_fbcAJs)
+- [CHOCHITOS #37 | J-ALEX | VIVIR DE LA MUSICA, EMIGRAR A OTRO PAIS](https://www.youtube.com/watch?v=YhrDEIEe6wg)
 - [Dandole a Fortnite un rato](https://www.youtube.com/watch?v=6Fnz9gwlzgg)
 - [Programando Aplicación Móvil en Vivo](https://www.youtube.com/watch?v=ANDaIGQfuM4)
 - [Editando Podcast En Vivo](https://www.youtube.com/watch?v=ZQtAZPOlLNQ)
