@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Balancear entre el trabajo y la creacion de musica](https://www.youtube.com/watch?v=7H9ISQLu4kg)
 - [¿Que tan caro es grabar una cancion para un artista emergente?](https://www.youtube.com/watch?v=moDd_8J3LM4)
 - [Existen muchas diferencias entre Venezuela y Mexico??](https://www.youtube.com/watch?v=b4zisOA9zrU)
 - [Trato hacia los inmigrantes](https://www.youtube.com/watch?v=VatbJ7WP_Xc)
 - [Salir del pais en busca de alcanzar un sueño](https://www.youtube.com/watch?v=DSk4M1UyEI0)
-- [CHOCHITOS #37 | J-ALEX | VIVIR DE LA MUSICA, EMIGRAR A OTRO PAIS](https://www.youtube.com/watch?v=YhrDEIEe6wg)
 <!-- YOUTUBE:END -->
     
 </details>
