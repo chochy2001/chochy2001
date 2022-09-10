@@ -109,11 +109,11 @@ __Cursos:__
     <summary>❗️ Ver</summary>
     
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#925](https://github.com/FernandoArreolaF/Bases1UNAM/pull/925) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
-2. ❌ Closed PR [#925](https://github.com/FernandoArreolaF/Bases1UNAM/pull/925) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
-3. 💪 Opened PR [#925](https://github.com/FernandoArreolaF/Bases1UNAM/pull/925) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
-4. 💪 Opened PR [#919](https://github.com/FernandoArreolaF/Bases1UNAM/pull/919) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
-5. 💪 Opened PR [#912](https://github.com/FernandoArreolaF/Bases1UNAM/pull/912) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
+1. 💪 Opened PR [#940](https://github.com/FernandoArreolaF/Bases1UNAM/pull/940) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
+2. ❌ Reopened PR [#925](https://github.com/FernandoArreolaF/Bases1UNAM/pull/925) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
+3. ❌ Closed PR [#925](https://github.com/FernandoArreolaF/Bases1UNAM/pull/925) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
+4. 💪 Opened PR [#925](https://github.com/FernandoArreolaF/Bases1UNAM/pull/925) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
+5. 💪 Opened PR [#919](https://github.com/FernandoArreolaF/Bases1UNAM/pull/919) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
 <!--END_SECTION:activity-->
 
 </details>
