@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [¿Qué es la Izquierda y derecha en politica?](https://www.youtube.com/watch?v=Qd7EFM4G5-o)
 - [CHOCHITOS #38 | JOS | PERTENECER A LA COMUNIDAD LGBTTTIQ Y EL MACHISMO EN MEXICO | EL DERECHO](https://www.youtube.com/watch?v=bfNWY-DCR_0)
 - [Mis idolos en la musica con quienes me gustaria colaborar](https://www.youtube.com/watch?v=RcX3n2RDSUA)
 - [Balancear entre el trabajo y la creacion de musica](https://www.youtube.com/watch?v=7H9ISQLu4kg)
 - [¿Que tan caro es grabar una cancion para un artista emergente?](https://www.youtube.com/watch?v=moDd_8J3LM4)
-- [Existen muchas diferencias entre Venezuela y Mexico??](https://www.youtube.com/watch?v=b4zisOA9zrU)
 <!-- YOUTUBE:END -->
     
 </details>
