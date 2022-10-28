@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Especialidades de Derecho ofrecidad en la UNAM y a qué se enfocan](https://www.youtube.com/watch?v=6qrxaHWacL8)
 - [Derecho laboral y la informalidad en México](https://www.youtube.com/watch?v=X4vzgauNIuY)
 - [¿Qué es la Izquierda y derecha en politica?](https://www.youtube.com/watch?v=Qd7EFM4G5-o)
 - [CHOCHITOS #38 | JOS | PERTENECER A LA COMUNIDAD LGBTTTIQ Y EL MACHISMO EN MEXICO | EL DERECHO](https://www.youtube.com/watch?v=bfNWY-DCR_0)
 - [Mis idolos en la musica con quienes me gustaria colaborar](https://www.youtube.com/watch?v=RcX3n2RDSUA)
-- [Balancear entre el trabajo y la creacion de musica](https://www.youtube.com/watch?v=7H9ISQLu4kg)
 <!-- YOUTUBE:END -->
     
 </details>
