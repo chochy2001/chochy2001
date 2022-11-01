@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Como es ser homosexual en México, ¿comentarios homofobicos?](https://www.youtube.com/watch?v=488sV26x_sI)
 - [Ambiente entre la comunidad de la facultad de Derecho UNAM](https://www.youtube.com/watch?v=DUiv3pPg4k8)
 - [Especialidades de Derecho ofrecidad en la UNAM y a qué se enfocan](https://www.youtube.com/watch?v=6qrxaHWacL8)
 - [Derecho laboral y la informalidad en México](https://www.youtube.com/watch?v=X4vzgauNIuY)
 - [¿Qué es la Izquierda y derecha en politica?](https://www.youtube.com/watch?v=Qd7EFM4G5-o)
-- [CHOCHITOS #38 | JOS | PERTENECER A LA COMUNIDAD LGBTTTIQ Y EL MACHISMO EN MEXICO | EL DERECHO](https://www.youtube.com/watch?v=bfNWY-DCR_0)
 <!-- YOUTUBE:END -->
     
 </details>
