@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Las consecuencias de la cultura de la cancelación y la rectivimización](https://www.youtube.com/watch?v=aoejN9_APEk)
 - [Acoso por parte de profesores de la facultad de Derecho UNAM y el conservadurismo](https://www.youtube.com/watch?v=x2Hy3uB7dSw)
 - [Como es ser homosexual en México, ¿comentarios homofobicos?](https://www.youtube.com/watch?v=488sV26x_sI)
 - [Ambiente entre la comunidad de la facultad de Derecho UNAM](https://www.youtube.com/watch?v=DUiv3pPg4k8)
 - [Especialidades de Derecho ofrecidad en la UNAM y a qué se enfocan](https://www.youtube.com/watch?v=6qrxaHWacL8)
-- [Derecho laboral y la informalidad en México](https://www.youtube.com/watch?v=X4vzgauNIuY)
 <!-- YOUTUBE:END -->
     
 </details>
