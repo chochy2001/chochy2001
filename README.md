@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Programando Aplicación Móvil EN VIVO](https://www.youtube.com/watch?v=VtlU4s2Cgbw)
 - [Ejemplos de micromachismos en nuestra vida diaria](https://www.youtube.com/watch?v=b1P6ImoiXPI)
 - [Los roles de genero que impone la sociedad](https://www.youtube.com/watch?v=adgBlJRoFoE)
 - [¿Cuándo se considera alguna accion como acoso?](https://www.youtube.com/watch?v=McU-L-sUBYE)
 - [Las consecuencias de la cultura de la cancelación y la rectivimización](https://www.youtube.com/watch?v=aoejN9_APEk)
-- [Acoso por parte de profesores de la facultad de Derecho UNAM y el conservadurismo](https://www.youtube.com/watch?v=x2Hy3uB7dSw)
 <!-- YOUTUBE:END -->
     
 </details>
