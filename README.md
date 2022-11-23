@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=ZIywWKjslms)
+- [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=YXSSxNONvc8)
 - [Programando en VIVO app Movil](https://www.youtube.com/watch?v=DVYDfxKBKeM)
 - [Programando Aplicación Móvil EN VIVO](https://www.youtube.com/watch?v=VtlU4s2Cgbw)
 - [Ejemplos de micromachismos en nuestra vida diaria](https://www.youtube.com/watch?v=b1P6ImoiXPI)
-- [Los roles de genero que impone la sociedad](https://www.youtube.com/watch?v=adgBlJRoFoE)
-- [¿Cuándo se considera alguna accion como acoso?](https://www.youtube.com/watch?v=McU-L-sUBYE)
 <!-- YOUTUBE:END -->
     
 </details>
