@@ -95,11 +95,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=fFx7UinJhp8)
 - [Programando App En VIVO](https://www.youtube.com/watch?v=YEWUs-AbR2M)
 - [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=ZIywWKjslms)
 - [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=YXSSxNONvc8)
 - [Programando en VIVO app Movil](https://www.youtube.com/watch?v=DVYDfxKBKeM)
-- [Programando Aplicación Móvil EN VIVO](https://www.youtube.com/watch?v=VtlU4s2Cgbw)
 <!-- YOUTUBE:END -->
     
 </details>
