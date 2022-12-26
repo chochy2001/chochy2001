@@ -95,8 +95,8 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=WU8bsfnCVxU)
 - [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=_zmfx8hR1RU)
+- [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=WU8bsfnCVxU)
 - [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=fFx7UinJhp8)
 - [Programando App En VIVO](https://www.youtube.com/watch?v=YEWUs-AbR2M)
 - [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=ZIywWKjslms)
