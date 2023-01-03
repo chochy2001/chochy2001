@@ -109,10 +109,10 @@ __Cursos:__
     <summary>❗️ Ver</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/chochy2001/codders_postgres/pull/5) in [chochy2001/codders_postgres](https://github.com/chochy2001/codders_postgres)
-2. 🎉 Merged PR [#2](https://github.com/chochy2001/codders_postgres/pull/2) in [chochy2001/codders_postgres](https://github.com/chochy2001/codders_postgres)
-3. 🎉 Merged PR [#1](https://github.com/chochy2001/codders_postgres/pull/1) in [chochy2001/codders_postgres](https://github.com/chochy2001/codders_postgres)
-4. 💪 Opened PR [#940](https://github.com/FernandoArreolaF/Bases1UNAM/pull/940) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
+1. 🎉 Merged PR [#6](https://github.com/chochy2001/codders_postgres/pull/6) in [chochy2001/codders_postgres](https://github.com/chochy2001/codders_postgres)
+2. 🎉 Merged PR [#5](https://github.com/chochy2001/codders_postgres/pull/5) in [chochy2001/codders_postgres](https://github.com/chochy2001/codders_postgres)
+3. 🎉 Merged PR [#2](https://github.com/chochy2001/codders_postgres/pull/2) in [chochy2001/codders_postgres](https://github.com/chochy2001/codders_postgres)
+4. 🎉 Merged PR [#1](https://github.com/chochy2001/codders_postgres/pull/1) in [chochy2001/codders_postgres](https://github.com/chochy2001/codders_postgres)
 5. ❌ Reopened PR [#925](https://github.com/FernandoArreolaF/Bases1UNAM/pull/925) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
 <!--END_SECTION:activity-->
 
