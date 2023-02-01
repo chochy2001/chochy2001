@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Identidades Trigonométricas Pitagóricas](https://www.youtube.com/watch?v=h9SKyJ2ncC4)
+- [Identidades Trigonometricas básicas](https://www.youtube.com/watch?v=8wy0mdL6_RA)
 - [Proyecto PostgreSQL con Flutter, CRUD con flutter con código Fuente](https://www.youtube.com/watch?v=2FCbrstWTiI)
 - [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=_zmfx8hR1RU)
 - [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=WU8bsfnCVxU)
-- [Estudia conmigo en VIVO Bases de Datos](https://www.youtube.com/watch?v=fFx7UinJhp8)
-- [Programando App En VIVO](https://www.youtube.com/watch?v=YEWUs-AbR2M)
 <!-- YOUTUBE:END -->
     
 </details>
