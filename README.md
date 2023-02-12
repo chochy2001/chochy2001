@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [identidades Trigonometricas par e impar](https://www.youtube.com/watch?v=XVNLu7O9RwU)
 - [Identidades Trigonometricas por Cociente](https://www.youtube.com/watch?v=FJIUv8o-vlw)
 - [Identidades Trigonometricas Reciprocas](https://www.youtube.com/watch?v=KwHHXUzdhEo)
 - [Identidades Trigonométricas Pitagóricas](https://www.youtube.com/watch?v=h9SKyJ2ncC4)
 - [Identidades Trigonometricas básicas](https://www.youtube.com/watch?v=8wy0mdL6_RA)
-- [Proyecto PostgreSQL con Flutter, CRUD con flutter con código Fuente](https://www.youtube.com/watch?v=2FCbrstWTiI)
 <!-- YOUTUBE:END -->
     
 </details>
