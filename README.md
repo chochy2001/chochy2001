@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Mejores Extensiones de VSCode para Javascript](https://www.youtube.com/watch?v=wE92WGVPIM4)
-- [Mejores Extensiones en Visual Studio Code de C y C++](https://www.youtube.com/watch?v=-wRuyKPHOfM)
 - [identidades Trigonometricas par e impar](https://www.youtube.com/watch?v=XVNLu7O9RwU)
 - [Identidades Trigonometricas por Cociente](https://www.youtube.com/watch?v=FJIUv8o-vlw)
 - [Identidades Trigonometricas Reciprocas](https://www.youtube.com/watch?v=KwHHXUzdhEo)
+- [Identidades Trigonométricas Pitagóricas](https://www.youtube.com/watch?v=h9SKyJ2ncC4)
+- [Identidades Trigonometricas básicas](https://www.youtube.com/watch?v=8wy0mdL6_RA)
 <!-- YOUTUBE:END -->
     
 </details>
