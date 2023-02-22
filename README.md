@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Poner Subtitulos a tus vídeo con inteligencia Artificial en Premiere Pro](https://www.youtube.com/watch?v=yS1NX3_kNZk)
 - [Mejores Extensiones en Visual Studio Code de C y C++](https://www.youtube.com/watch?v=-wRuyKPHOfM)
 - [Identidades Trigonometricas Ángulos Complementarios y Suplementarios](https://www.youtube.com/watch?v=2llqB9f7WEI)
 - [identidades Trigonometricas par e impar](https://www.youtube.com/watch?v=XVNLu7O9RwU)
 - [Identidades Trigonometricas por Cociente](https://www.youtube.com/watch?v=FJIUv8o-vlw)
-- [Identidades Trigonometricas Reciprocas](https://www.youtube.com/watch?v=KwHHXUzdhEo)
 <!-- YOUTUBE:END -->
     
 </details>
