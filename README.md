@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Curso C. Operaciones con polinomios #creación del Proyecto](https://www.youtube.com/watch?v=mIG270IBlcg)
 - [Como buscar archivos por extensión en el explorador de archivos de windows](https://www.youtube.com/watch?v=DoS9CqteI5g)
 - [Programando en VIVO Aplicación Móvil](https://www.youtube.com/watch?v=Oqt2kWwwQTI)
 - [Poner Subtitulos a tus vídeo con inteligencia Artificial en Premiere Pro](https://www.youtube.com/watch?v=yS1NX3_kNZk)
 - [Mejores Extensiones en Visual Studio Code de C y C++](https://www.youtube.com/watch?v=-wRuyKPHOfM)
-- [Identidades Trigonometricas Ángulos Complementarios y Suplementarios](https://www.youtube.com/watch?v=2llqB9f7WEI)
 <!-- YOUTUBE:END -->
     
 </details>
