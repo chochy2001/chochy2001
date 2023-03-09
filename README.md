@@ -97,7 +97,7 @@ __Cursos:__
     
 <!-- YOUTUBE:START -->
 - [Mejora tu audio con Adobe Enhance y Audition](https://www.youtube.com/watch?v=rzDI7PL8ZPs)
-- [Curso C. Operaciones con polinomios #creación del Proyecto](https://www.youtube.com/watch?v=mIG270IBlcg)
+- [Curso C || Operaciones con polinomios #1 creación del Proyecto](https://www.youtube.com/watch?v=mIG270IBlcg)
 - [Como buscar archivos por extensión en el explorador de archivos de windows](https://www.youtube.com/watch?v=DoS9CqteI5g)
 - [Programando en VIVO Aplicación Móvil](https://www.youtube.com/watch?v=Oqt2kWwwQTI)
 - [Poner Subtitulos a tus vídeo con inteligencia Artificial en Premiere Pro](https://www.youtube.com/watch?v=yS1NX3_kNZk)
