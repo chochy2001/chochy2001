@@ -110,11 +110,11 @@ __Cursos:__
     <summary>❗️ Ver</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/4) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
-2. 🎉 Merged PR [#3](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios/pull/3) in [chochy2001/Operaciones_con_Vectores_y_Polinomios](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios)
-3. 🎉 Merged PR [#2](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios/pull/2) in [chochy2001/Operaciones_con_Vectores_y_Polinomios](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios)
-4. 🎉 Merged PR [#1](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios/pull/1) in [chochy2001/Operaciones_con_Vectores_y_Polinomios](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios)
-5. 💪 Opened PR [#1035](https://github.com/FernandoArreolaF/Bases1UNAM/pull/1035) in [FernandoArreolaF/Bases1UNAM](https://github.com/FernandoArreolaF/Bases1UNAM)
+1. 💪 Opened PR [#2](https://github.com/alejandro-ic-10/repoLarios/pull/2) in [alejandro-ic-10/repoLarios](https://github.com/alejandro-ic-10/repoLarios)
+2. 💪 Opened PR [#1](https://github.com/alejandro-ic-10/repoLarios/pull/1) in [alejandro-ic-10/repoLarios](https://github.com/alejandro-ic-10/repoLarios)
+3. 🎉 Merged PR [#4](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/4) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
+4. 🎉 Merged PR [#3](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios/pull/3) in [chochy2001/Operaciones_con_Vectores_y_Polinomios](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios)
+5. 🎉 Merged PR [#2](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios/pull/2) in [chochy2001/Operaciones_con_Vectores_y_Polinomios](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios)
 <!--END_SECTION:activity-->
 
 </details>
