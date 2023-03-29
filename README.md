@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Como Sincronizar tu audio en Obs y Streamlabs](https://www.youtube.com/watch?v=2ZdFvLiwWp4)
 - [Curso C || Operaciones con polinomios #4 Sumar vectores](https://www.youtube.com/watch?v=Ds257DsOWkw)
 - [Descargar Imágenes sin fondo desde Google](https://www.youtube.com/watch?v=etaB_jvt_Og)
 - [Curso C || Operaciones con polinomios #3 Imprimir vectores](https://www.youtube.com/watch?v=BBSuBKV900k)
 - [Mejores Extensiones de VSCode para Javascript](https://www.youtube.com/watch?v=wE92WGVPIM4)
-- [Curso C || Operaciones con polinomios #2 Llenar vectores](https://www.youtube.com/watch?v=YX_w_wp9ze8)
 <!-- YOUTUBE:END -->
     
 </details>
