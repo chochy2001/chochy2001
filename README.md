@@ -110,11 +110,11 @@ __Cursos:__
     <summary>❗️ Ver</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/5) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
-2. 💪 Opened PR [#2](https://github.com/alejandro-ic-10/repoLarios/pull/2) in [alejandro-ic-10/repoLarios](https://github.com/alejandro-ic-10/repoLarios)
-3. 💪 Opened PR [#1](https://github.com/alejandro-ic-10/repoLarios/pull/1) in [alejandro-ic-10/repoLarios](https://github.com/alejandro-ic-10/repoLarios)
-4. 🎉 Merged PR [#4](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/4) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
-5. 🎉 Merged PR [#3](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios/pull/3) in [chochy2001/Operaciones_con_Vectores_y_Polinomios](https://github.com/chochy2001/Operaciones_con_Vectores_y_Polinomios)
+1. 🎉 Merged PR [#6](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/6) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
+2. 🎉 Merged PR [#5](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/5) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
+3. 💪 Opened PR [#2](https://github.com/alejandro-ic-10/repoLarios/pull/2) in [alejandro-ic-10/repoLarios](https://github.com/alejandro-ic-10/repoLarios)
+4. 💪 Opened PR [#1](https://github.com/alejandro-ic-10/repoLarios/pull/1) in [alejandro-ic-10/repoLarios](https://github.com/alejandro-ic-10/repoLarios)
+5. 🎉 Merged PR [#4](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/4) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
 <!--END_SECTION:activity-->
 
 </details>
