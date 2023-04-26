@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Cómo crear una cámara circular en OBS](https://www.youtube.com/watch?v=GrEw-mNN8DM)
 - [Mejora tu productividad en los IDE&#39;s de Jetbrains](https://www.youtube.com/watch?v=Ml0zbMxxcw0)
 - [Mejora la apariencia de tus miniaturas en todas las plataformas de YouTube con esta herramienta](https://www.youtube.com/watch?v=upAZJ1rM9WI)
 - [Proceso para grabar editar y subir un video a youtube](https://www.youtube.com/watch?v=z9O4hguroFI)
 - [Como Sincronizar tu audio en Obs y Streamlabs](https://www.youtube.com/watch?v=2ZdFvLiwWp4)
-- [Curso C || Operaciones con polinomios #4 Sumar vectores](https://www.youtube.com/watch?v=Ds257DsOWkw)
 <!-- YOUTUBE:END -->
     
 </details>
