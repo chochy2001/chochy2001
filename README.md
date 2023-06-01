@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Compiladores / Eliminar recursividad izquierda](https://www.youtube.com/watch?v=JsvC1mtE2nM)
 - [Compiladores / Eliminar ambiguedad](https://www.youtube.com/watch?v=QpfqRbhyBYk)
 - [La MEJOR APP para estudiantes / Formulae Pro &amp; Formulae Community](https://www.youtube.com/watch?v=5a-1hC3TgI8)
 - [Cómo crear una cámara circular en OBS](https://www.youtube.com/watch?v=GrEw-mNN8DM)
 - [Mejora tu productividad en los IDE&#39;s de Jetbrains](https://www.youtube.com/watch?v=Ml0zbMxxcw0)
-- [Mejora la apariencia de tus miniaturas en todas las plataformas de YouTube con esta herramienta](https://www.youtube.com/watch?v=upAZJ1rM9WI)
 <!-- YOUTUBE:END -->
     
 </details>
