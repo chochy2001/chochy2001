@@ -110,11 +110,11 @@ __Cursos:__
     <summary>❗️ Ver</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/chochy2001/Calculadora_distintas_bases/pull/1) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
-2. 🎉 Merged PR [#8](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/8) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
-3. 🎉 Merged PR [#9](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/9) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
-4. 🎉 Merged PR [#5](https://github.com/chochy2001/Compiladores/pull/5) in [chochy2001/Compiladores](https://github.com/chochy2001/Compiladores)
-5. 🎉 Merged PR [#3](https://github.com/chochy2001/Compiladores/pull/3) in [chochy2001/Compiladores](https://github.com/chochy2001/Compiladores)
+1. 🎉 Merged PR [#2](https://github.com/chochy2001/Calculadora_distintas_bases/pull/2) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
+2. 🎉 Merged PR [#1](https://github.com/chochy2001/Calculadora_distintas_bases/pull/1) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
+3. 🎉 Merged PR [#8](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/8) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
+4. 🎉 Merged PR [#9](https://github.com/chochy2001/Tareas_Inteligencia_Artificial/pull/9) in [chochy2001/Tareas_Inteligencia_Artificial](https://github.com/chochy2001/Tareas_Inteligencia_Artificial)
+5. 🎉 Merged PR [#5](https://github.com/chochy2001/Compiladores/pull/5) in [chochy2001/Compiladores](https://github.com/chochy2001/Compiladores)
 <!--END_SECTION:activity-->
 
 </details>
