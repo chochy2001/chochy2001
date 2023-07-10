@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Exponents Properties](https://www.youtube.com/watch?v=f9u-Nvta51U)
 - [The best app for students / Formulae Pro &amp; Formulae Community](https://www.youtube.com/watch?v=KZld6li5f7A)
 - [Compiladores / Eliminar recursividad izquierda](https://www.youtube.com/watch?v=JsvC1mtE2nM)
 - [Compiladores / Eliminar ambiguedad](https://www.youtube.com/watch?v=QpfqRbhyBYk)
 - [La MEJOR APP para estudiantes / Formulae Pro &amp; Formulae Community](https://www.youtube.com/watch?v=5a-1hC3TgI8)
-- [Cómo crear una cámara circular en OBS](https://www.youtube.com/watch?v=GrEw-mNN8DM)
 <!-- YOUTUBE:END -->
     
 </details>
