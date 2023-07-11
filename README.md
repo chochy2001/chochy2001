@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [propiedades y usos arboles binarios y busqueda binaria](https://www.youtube.com/watch?v=hpS_Jb9H_r0)
 - [implementacion eficiente representacion arboles en C](https://www.youtube.com/watch?v=3ltcnt3FtSY)
 - [introduccion arboles](https://www.youtube.com/watch?v=R4vZDaFyJSY)
 - [Exponents Properties](https://www.youtube.com/watch?v=f9u-Nvta51U)
 - [The best app for students / Formulae Pro &amp; Formulae Community](https://www.youtube.com/watch?v=KZld6li5f7A)
-- [Compiladores / Eliminar recursividad izquierda](https://www.youtube.com/watch?v=JsvC1mtE2nM)
 <!-- YOUTUBE:END -->
     
 </details>
