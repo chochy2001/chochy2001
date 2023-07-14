@@ -96,11 +96,11 @@ __Cursos:__
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [arbol binario y arbol binario de busqueda](https://www.youtube.com/watch?v=bTDEZRrvW8E)
 - [operaciones cruciales en arboles](https://www.youtube.com/watch?v=LOMQvWQA-fU)
 - [propiedades y usos arboles binarios y busqueda binaria](https://www.youtube.com/watch?v=hpS_Jb9H_r0)
 - [implementacion eficiente representacion arboles en C](https://www.youtube.com/watch?v=3ltcnt3FtSY)
 - [introduccion arboles](https://www.youtube.com/watch?v=R4vZDaFyJSY)
-- [Exponents Properties](https://www.youtube.com/watch?v=f9u-Nvta51U)
 <!-- YOUTUBE:END -->
     
 </details>
