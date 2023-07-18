@@ -28,7 +28,7 @@ He tenido el privilegio de impartir cursos que abarcan varios aspectos del desar
 ### 📺 Nuestras aplicaciones
 
 [<img align="left" alt="Formulae" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
-**Formulae**
+**Formulae Apps**
 <br />
 <br />
 
