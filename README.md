@@ -1,16 +1,18 @@
-### ¡Hola a todos! Mi nombre es Jorge - aka [Chochy][Facebook] 👋
+### ¡Saludos a todos! Mi nombre es Jorge, también conocido en la industria como [Chochy][Facebook] 👋
 
-## Soy estudiante, Profesor y desarrollador de Software
+## Como CEO de Capdesis, soy un apasionado de la tecnología y la educación. Además de dirigir nuestra empresa en su misión de innovar y crecer, también tengo el placer de ser un educador y un desarrollador de software con una variedad de habilidades en mi repertorio.
 
-- Estos son algunos de mis cursos:
+He tenido el privilegio de impartir cursos que abarcan varios aspectos del desarrollo de software y las herramientas esenciales para ello:
+
 - 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
 - 👉[Curso de Golang](https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03)[<img align="left" alt="CursoC" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][cursoC]!
 - 👉[Curso de Git & GitHub](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
 - 👉[Curso de Photoshop](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
 - 👉[Curso de Vim](https://www.udemy.com/course/chochy_vim/?referralCode=E79B7EB4B6A5E52CD97D)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />][cursoPhotoshop]!
 - 👉[Curso de Introducción a la Programación en Varios Lenguajes](https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][cursoPhotoshop]!
-- ⚡ Busco colaborar con otros creadores de contenido
-- ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
+- Estoy siempre buscando colaborar con otros creadores de contenido y profesionales de la industria, para aprender juntos y crear soluciones tecnológicas más impactantes. Mi filosofía es de aprendizaje constante y crecimiento continuo, principios que también infundo en la cultura de Capdesis.
+
+- Como parte integral de Capdesis, mi objetivo es garantizar que ofrecemos soluciones de software y automatización del hogar personalizadas y de alta calidad a todos nuestros clientes. Estoy emocionado de continuar liderando a Capdesis en su camino de innovación y excelencia. ¡Sigamos redefiniendo juntos las fronteras de la tecnología! #Capdesis #Innovación #EducaciónTecnológica
 
 ### Contactame!:
 
