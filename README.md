@@ -27,22 +27,11 @@ He tenido el privilegio de impartir cursos que abarcan varios aspectos del desar
 ---
 ### 📺 Nuestras aplicaciones
 
-[<img align="left" alt="Formulae Math" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
-**Formulae Math** *(Gratis)*
+[<img align="left" alt="Formulae Math" width="30px" src="[https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw](https://formulaeapps.com/)" />][Formulae]
+**Formulae**
 <br />
 <br />
-[<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
-**Calculadora de Fisica** *(Gratis)*
-<br />
-<br />
-[<img align="left" alt="Formulae Math Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
-**Formulae Math Pro** *(De Pago)*
-<br />
-<br />
-[<img align="left" alt="Formulae Calculo Pro English Version" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaeProIngles]
-**Formulae Math Pro English Version** *(De Pago)*
-<br />
-<br />
+
 
 ## 🔎 Mis estadisticas:
 <details>
