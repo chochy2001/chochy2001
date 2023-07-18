@@ -27,12 +27,10 @@ He tenido el privilegio de impartir cursos que abarcan varios aspectos del desar
 ---
 ### 📺 Nuestras aplicaciones
 
-[<img align="left" alt="Formulae Math" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][https://formulaeapps.com/]
+[<img align="left" alt="Formulae" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
 **Formulae**
 <br />
 <br />
-[<img align="left" alt="Formulae Math" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
-**Formulae Math** *(Gratis)*
 
 
 ## 🔎 Mis estadisticas:
@@ -87,7 +85,7 @@ He tenido el privilegio de impartir cursos que abarcan varios aspectos del desar
 [cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
 [web]:  https://www.google.com/
 
-[Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae
+[Formulae]: https://formulaeapps.com/
 [FormulaePro]: https://play.google.com/store/apps/details?id=com.capdesis.formulae_pro.formulae_calculo_pro
 [Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
 [FormulaeProIngles]: https://play.google.com/store/apps/details?id=com.capdesis.formulae.pro.english.formulae_pro_english_version
