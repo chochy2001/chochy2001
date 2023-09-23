@@ -50,11 +50,11 @@ He tenido el privilegio de impartir cursos que abarcan varios aspectos del desar
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
+- [Simulador de Procesos en Java](https://www.youtube.com/watch?v=Zp9mvQQ93h0)
 - [arbol binario y arbol binario de busqueda](https://www.youtube.com/watch?v=bTDEZRrvW8E)
 - [operaciones cruciales en arboles](https://www.youtube.com/watch?v=LOMQvWQA-fU)
 - [propiedades y usos arboles binarios y busqueda binaria](https://www.youtube.com/watch?v=hpS_Jb9H_r0)
 - [implementacion eficiente representacion arboles en C](https://www.youtube.com/watch?v=3ltcnt3FtSY)
-- [introduccion arboles](https://www.youtube.com/watch?v=R4vZDaFyJSY)
 <!-- YOUTUBE:END -->
     
 </details>
