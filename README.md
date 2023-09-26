@@ -44,9 +44,9 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
 
 </details>
 
-## 📺 Últimos vídeos de YouTube
+## 📺 My last Youtube Videos
 <details>
-    <summary>📺 Ver</summary>
+    <summary>📺 View</summary>
     
 <!-- YOUTUBE:START -->
 - [Simulador de Procesos en Java](https://www.youtube.com/watch?v=Zp9mvQQ93h0)
@@ -58,9 +58,9 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     
 </details>
 
-## ❗️ Actividad Reciente
+## ❗️ Recent Activity
 <details>
-    <summary>❗️ Ver</summary>
+    <summary>❗️ Veiew</summary>
     
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/chochy2001/Calculadora_distintas_bases/pull/6) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
