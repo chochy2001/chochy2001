@@ -1,20 +1,21 @@
-### ¡Saludos a todos! Mi nombre es Jorge, también conocido en la industria como [Chochy][Facebook] 👋
+### Greetings everyone! My name is Jorge, also known in the industry as [Chochy][Facebook] 👋
 
-## Como CEO de Capdesis, soy un apasionado de la tecnología y la educación. Además de dirigir nuestra empresa en su misión de innovar y crecer, también tengo el placer de ser un educador y un desarrollador de software con una variedad de habilidades en mi repertorio.
+## As the CEO of Capdesis, I am passionate about technology and education. In addition to leading our company in its mission to innovate and grow, I also have the pleasure of being an educator and a software developer with a variety of skills in my repertoire.
 
-He tenido el privilegio de impartir cursos que abarcan varios aspectos del desarrollo de software y las herramientas esenciales para ello:
+I've had the privilege of teaching courses that cover various aspects of software development and the essential tools for it:
 
-- 👉[Curso de C](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
-- 👉[Curso de Golang](https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03)[<img align="left" alt="CursoC" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][cursoC]!
-- 👉[Curso de Git & GitHub](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
-- 👉[Curso de Photoshop](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
-- 👉[Curso de Vim](https://www.udemy.com/course/chochy_vim/?referralCode=E79B7EB4B6A5E52CD97D)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />][cursoPhotoshop]!
-- 👉[Curso de Introducción a la Programación en Varios Lenguajes](https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][cursoPhotoshop]!
-- Estoy siempre buscando colaborar con otros creadores de contenido y profesionales de la industria, para aprender juntos y crear soluciones tecnológicas más impactantes. Mi filosofía es de aprendizaje constante y crecimiento continuo, principios que también infundo en la cultura de Capdesis.
+- 👉[C Course](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
+- 👉[Golang Course](https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03)[<img align="left" alt="CursoC" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][cursoC]!
+- 👉[Git & GitHub Course](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
+- 👉[Photoshop Course](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
+- 👉[Vim Course](https://www.udemy.com/course/chochy_vim/?referralCode=E79B7EB4B6A5E52CD97D)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" />][cursoPhotoshop]!
+- 👉[Introduction to Programming in Various Languages Course](https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][cursoPhotoshop]!
 
-- Como parte integral de Capdesis, mi objetivo es garantizar que ofrecemos soluciones de software y automatización del hogar personalizadas y de alta calidad a todos nuestros clientes. Estoy emocionado de continuar liderando a Capdesis en su camino de innovación y excelencia. ¡Sigamos redefiniendo juntos las fronteras de la tecnología! #Capdesis #Innovación #EducaciónTecnológica
+I am always looking to collaborate with other content creators and industry professionals to learn together and create more impactful technological solutions. My philosophy is constant learning and continuous growth, principles that I also instill in the culture of Capdesis.
 
-### Contactame!:
+As an integral part of Capdesis, my goal is to ensure that we offer personalized and high-quality software and home automation solutions to all our clients. I am excited to continue leading Capdesis on its path of innovation and excellence. Let's keep redefining the boundaries of technology together! #Capdesis #Innovation #TechnologicalEducation
+
+### Contact me!:
 
 [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />][youtube]
@@ -23,19 +24,17 @@ He tenido el privilegio de impartir cursos que abarcan varios aspectos del desar
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
 <br />
 
-
 ---
-### 📺 Nuestras aplicaciones
+### 📺 Our Apps
 
 [<img align="left" alt="Formulae" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
 **Formulae Apps**
 <br />
 <br />
 
-
-## 🔎 Mis estadisticas:
+## 🔎 My Stats:
 <details>
-    <summary>🔎 Ver</summary>
+    <summary>🔎 View</summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
 
