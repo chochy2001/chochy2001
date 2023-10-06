@@ -54,10 +54,10 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     
 <!-- YOUTUBE:START -->
 - [Simulador de Procesos en Java](https://www.youtube.com/watch?v=Zp9mvQQ93h0)
-- [arbol binario y arbol binario de busqueda](https://www.youtube.com/watch?v=bTDEZRrvW8E)
-- [operaciones cruciales en arboles](https://www.youtube.com/watch?v=LOMQvWQA-fU)
-- [propiedades y usos arboles binarios y busqueda binaria](https://www.youtube.com/watch?v=hpS_Jb9H_r0)
-- [implementacion eficiente representacion arboles en C](https://www.youtube.com/watch?v=3ltcnt3FtSY)
+- [Árbol binario y árbol binario de búsqueda](https://www.youtube.com/watch?v=bTDEZRrvW8E)
+- [Operaciones cruciales en arboles](https://www.youtube.com/watch?v=LOMQvWQA-fU)
+- [Propiedades y usos arboles binarios y busqueda binaria](https://www.youtube.com/watch?v=hpS_Jb9H_r0)
+- [Implementacion eficiente representación arboles en C](https://www.youtube.com/watch?v=3ltcnt3FtSY)
 <!-- YOUTUBE:END -->
     
 </details>
