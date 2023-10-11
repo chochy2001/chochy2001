@@ -53,11 +53,11 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     <summary>📺 View</summary>
     
 <!-- YOUTUBE:START -->
+- [Algoritmo del banquero](https://www.youtube.com/watch?v=YKFWwjPMHd8)
+- [Ingenieria Tracker UNAM](https://www.youtube.com/watch?v=_hPdYweYtg8)
 - [El mejor algoritmo de prevención de interbloqueos &lpar;Algoritmo del Banquero&rpar;](https://www.youtube.com/watch?v=VmH-OLe2mOU)
 - [Simulador de Procesos en Java](https://www.youtube.com/watch?v=Zp9mvQQ93h0)
 - [Árbol binario y árbol binario de búsqueda](https://www.youtube.com/watch?v=bTDEZRrvW8E)
-- [Operaciones cruciales en arboles](https://www.youtube.com/watch?v=LOMQvWQA-fU)
-- [Propiedades y usos arboles binarios y busqueda binaria](https://www.youtube.com/watch?v=hpS_Jb9H_r0)
 <!-- YOUTUBE:END -->
     
 </details>
