@@ -88,7 +88,7 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
 [cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
 [web]:  https://www.google.com/
 
-[Formulae]: https://formulaeapps.com/
+[Formulae]: https://formulaeapps.com/en
 [IngeTrackerUNAM]: https://ingenieriatrackerunam.com/
 [FormulaePro]: https://play.google.com/store/apps/details?id=com.capdesis.formulae_pro.formulae_calculo_pro
 [Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
