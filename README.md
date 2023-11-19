@@ -53,11 +53,11 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     <summary>📺 View</summary>
     
 <!-- YOUTUBE:START -->
+- [Tracker UNAM BY Chochy #universidad  #dinero #tips #finanzas #tecnologia  #emprendimiento #unam](https://www.youtube.com/watch?v=dWZ3kyVFp04)
 - [Temporizador y diseño de un sistema secuencial](https://www.youtube.com/watch?v=iKFPw0Zbx5A)
 - [Paginación de procesos](https://www.youtube.com/watch?v=iOOoD6ouYWs)
 - [Algoritmo del banquero](https://www.youtube.com/watch?v=YKFWwjPMHd8)
 - [Ingenieria Tracker UNAM](https://www.youtube.com/watch?v=_hPdYweYtg8)
-- [El mejor algoritmo de prevención de interbloqueos &lpar;Algoritmo del Banquero&rpar;](https://www.youtube.com/watch?v=VmH-OLe2mOU)
 <!-- YOUTUBE:END -->
     
 </details>
