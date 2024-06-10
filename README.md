@@ -67,8 +67,8 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     <summary>❗️ Veiew</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/chochy2001/github-actions/pull/1) in [chochy2001/github-actions](https://github.com/chochy2001/github-actions)
-2. 🎉 Merged PR [#5](https://github.com/chochy2001/Calculadora_distintas_bases/pull/5) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
+1. 🎉 Merged PR [#1](https://github.com/chochy2001/VimConfiguration/pull/1) in [chochy2001/VimConfiguration](https://github.com/chochy2001/VimConfiguration)
+2. 💪 Opened PR [#1](https://github.com/chochy2001/github-actions/pull/1) in [chochy2001/github-actions](https://github.com/chochy2001/github-actions)
 3. 🎉 Merged PR [#4](https://github.com/chochy2001/Calculadora_distintas_bases/pull/4) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
 4. 🎉 Merged PR [#3](https://github.com/chochy2001/Calculadora_distintas_bases/pull/3) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
 5. 🎉 Merged PR [#2](https://github.com/chochy2001/Calculadora_distintas_bases/pull/2) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
