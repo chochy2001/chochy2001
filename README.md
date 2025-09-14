@@ -67,11 +67,11 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     <summary>❗️ Veiew</summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288775590) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
-2. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288767980) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
-3. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288757500) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
-4. 💪 Opened PR [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
-5. 🎉 Merged PR [#2](https://github.com/chochy2001/Calculadora_distintas_bases/pull/2) in [chochy2001/Calculadora_distintas_bases](https://github.com/chochy2001/Calculadora_distintas_bases)
+1. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288790713) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+2. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288775590) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+3. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288767980) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+4. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288757500) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+5. 💪 Opened PR [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
 <!--END_SECTION:activity-->
 
 </details>
