@@ -67,11 +67,11 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     <summary>❗️ Veiew</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/5) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
-2. 🎉 Merged PR [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
-3. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288913458) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
-4. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288882320) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
-5. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288871915) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+1. 💪 Opened PR [#5](undefined) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+2. 💪 Opened PR [#4](undefined) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+3. 💪 Opened PR [#3](undefined) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+4. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288913458) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+5. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288882320) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
 <!--END_SECTION:activity-->
 
 </details>
