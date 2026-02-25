@@ -67,11 +67,11 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     <summary>❗️ Veiew</summary>
     
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#23114](https://github.com/anthropics/claude-code/issues/23114) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. ❗ Opened issue [#23114](https://github.com/anthropics/claude-code/issues/23114) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-3. ℹ️ Labeled issue [#22827](https://github.com/anthropics/claude-code/issues/22827) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-4. ❗ Opened issue [#22827](https://github.com/anthropics/claude-code/issues/22827) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-5. 🗣 Commented on [#2](https://github.com/chochy2001/Neovim-Vim_Configuration/pull/2#issuecomment-3288871915) in [chochy2001/Neovim-Vim_Configuration](https://github.com/chochy2001/Neovim-Vim_Configuration)
+1. ℹ️ Labeled issue [#28652](https://github.com/anthropics/claude-code/issues/28652) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. ❗ Opened issue [#28652](https://github.com/anthropics/claude-code/issues/28652) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+3. ℹ️ Labeled issue [#23114](https://github.com/anthropics/claude-code/issues/23114) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+4. ❗ Opened issue [#23114](https://github.com/anthropics/claude-code/issues/23114) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+5. ℹ️ Labeled issue [#22827](https://github.com/anthropics/claude-code/issues/22827) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 </details>
