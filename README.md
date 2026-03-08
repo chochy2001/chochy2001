@@ -67,7 +67,7 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     <summary>❗️ Veiew</summary>
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/chochy2001/omnimon/issues/19) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
+1. 🚀 Published release [OmniMon v5.0.1](https://github.com/chochy2001/omnimon/releases/tag/v5.0.1) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
 2. ❗ Opened issue [#18](https://github.com/chochy2001/omnimon/issues/18) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
 3. ❗ Opened issue [#17](https://github.com/chochy2001/omnimon/issues/17) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
 4. ℹ️ Labeled issue [#16](https://github.com/chochy2001/omnimon/issues/16) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
