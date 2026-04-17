@@ -67,10 +67,10 @@ As an integral part of Capdesis, my goal is to ensure that we offer personalized
     <summary>❗️ Veiew</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/chochy2001/omnimon/pull/3) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
-2. 🎉 Merged PR [#1](https://github.com/chochy2001/EarthReadyMX/pull/1) in [chochy2001/EarthReadyMX](https://github.com/chochy2001/EarthReadyMX)
-3. 💪 Opened PR [#1](https://github.com/chochy2001/EarthReadyMX/pull/1) in [chochy2001/EarthReadyMX](https://github.com/chochy2001/EarthReadyMX)
-4. 💪 Opened PR [#2](https://github.com/chochy2001/omnimon/pull/2) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
+1. 🎉 Merged PR [#3](https://github.com/chochy2001/omnimon/pull/3) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
+2. 💪 Opened PR [#3](https://github.com/chochy2001/omnimon/pull/3) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
+3. 🎉 Merged PR [#1](https://github.com/chochy2001/EarthReadyMX/pull/1) in [chochy2001/EarthReadyMX](https://github.com/chochy2001/EarthReadyMX)
+4. 💪 Opened PR [#1](https://github.com/chochy2001/EarthReadyMX/pull/1) in [chochy2001/EarthReadyMX](https://github.com/chochy2001/EarthReadyMX)
 5. 🎉 Merged PR [#1](https://github.com/chochy2001/omnimon/pull/1) in [chochy2001/omnimon](https://github.com/chochy2001/omnimon)
 <!--END_SECTION:activity-->
 
