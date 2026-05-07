@@ -2,15 +2,18 @@ name: Latest YouTube Videos
 
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+  repository_dispatch:
+    types:
+      - youtube_update
 
 permissions:
   contents: write
 
 concurrency:
-  group: latest-youtube-videos-${{ github.ref }}
-  cancel-in-progress: true
+  group: profile-readme-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   update-readme-with-blog:

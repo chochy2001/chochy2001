@@ -3,6 +3,8 @@
 
 from __future__ import annotations
 
+import base64
+import html
 import json
 import os
 import re
@@ -20,6 +22,10 @@ README_PATH = "README.md"
 GITHUB_USER = "chochy2001"
 ORG = "CAPDESIS"
 API_ROOT = "https://api.github.com"
+CAPDESIS_SITE = "https://capdesis.com"
+COURSES_SOURCE_REPO = "CAPDESIS/CapdesisWebLanding"
+COURSES_CONFIG_PATH = "src/config/courses.ts"
+COURSES_LOCALE_PATH = "src/i18n/locales/es.json"
 
 BLOCKS = {
     "apps": ("<!-- APPS:START -->", "<!-- APPS:END -->"),
@@ -131,42 +137,86 @@ PRODUCTS = [
     },
 ]
 
-COURSES = [
+COURSE_FALLBACKS = [
     {
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
-        "name": "C from zero to expert",
-        "topic": "Programming fundamentals and C",
-        "url": "https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B",
-    },
-    {
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg",
-        "name": "Golang",
-        "topic": "Backend and systems programming",
-        "url": "https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03",
-    },
-    {
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
-        "name": "Git and GitHub",
-        "topic": "Version control workflow",
-        "url": "https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF",
-    },
-    {
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg",
-        "name": "Photoshop",
-        "topic": "Design fundamentals",
-        "url": "https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB",
-    },
-    {
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg",
-        "name": "Vim",
-        "topic": "Editor workflow",
+        "id": "vim-coding-speed",
+        "name": "VIM: Mejora tu velocidad para codificar",
+        "description": "Domina VIM, el editor de texto más potente y eficiente. Aprende atajos, comandos y técnicas avanzadas para multiplicar tu productividad al programar.",
+        "image": "https://capdesis.com/images/courses/curso_vim.webp",
+        "price": 0,
+        "rating": 4.23,
+        "enrollments": 1,
+        "level": "intermediate",
+        "language": "es",
+        "status": "live",
         "url": "https://www.udemy.com/course/chochy_vim/?referralCode=E79B7EB4B6A5E52CD97D",
     },
     {
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
-        "name": "Programming in multiple languages",
-        "topic": "Cross-language foundations",
+        "id": "golang-beginner-expert",
+        "name": "Golang: De Principiante a Experto con Ejercicios Prácticos",
+        "description": "Curso completo de Go desde cero. Aprende programación concurrente, APIs REST, microservicios y más con ejercicios prácticos reales.",
+        "image": "https://capdesis.com/images/courses/curso_golang.webp",
+        "price": 24.99,
+        "rating": 4.52,
+        "enrollments": 0,
+        "level": "all-levels",
+        "language": "es",
+        "status": "live",
+        "url": "https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03",
+    },
+    {
+        "id": "photoshop-intro",
+        "name": "Introducción a Adobe Photoshop CC",
+        "description": "Aprende los fundamentos de Photoshop CC. Edición de imágenes, retoque fotográfico, diseño gráfico y creación de contenido visual profesional.",
+        "image": "https://capdesis.com/images/courses/curso_photoshop.webp",
+        "price": 89.99,
+        "rating": 4.52,
+        "enrollments": 0,
+        "level": "beginner",
+        "language": "es",
+        "status": "live",
+        "url": "https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB",
+    },
+    {
+        "id": "programming-intro-multi",
+        "name": "Introducción a la Programación en Varios Lenguajes",
+        "description": "Curso introductorio perfecto para principiantes. Aprende conceptos fundamentales de programación usando múltiples lenguajes.",
+        "image": "https://capdesis.com/images/courses/curso_programacion_varios_lenguajes.webp",
+        "price": 0,
+        "rating": 4.58,
+        "enrollments": 4,
+        "level": "beginner",
+        "language": "es",
+        "status": "live",
         "url": "https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0",
+    },
+    {
+        "id": "git-github-expert",
+        "name": "Git y GitHub desde Cero a Experto",
+        "description": "Domina Git y GitHub desde lo básico hasta técnicas avanzadas: control de versiones, colaboración, flujos profesionales y automatización.",
+        "image": "https://capdesis.com/images/courses/curso_git_github.webp",
+        "price": 2.95,
+        "originalPrice": 89.99,
+        "rating": 4.51,
+        "enrollments": 5,
+        "level": "all-levels",
+        "language": "es",
+        "status": "live",
+        "url": "https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF",
+    },
+    {
+        "id": "c-programming-expert",
+        "name": "Programación en C de Cero a Experto con Estructuras de Datos",
+        "description": "Curso completo de lenguaje C y estructuras de datos. Aprende programación de sistemas, punteros, memoria dinámica y algoritmos fundamentales.",
+        "image": "https://capdesis.com/images/courses/curso_c.webp",
+        "price": 17.92,
+        "originalPrice": 89.99,
+        "rating": 4.22,
+        "enrollments": 5,
+        "level": "all-levels",
+        "language": "es",
+        "status": "live",
+        "url": "https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B",
     },
 ]
 
@@ -279,6 +329,166 @@ def product_key(product: dict[str, Any]) -> str:
 def repo_matches(product: dict[str, Any], full_name: str) -> bool:
     normalized = full_name.lower()
     return any(re.search(pattern, normalized) for pattern in product["match"])
+
+
+def decode_contents_file(file_payload: dict[str, Any]) -> str:
+    content = file_payload.get("content") or ""
+    encoding = file_payload.get("encoding")
+    if encoding != "base64":
+        raise RuntimeError(f"Unexpected encoding for {file_payload.get('path')}: {encoding}")
+    return base64.b64decode(content).decode("utf-8")
+
+
+def fetch_repo_file(full_name: str, path: str, token: str) -> str | None:
+    quoted_path = urllib.parse.quote(path, safe="/")
+    try:
+        payload = api_json(f"/repos/{full_name}/contents/{quoted_path}", token)
+    except GitHubError as exc:
+        if exc.status in {401, 403, 404}:
+            return None
+        raise
+    if not isinstance(payload, dict):
+        return None
+    return decode_contents_file(payload)
+
+
+def extract_balanced(text: str, start: int, open_char: str, close_char: str) -> str:
+    depth = 0
+    quote = ""
+    escaped = False
+    for index in range(start, len(text)):
+        char = text[index]
+        if quote:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == quote:
+                quote = ""
+            continue
+        if char in {"'", '"', "`"}:
+            quote = char
+            continue
+        if char == open_char:
+            depth += 1
+        elif char == close_char:
+            depth -= 1
+            if depth == 0:
+                return text[start : index + 1]
+    raise RuntimeError(f"Could not find closing {close_char}")
+
+
+def extract_ts_objects(array_text: str) -> list[str]:
+    objects: list[str] = []
+    index = 0
+    while index < len(array_text):
+        if array_text[index] == "{":
+            block = extract_balanced(array_text, index, "{", "}")
+            objects.append(block)
+            index += len(block)
+        else:
+            index += 1
+    return objects
+
+
+def ts_string(block: str, key: str) -> str:
+    match = re.search(rf"\b{re.escape(key)}\s*:\s*(['\"])(.*?)\1", block, re.DOTALL)
+    if not match:
+        return ""
+    return match.group(2).replace("\\'", "'").replace('\\"', '"')
+
+
+def ts_number(block: str, key: str) -> float | None:
+    match = re.search(rf"\b{re.escape(key)}\s*:\s*([0-9]+(?:\.[0-9]+)?)", block)
+    if not match:
+        return None
+    return float(match.group(1))
+
+
+def absolute_capdesis_url(path_or_url: str) -> str:
+    if not path_or_url:
+        return ""
+    if path_or_url.startswith("http"):
+        return path_or_url
+    if path_or_url.startswith("/"):
+        return f"{CAPDESIS_SITE}{path_or_url}"
+    return f"{CAPDESIS_SITE}/{path_or_url}"
+
+
+def parse_course_config(source: str) -> list[dict[str, Any]]:
+    export_index = source.find("export const courses")
+    if export_index == -1:
+        return []
+    array_start = source.find("[", export_index)
+    if array_start == -1:
+        return []
+    array_text = extract_balanced(source, array_start, "[", "]")
+
+    courses: list[dict[str, Any]] = []
+    for block in extract_ts_objects(array_text):
+        course_id = ts_string(block, "id")
+        if not course_id:
+            continue
+        price = ts_number(block, "price")
+        original_price = ts_number(block, "originalPrice")
+        rating = ts_number(block, "rating")
+        enrollments = ts_number(block, "enrollments")
+        course: dict[str, Any] = {
+            "id": course_id,
+            "name": "",
+            "description": "",
+            "image": absolute_capdesis_url(ts_string(block, "thumbnailUrl")),
+            "price": price if price is not None else 0,
+            "rating": rating,
+            "enrollments": int(enrollments or 0),
+            "level": ts_string(block, "level"),
+            "language": ts_string(block, "language"),
+            "status": ts_string(block, "status") or "live",
+            "url": ts_string(block, "udemyUrl"),
+        }
+        if original_price is not None:
+            course["originalPrice"] = original_price
+        courses.append(course)
+    return courses
+
+
+def merge_course_translations(courses: list[dict[str, Any]], locale_source: str | None) -> list[dict[str, Any]]:
+    if not locale_source:
+        return courses
+    try:
+        locale = json.loads(locale_source)
+    except json.JSONDecodeError:
+        return courses
+    course_copy = [dict(course) for course in courses]
+    course_texts = locale.get("services", {}).get("courses", {}).get("list", {})
+    for course in course_copy:
+        localized = course_texts.get(course["id"], {})
+        course["name"] = localized.get("title") or course.get("name") or course["id"]
+        course["description"] = localized.get("description") or course.get("description") or ""
+    return course_copy
+
+
+def apply_course_fallbacks(courses: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    fallback_by_id = {course["id"]: course for course in COURSE_FALLBACKS}
+    hydrated: list[dict[str, Any]] = []
+    for course in courses:
+        merged = dict(course)
+        fallback = fallback_by_id.get(course.get("id"), {})
+        for key, value in fallback.items():
+            if merged.get(key) in {"", None}:
+                merged[key] = value
+        hydrated.append(merged)
+    return hydrated
+
+
+def load_courses(token: str) -> list[dict[str, Any]]:
+    config_source = fetch_repo_file(COURSES_SOURCE_REPO, COURSES_CONFIG_PATH, token)
+    locale_source = fetch_repo_file(COURSES_SOURCE_REPO, COURSES_LOCALE_PATH, token)
+    courses = parse_course_config(config_source) if config_source else []
+    if not courses:
+        courses = [dict(course) for course in COURSE_FALLBACKS]
+    courses = apply_course_fallbacks(courses)
+    return merge_course_translations(courses, locale_source)
 
 
 def fetch_accessible_repos(token: str) -> list[dict[str, Any]]:
@@ -415,17 +625,77 @@ def render_apps(by_product: dict[str, list[dict[str, Any]]]) -> str:
     return "\n".join(lines)
 
 
-def render_courses() -> str:
+def format_course_price(course: dict[str, Any]) -> str:
+    price = course.get("price")
+    original_price = course.get("originalPrice")
+    if price is None:
+        return ""
+    if float(price) == 0:
+        return "Gratis"
+    price_label = f"US$ {float(price):.2f}"
+    if original_price and float(original_price) > float(price):
+        return f"{price_label} antes US$ {float(original_price):.2f}"
+    return price_label
+
+
+def course_meta(course: dict[str, Any]) -> str:
+    level_labels = {
+        "beginner": "Principiante",
+        "intermediate": "Intermedio",
+        "advanced": "Avanzado",
+        "all-levels": "Todos los niveles",
+    }
+    language_labels = {"es": "Español", "en": "English"}
+    pieces = ["Udemy"]
+    language = language_labels.get(course.get("language", ""), course.get("language", ""))
+    level = level_labels.get(course.get("level", ""), course.get("level", ""))
+    price = format_course_price(course)
+    if language:
+        pieces.append(language)
+    if level:
+        pieces.append(level)
+    if price:
+        pieces.append(price)
+    if course.get("rating"):
+        pieces.append(f"⭐ {float(course['rating']):.2f}")
+    enrollments = int(course.get("enrollments") or 0)
+    if enrollments:
+        student_word = "estudiante" if enrollments == 1 else "estudiantes"
+        pieces.append(f"{enrollments} {student_word}")
+    if course.get("status") and course["status"] != "live":
+        pieces.append(course["status"].replace("-", " ").title())
+    return " · ".join(pieces)
+
+
+def render_courses(token: str) -> str:
+    courses = load_courses(token)
     lines = [
         BLOCKS["courses"][0],
         "<!-- Generated by .github/scripts/update_profile_stats.py -->",
         "",
     ]
-    for course in COURSES:
-        lines.append(
-            f'- <img width="20" src="{course["icon"]}" alt="" /> '
-            f'[{course["name"]}]({course["url"]}) — {course["topic"]}'
+
+    for index, course in enumerate(courses):
+        title = html.escape(course.get("name", ""), quote=False)
+        description = html.escape(course.get("description", ""), quote=False)
+        meta = html.escape(course_meta(course), quote=False)
+        image = html.escape(course.get("image", ""), quote=True)
+        url = html.escape(course.get("url") or course.get("image") or CAPDESIS_SITE, quote=True)
+        alt = html.escape(f"Course thumbnail: {course.get('name', '')}", quote=True)
+        lines.extend(
+            [
+                "<p>",
+                f'  <a href="{url}"><img align="left" width="170" src="{image}" alt="{alt}" /></a>',
+                f'  <strong>🎓 <a href="{url}">{title}</a></strong><br>',
+                f"  <sub>{meta}</sub><br>",
+                f"  {description}<br>",
+                f'  <a href="{url}">Ver curso en Udemy</a>',
+                "</p>",
+                '<br clear="left" />',
+            ]
         )
+        if index != len(courses) - 1:
+            lines.extend(["", "---", ""])
     lines.extend(["", BLOCKS["courses"][1]])
     return "\n".join(lines)
 
@@ -527,7 +797,7 @@ def main() -> int:
 
     updated = readme
     updated = replace_block(updated, "apps", render_apps(by_product))
-    updated = replace_block(updated, "courses", render_courses())
+    updated = replace_block(updated, "courses", render_courses(token))
     updated = replace_block(updated, "stats", render_stats(by_product))
     updated = replace_block(updated, "activity", render_activity(by_product))
 

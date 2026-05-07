@@ -2,15 +2,21 @@ name: Profile README
 
 on:
   schedule:
-    - cron: "35 * * * *"
+    - cron: "3,18,33,48 * * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+  repository_dispatch:
+    types:
+      - profile_readme_update
 
 permissions:
   contents: write
 
 concurrency:
   group: profile-readme-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update-readme:
