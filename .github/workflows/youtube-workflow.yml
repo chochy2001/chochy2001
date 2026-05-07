@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-readme-${{ github.ref }}
+  group: latest-youtube-videos-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
