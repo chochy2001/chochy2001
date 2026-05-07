@@ -2,15 +2,22 @@ name: GitHub - Activity - Readme
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "25 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-activity-readme-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
+      - uses: jamesgeorge007/github-activity-readme@4aefbfa1c222d70537dc6a02f0519266aab2b1ea
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

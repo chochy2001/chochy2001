@@ -1,0 +1,41 @@
+name: Profile Stats
+
+on:
+  schedule:
+    - cron: "45 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-profile-stats:
+    name: Update README portfolio stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
+
+      - name: Update generated stats block
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: python3 .github/scripts/update_profile_stats.py
+
+      - name: Commit README changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "No README changes."
+            exit 0
+          fi
+
+          git config user.name "chochy2001"
+          git config user.email "54371626+chochy2001@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update profile stats"
+          git push
