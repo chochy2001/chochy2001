@@ -21,7 +21,7 @@ concurrency:
 jobs:
   update-readme:
     name: Update generated README sections
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, global]
 
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
