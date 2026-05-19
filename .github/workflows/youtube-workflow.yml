@@ -1,4 +1,7 @@
-# 2026-05-15: migrated to self-hosted runner (was ubuntu-latest)
+# 2026-05-19: reverted to ubuntu-latest — chochy2001 personal repos
+# cannot use CAPDESIS org-scoped self-hosted runners. YouTube poll is
+# a single feed parse + README inject, runs every 15 min on cloud
+# without burdening the VPS runners.
 name: Latest YouTube Videos
 
 on:
@@ -19,7 +22,7 @@ concurrency:
 jobs:
   update-readme-with-blog:
     name: Update README with latest YouTube videos
-    runs-on: [self-hosted, global]
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
