@@ -234,11 +234,7 @@ _Latest tracked repo update: May 30, 2026._
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [FAQ Capmenu - Cómo imprimir o descargar el menú](https://www.youtube.com/watch?v=1r0j4ga5n5Y)
-- [FAQ Capmenu - Cómo generar código QR](https://www.youtube.com/watch?v=DyEOmwaG7nY)
-- [FAQ Capmenu - Cómo eliminar y reordenar categorías](https://www.youtube.com/watch?v=TLHmZbGMTFQ)
-- [FAQ Capmenu - Cómo gestionar la disponibilidad de platillos](https://www.youtube.com/watch?v=ZgE5vBn39pI)
-- [FAQ Capmenu - Cómo editar un platillo](https://www.youtube.com/watch?v=vh0xr_rPkrQ)
+- [FAQ Capmenu - How to delete and reorder categories](https://www.youtube.com/watch?v=Ww-RzIUrcjY)
 <!-- YOUTUBE:END -->
 
 ## 🛠️ Recent Work
