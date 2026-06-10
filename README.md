@@ -116,7 +116,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <strong>∑ Formulae Pro & Community</strong> <img alt="LIVE" src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Firebase · Android · iOS · Web<br>
   Math and science apps with formulas, search, favorites, exercises, media, PDF downloads, and on-demand help.<br>
-  <sub>3 repos · 3 private · Dart, TypeScript, Astro · updated Jun 07, 2026</sub><br>
+  <sub>3 repos · 3 private · Dart, TypeScript, Astro · updated Jun 10, 2026</sub><br>
   <a href="https://formulaeapps.com/en/">Website</a>
 </p>
 <br clear="left" />
@@ -140,7 +140,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <strong>🏠 Cap Living</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · Residential · Admin<br>
   Residential operations product for incidents, amenity booking, announcements, administration, analytics, and resident workflows.<br>
-  <sub>1 repo · 1 private · Dart, Go, Shell · updated Jun 07, 2026</sub><br>
+  <sub>1 repo · 1 private · Dart, Go, Shell · updated Jun 10, 2026</sub><br>
   <a href="https://capliving.mx/">Website</a>
 </p>
 <br clear="left" />
@@ -152,7 +152,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <strong>🥬 Lo Más Fresh</strong> <img alt="LIVE" src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · Marketplace · Orders<br>
   Fresh-produce marketplace connecting local providers with buyers through catalog, cart, orders, dashboards, and offline-tolerant flows.<br>
-  <sub>1 repo · 1 private · Go, Dart, TypeScript · updated Jun 07, 2026</sub><br>
+  <sub>1 repo · 1 private · Go, Dart, TypeScript · updated Jun 10, 2026</sub><br>
   <a href="https://lomasfresh.com/">Website</a>
 </p>
 <br clear="left" />
@@ -176,7 +176,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <strong>🛡️ OmniMon</strong> <img alt="LIVE" src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Rust · Tauri · Svelte · Telemetry<br>
   Cross-platform system monitor with native telemetry, MITRE mapping, NIST heartbeat, package distribution, and security workflows.<br>
-  <sub>4 repos · 1 private · Rust, TypeScript, Svelte · updated Jun 06, 2026</sub><br>
+  <sub>4 repos · 1 private · Rust, TypeScript, Svelte · updated Jun 10, 2026</sub><br>
   <a href="https://omnimon.com.mx/">Website</a> · <a href="https://github.com/chochy2001/omnimon">GitHub</a>
 </p>
 <br clear="left" />
@@ -200,7 +200,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <strong>👨‍💻 Portfolio</strong> <img alt="LIVE" src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Personal site · Projects · Courses · Contact<br>
   Personal site for my professional work, products, courses, and contact links.<br>
-  <sub>1 repo · 0 private · HTML, CSS, JavaScript · updated Jun 07, 2026</sub><br>
+  <sub>1 repo · 0 private · HTML, CSS, JavaScript · updated Jun 10, 2026</sub><br>
   <a href="https://jorgesalgadomiranda.com/">Website</a>
 </p>
 <br clear="left" />
@@ -219,14 +219,14 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 
 **Product pulse:**
 - 🧭 **Ingeniería Tracker** — 5 repos · 5 private · Dart, Go, HTML · updated Jun 10, 2026
-- ∑ **Formulae Pro & Community** — 3 repos · 3 private · Dart, TypeScript, Astro · updated Jun 07, 2026
+- ∑ **Formulae Pro & Community** — 3 repos · 3 private · Dart, TypeScript, Astro · updated Jun 10, 2026
 - 🍽️ **Capmenu** — 6 repos · 6 private · Dart, PHP, Shell · updated Jun 10, 2026
-- 🏠 **Cap Living** — 1 repo · 1 private · Dart, Go, Shell · updated Jun 07, 2026
-- 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go, Dart, TypeScript · updated Jun 07, 2026
+- 🏠 **Cap Living** — 1 repo · 1 private · Dart, Go, Shell · updated Jun 10, 2026
+- 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go, Dart, TypeScript · updated Jun 10, 2026
 - 🛒 **CapTienda** — 3 repos · 3 private · Dart, JavaScript, Go · updated Jun 10, 2026
-- 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Jun 06, 2026
+- 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Jun 10, 2026
 - 🚀 **Capdesis** — 5 repos · 4 private · JavaScript, CSS, PHP · updated Jun 10, 2026
-- 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, CSS, JavaScript · updated Jun 07, 2026
+- 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, CSS, JavaScript · updated Jun 10, 2026
 
 _Latest tracked repo update: Jun 10, 2026._
 <!-- PROFILE-STATS:END -->
@@ -246,15 +246,15 @@ _Latest tracked repo update: Jun 10, 2026._
 <!-- PRIVATE-ACTIVITY:START -->
 <!-- Generated by .github/scripts/update_profile_stats.py -->
 
-- 🛠️ **CAPDESIS/CapTienda** · private · updated Jun 10, 2026
+- 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Jun 10, 2026
+- 🛠️ **[CAPDESIS/omnimon](https://github.com/CAPDESIS/omnimon)** · public · updated Jun 10, 2026
+- 🛠️ **CAPDESIS/CapdesisWebLanding** · private · updated Jun 10, 2026
+- 🛠️ **[CAPDESIS/jorgesalgadomiranda_landing](https://github.com/CAPDESIS/jorgesalgadomiranda_landing)** · public · updated Jun 10, 2026
+- 🛠️ **[CAPDESIS/jorgesalgadomiranda_landing](https://github.com/CAPDESIS/jorgesalgadomiranda_landing)** · public · updated Jun 10, 2026
+- 🛠️ **CAPDESIS/CapLiving** · private · updated Jun 10, 2026
+- 🛠️ **CAPDESIS/IngenieriaTrackerPro** · private · updated Jun 10, 2026
+- 🛠️ **CAPDESIS/CapmenuBack** · private · updated Jun 10, 2026
+- 🛠️ **CAPDESIS/formulaeapps** · private · updated Jun 10, 2026
 - 🛠️ **CAPDESIS/captienda_landing** · private · updated Jun 10, 2026
-- 🛠️ **CAPDESIS/captienda_landing** · private · updated Jun 10, 2026
-- 🛠️ **CAPDESIS/CapmenuProject** · private · updated Jun 10, 2026
-- 🛠️ **CAPDESIS/IngeTrackerBackend** · private · updated Jun 10, 2026
-- 🛠️ **CAPDESIS/FormulaeCommunity** · private · updated Jun 07, 2026
-- 🛠️ **CAPDESIS/CapdesisWebLanding** · private · updated Jun 07, 2026
-- 🛠️ **[CAPDESIS/jorgesalgadomiranda_landing](https://github.com/CAPDESIS/jorgesalgadomiranda_landing)** · public · updated Jun 07, 2026
-- 🛠️ **[CAPDESIS/jorgesalgadomiranda_landing](https://github.com/CAPDESIS/jorgesalgadomiranda_landing)** · public · updated Jun 07, 2026
-- 🛠️ **CAPDESIS/MenuRestaurante** · private · updated Jun 07, 2026
 
 <!-- PRIVATE-ACTIVITY:END -->
