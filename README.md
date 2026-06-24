@@ -176,7 +176,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <strong>🛡️ OmniMon</strong> <img alt="LIVE" src="https://img.shields.io/badge/LIVE-22c55e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Rust · Tauri · Svelte · Telemetry<br>
   Cross-platform system monitor with native telemetry, MITRE mapping, NIST heartbeat, package distribution, and security workflows.<br>
-  <sub>4 repos · 1 private · Astro, CSS, Ruby · updated Jun 15, 2026</sub><br>
+  <sub>4 repos · 1 private · Rust, TypeScript, Svelte · updated Jun 15, 2026</sub><br>
   <a href="https://omnimon.com.mx/">Website</a> · <a href="https://github.com/chochy2001/omnimon">GitHub</a>
 </p>
 <br clear="left" />
@@ -215,7 +215,7 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 
 ![tracked repos: 29](https://img.shields.io/badge/tracked%20repos-29-0f766e?style=flat-square) ![private: 24](https://img.shields.io/badge/private-24-7c3aed?style=flat-square) ![public: 5](https://img.shields.io/badge/public-5-0369a1?style=flat-square) ![stars: 5](https://img.shields.io/badge/stars-5-ca8a04?style=flat-square) ![forks: 0](https://img.shields.io/badge/forks-0-64748b?style=flat-square) ![tracked commits: 5438](https://img.shields.io/badge/tracked%20commits-5438-be123c?style=flat-square)
 
-**Stack mix:** **Dart** 55% · **JavaScript** 17% · **Go** 15% · **PHP** 4% · **CSS** 2% · **TypeScript** 2%
+**Stack mix:** **Dart** 54% · **JavaScript** 17% · **Go** 14% · **PHP** 4% · **TypeScript** 2% · **CSS** 2%
 
 **Product pulse:**
 - 🧭 **Ingeniería Tracker** — 5 repos · 5 private · Dart, Go, HTML · updated Jun 23, 2026
@@ -224,7 +224,7 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 - 🏠 **Cap Living** — 1 repo · 1 private · Dart, Go, Shell · updated Jun 22, 2026
 - 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go, Dart, TypeScript · updated Jun 11, 2026
 - 🛒 **CapTienda** — 3 repos · 3 private · Dart, JavaScript, Go · updated Jun 15, 2026
-- 🛡️ **OmniMon** — 4 repos · 1 private · Astro, CSS, Ruby · updated Jun 15, 2026
+- 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Jun 15, 2026
 - 🚀 **Capdesis** — 5 repos · 4 private · JavaScript, CSS, PHP · updated Jun 14, 2026
 - 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, CSS, JavaScript · updated Jun 14, 2026
 
