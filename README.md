@@ -43,7 +43,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <a href="https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03"><img align="left" width="170" src="https://capdesis.com/images/courses/curso_golang.webp" alt="Course thumbnail: Golang: De Principiante a Experto con Ejercicios Prácticos" /></a>
   <strong>🎓 <a href="https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03">Golang: De Principiante a Experto con Ejercicios Prácticos</a></strong><br>
   <sub>Udemy · Español · Todos los niveles · US$ 24.99 · ⭐ 4.52</sub><br>
-  Curso completo de Go (Golang) desde cero. Aprende programación concurrente, APIs REST, microservicios y más con ejercicios prácticos reales.<br>
+  Curso completo de Go desde cero. Aprende programación concurrente, APIs REST, microservicios y más con ejercicios prácticos reales.<br>
   <a href="https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03">Ver curso en Udemy</a>
 </p>
 <br clear="left" />
@@ -65,7 +65,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <a href="https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0"><img align="left" width="170" src="https://capdesis.com/images/courses/curso_programacion_varios_lenguajes.webp" alt="Course thumbnail: Introducción a la Programación en Varios Lenguajes" /></a>
   <strong>🎓 <a href="https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0">Introducción a la Programación en Varios Lenguajes</a></strong><br>
   <sub>Udemy · Español · Principiante · Gratis · ⭐ 4.58 · 4 estudiantes</sub><br>
-  Curso introductorio perfecto para principiantes. Aprende conceptos fundamentales de programación usando múltiples lenguajes: Python, JavaScript, Java y más.<br>
+  Curso introductorio perfecto para principiantes. Aprende conceptos fundamentales de programación usando múltiples lenguajes.<br>
   <a href="https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0">Ver curso en Udemy</a>
 </p>
 <br clear="left" />
@@ -76,7 +76,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <a href="https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF"><img align="left" width="170" src="https://capdesis.com/images/courses/curso_git_github.webp" alt="Course thumbnail: Git y GitHub desde Cero a Experto" /></a>
   <strong>🎓 <a href="https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF">Git y GitHub desde Cero a Experto</a></strong><br>
   <sub>Udemy · Español · Todos los niveles · US$ 2.95 antes US$ 89.99 · ⭐ 4.51 · 5 estudiantes</sub><br>
-  Domina Git y GitHub desde lo básico hasta técnicas avanzadas. Control de versiones, colaboración en equipo, flujos de trabajo profesionales y CI/CD.<br>
+  Domina Git y GitHub desde lo básico hasta técnicas avanzadas: control de versiones, colaboración, flujos profesionales y automatización.<br>
   <a href="https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF">Ver curso en Udemy</a>
 </p>
 <br clear="left" />
