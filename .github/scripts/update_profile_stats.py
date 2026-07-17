@@ -100,7 +100,7 @@ PRODUCTS = [
         "summary": "Point of sale and retail management for small shops: inventory, sales, multi-location operations, backend, and owner dashboard.",
         "tags": ["Flutter", "Go", "POS", "Retail"],
         "links": [("Website", "https://captienda.com/")],
-        "match": [r"captienda", r"pos_tienda", r"pos_backend"],
+        "match": [r"captienda", r"CapTienda", r"pos_backend"],
     },
     {
         "name": "OmniMon",
