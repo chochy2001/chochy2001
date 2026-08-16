@@ -168,7 +168,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🛒 CapTienda</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · POS · Retail<br>
   Point of sale and retail management for small shops: inventory, sales, multi-location operations, backend, and owner dashboard.<br>
-  <sub>3 repos · 3 private · Dart, JavaScript, Go · updated Aug 16, 2026</sub><br>
+  <sub>3 repos · 3 private · Dart, Go, JavaScript · updated Aug 16, 2026</sub><br>
   <a href="https://captienda.com/">Website</a>
 </p>
 <br clear="left" />
@@ -227,7 +227,7 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 - 🍽️ **Capmenu** — 6 repos · 6 private · Dart, PHP, Shell · updated Aug 15, 2026
 - 🏠 **Cap Living** — 1 repo · 1 private · Go, Dart, Shell · updated Aug 16, 2026
 - 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go, Dart, TypeScript · updated Aug 16, 2026
-- 🛒 **CapTienda** — 3 repos · 3 private · Dart, JavaScript, Go · updated Aug 16, 2026
+- 🛒 **CapTienda** — 3 repos · 3 private · Dart, Go, JavaScript · updated Aug 16, 2026
 - 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Aug 10, 2026
 - 🚀 **Capdesis** — 5 repos · 4 private · JavaScript, PHP, CSS · updated Aug 16, 2026
 - 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, JavaScript, CSS · updated Aug 10, 2026
