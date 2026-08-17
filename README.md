@@ -168,7 +168,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🛒 CapTienda</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · POS · Retail<br>
   Point of sale and retail management for small shops: inventory, sales, multi-location operations, backend, and owner dashboard.<br>
-  <sub>3 repos · 3 private · Dart, Go, JavaScript · updated Aug 16, 2026</sub><br>
+  <sub>3 repos · 3 private · Go, Shell, Makefile · updated Aug 16, 2026</sub><br>
   <a href="https://captienda.com/">Website</a>
 </p>
 <br clear="left" />
@@ -192,7 +192,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🚀 Capdesis</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Astro · Automation · Web · Product ops<br>
   Company website, product infrastructure, landing pages, deployment operations, and shared product work.<br>
-  <sub>5 repos · 4 private · Astro, HTML, TypeScript · updated Aug 16, 2026</sub><br>
+  <sub>5 repos · 4 private · HTML, JavaScript, CSS · updated Aug 16, 2026</sub><br>
   <a href="https://capdesis.com/">Website</a>
 </p>
 <br clear="left" />
@@ -219,7 +219,7 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 
 ![tracked repos: 32](https://img.shields.io/badge/tracked%20repos-32-0f766e?style=flat-square) ![private: 26](https://img.shields.io/badge/private-26-7c3aed?style=flat-square) ![public: 6](https://img.shields.io/badge/public-6-0369a1?style=flat-square) ![stars: 6](https://img.shields.io/badge/stars-6-ca8a04?style=flat-square) ![forks: 0](https://img.shields.io/badge/forks-0-64748b?style=flat-square) ![tracked commits: 1027](https://img.shields.io/badge/tracked%20commits-1027-be123c?style=flat-square)
 
-**Stack mix:** **Dart** 62% · **TypeScript** 10% · **Rust** 7% · **Astro** 6% · **HTML** 4% · **Svelte** 4%
+**Stack mix:** **Dart** 66% · **TypeScript** 9% · **Rust** 7% · **HTML** 5% · **Svelte** 4% · **JavaScript** 2%
 
 **Product pulse:**
 - 🧭 **Ingeniería Tracker** — 7 repos · 7 private · Dart, Python, Go · updated Aug 16, 2026
@@ -227,9 +227,9 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 - 🍽️ **Capmenu** — 6 repos · 6 private · Shell, PHP, JavaScript · updated Aug 15, 2026
 - 🏠 **Cap Living** — 1 repo · 1 private · Go · updated Aug 16, 2026
 - 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go · updated Aug 16, 2026
-- 🛒 **CapTienda** — 3 repos · 3 private · Dart, Go, JavaScript · updated Aug 16, 2026
+- 🛒 **CapTienda** — 3 repos · 3 private · Go, Shell, Makefile · updated Aug 16, 2026
 - 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Aug 10, 2026
-- 🚀 **Capdesis** — 5 repos · 4 private · Astro, HTML, TypeScript · updated Aug 16, 2026
+- 🚀 **Capdesis** — 5 repos · 4 private · HTML, JavaScript, CSS · updated Aug 16, 2026
 - 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, JavaScript, CSS · updated Aug 10, 2026
 
 _Latest tracked repo update: Aug 16, 2026._
