@@ -120,7 +120,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>∑ Formulae Pro & Community</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Firebase · Android · iOS · Web<br>
   Math and science apps with formulas, search, favorites, exercises, media, PDF downloads, and on-demand help.<br>
-  <sub>4 repos · 3 private · Dart, TypeScript, Python · updated Sep 21, 2026</sub><br>
+  <sub>4 repos · 3 private · Dart, TypeScript, Python · updated Sep 22, 2026</sub><br>
   <a href="https://formulaeapps.com/en/">Website</a>
 </p>
 <br clear="left" />
@@ -132,7 +132,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🍽️ Capmenu</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · PHP · QR · Restaurants SaaS<br>
   Digital menu and restaurant operations platform with QR menus, real-time edits, staff roles, tables, pricing, and tiers.<br>
-  <sub>6 repos · 6 private · Dart, PHP, Shell · updated Sep 21, 2026</sub><br>
+  <sub>6 repos · 6 private · Dart, PHP, Shell · updated Sep 22, 2026</sub><br>
   <a href="https://capmenu.com/">Landing</a> · <a href="https://app.capmenu.com/">App</a>
 </p>
 <br clear="left" />
@@ -144,7 +144,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🏠 Cap Living</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · Residential · Admin<br>
   Residential operations product for incidents, amenity booking, announcements, administration, analytics, and resident workflows.<br>
-  <sub>1 repo · 1 private · Go, Dart, Shell · updated Sep 21, 2026</sub><br>
+  <sub>1 repo · 1 private · Go, Dart, Shell · updated Sep 22, 2026</sub><br>
   <a href="https://capliving.mx/">Website</a>
 </p>
 <br clear="left" />
@@ -156,7 +156,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🥬 Lo Más Fresh</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · Marketplace · Orders<br>
   Fresh-produce marketplace connecting local providers with buyers through catalog, cart, orders, dashboards, and offline-tolerant flows.<br>
-  <sub>1 repo · 1 private · Go, Dart, TypeScript · updated Sep 21, 2026</sub><br>
+  <sub>1 repo · 1 private · Go, Dart, TypeScript · updated Sep 22, 2026</sub><br>
   <a href="https://lomasfresh.com/">Website</a>
 </p>
 <br clear="left" />
@@ -192,7 +192,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🚀 Capdesis</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Astro · Automation · Web · Product ops<br>
   Company website, product infrastructure, landing pages, deployment operations, and shared product work.<br>
-  <sub>5 repos · 4 private · JavaScript, PHP, CSS · updated Sep 21, 2026</sub><br>
+  <sub>5 repos · 4 private · JavaScript, PHP, CSS · updated Sep 22, 2026</sub><br>
   <a href="https://capdesis.com/">Website</a>
 </p>
 <br clear="left" />
@@ -223,16 +223,16 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 
 **Product pulse:**
 - 🧭 **Ingeniería Tracker** — 7 repos · 7 private · Dart, Go, Shell · updated Sep 21, 2026
-- ∑ **Formulae Pro & Community** — 4 repos · 3 private · Dart, TypeScript, Python · updated Sep 21, 2026
-- 🍽️ **Capmenu** — 6 repos · 6 private · Dart, PHP, Shell · updated Sep 21, 2026
-- 🏠 **Cap Living** — 1 repo · 1 private · Go, Dart, Shell · updated Sep 21, 2026
-- 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go, Dart, TypeScript · updated Sep 21, 2026
+- ∑ **Formulae Pro & Community** — 4 repos · 3 private · Dart, TypeScript, Python · updated Sep 22, 2026
+- 🍽️ **Capmenu** — 6 repos · 6 private · Dart, PHP, Shell · updated Sep 22, 2026
+- 🏠 **Cap Living** — 1 repo · 1 private · Go, Dart, Shell · updated Sep 22, 2026
+- 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go, Dart, TypeScript · updated Sep 22, 2026
 - 🛒 **CapTienda** — 3 repos · 3 private · Dart, Go, JavaScript · updated Sep 21, 2026
 - 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Sep 20, 2026
-- 🚀 **Capdesis** — 5 repos · 4 private · JavaScript, PHP, CSS · updated Sep 21, 2026
+- 🚀 **Capdesis** — 5 repos · 4 private · JavaScript, PHP, CSS · updated Sep 22, 2026
 - 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, CSS, JavaScript · updated Sep 20, 2026
 
-_Latest tracked repo update: Sep 21, 2026._
+_Latest tracked repo update: Sep 22, 2026._
 <!-- PROFILE-STATS:END -->
 
 ## 📺 Latest YouTube Videos
@@ -250,13 +250,13 @@ _Latest tracked repo update: Sep 21, 2026._
 <!-- PRIVATE-ACTIVITY:START -->
 <!-- Generated by .github/scripts/update_profile_stats.py -->
 
-- 🛠️ **CAPDESIS/formulaeapps** · private · updated Sep 21, 2026
+- 🛠️ **CAPDESIS/CapLiving** · private · updated Sep 22, 2026
+- 🛠️ **CAPDESIS/MenuRestaurante** · private · updated Sep 22, 2026
+- 🛠️ **CAPDESIS/formulaeapps** · private · updated Sep 22, 2026
+- 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Sep 22, 2026
+- 🛠️ **CAPDESIS/CapdesisWebLanding** · private · updated Sep 22, 2026
 - 🛠️ **CAPDESIS/CapmenuProject** · private · updated Sep 21, 2026
-- 🛠️ **CAPDESIS/CapdesisWebLanding** · private · updated Sep 21, 2026
-- 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Sep 21, 2026
-- 🛠️ **CAPDESIS/MenuRestaurante** · private · updated Sep 21, 2026
 - 🛠️ **CAPDESIS/CapTienda** · private · updated Sep 21, 2026
-- 🛠️ **CAPDESIS/CapLiving** · private · updated Sep 21, 2026
 - 🛠️ **CAPDESIS/IngenieriaTracker-Meta** · private · updated Sep 21, 2026
 - 🛠️ **CAPDESIS/IngeTrackerBackend** · private · updated Sep 21, 2026
 - 🛠️ **CAPDESIS/IngenieriaTrackerPro** · private · updated Sep 21, 2026
