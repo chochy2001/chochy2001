@@ -253,8 +253,8 @@ _Latest tracked repo update: Sep 28, 2026._
 - 🛠️ **CAPDESIS/CapmenuBack** · private · updated Sep 28, 2026
 - 🛠️ **CAPDESIS/IngenieriaTracker-Meta** · private · updated Sep 28, 2026
 - 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Sep 28, 2026
-- 🛠️ **CAPDESIS/CapLiving** · private · updated Sep 28, 2026
 - 🛠️ **CAPDESIS/formulaeapps** · private · updated Sep 28, 2026
+- 🛠️ **CAPDESIS/CapLiving** · private · updated Sep 28, 2026
 - 🛠️ **CAPDESIS/MenuRestaurante** · private · updated Sep 28, 2026
 - 🛠️ **CAPDESIS/CapTienda** · private · updated Sep 28, 2026
 - 🛠️ **CAPDESIS/IngeTrackerBackend** · private · updated Sep 28, 2026
