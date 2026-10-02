@@ -43,7 +43,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <a href="https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03"><img align="left" width="170" src="https://capdesis.com/images/courses/curso_golang.webp" alt="Course thumbnail: Golang: De Principiante a Experto con Ejercicios Prácticos" /></a>
   <strong>🎓 <a href="https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03">Golang: De Principiante a Experto con Ejercicios Prácticos</a></strong><br>
   <sub>Udemy · Español · Todos los niveles · US$ 24.99 · ⭐ 4.52</sub><br>
-  Curso completo de Go desde cero. Aprende programación concurrente, APIs REST, microservicios y más con ejercicios prácticos reales.<br>
+  Curso completo de Go (Golang) desde cero. Aprende programación concurrente, APIs REST, microservicios y más con ejercicios prácticos reales.<br>
   <a href="https://www.udemy.com/course/programacion-go/?referralCode=414BED159CC7E73DFE03">Ver curso en Udemy</a>
 </p>
 <br clear="left" />
@@ -65,7 +65,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <a href="https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0"><img align="left" width="170" src="https://capdesis.com/images/courses/curso_programacion_varios_lenguajes.webp" alt="Course thumbnail: Introducción a la Programación en Varios Lenguajes" /></a>
   <strong>🎓 <a href="https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0">Introducción a la Programación en Varios Lenguajes</a></strong><br>
   <sub>Udemy · Español · Principiante · Gratis · ⭐ 4.58 · 4 estudiantes</sub><br>
-  Curso introductorio perfecto para principiantes. Aprende conceptos fundamentales de programación usando múltiples lenguajes.<br>
+  Curso introductorio perfecto para principiantes. Aprende conceptos fundamentales de programación usando múltiples lenguajes: Python, JavaScript, Java y más.<br>
   <a href="https://www.udemy.com/course/programacion-todosloslenguajes/?referralCode=3CD9F2EE23F4EAAFD5F0">Ver curso en Udemy</a>
 </p>
 <br clear="left" />
@@ -76,7 +76,7 @@ Udemy courses built from years of hands-on programming, tooling, and design work
   <a href="https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF"><img align="left" width="170" src="https://capdesis.com/images/courses/curso_git_github.webp" alt="Course thumbnail: Git y GitHub desde Cero a Experto" /></a>
   <strong>🎓 <a href="https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF">Git y GitHub desde Cero a Experto</a></strong><br>
   <sub>Udemy · Español · Todos los niveles · US$ 2.95 antes US$ 89.99 · ⭐ 4.51 · 5 estudiantes</sub><br>
-  Domina Git y GitHub desde lo básico hasta técnicas avanzadas: control de versiones, colaboración, flujos profesionales y automatización.<br>
+  Domina Git y GitHub desde lo básico hasta técnicas avanzadas. Control de versiones, colaboración en equipo, flujos de trabajo profesionales y CI/CD.<br>
   <a href="https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF">Ver curso en Udemy</a>
 </p>
 <br clear="left" />
@@ -108,7 +108,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🧭 Ingeniería Tracker</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · iOS · Android · Web<br>
   UNAM engineering companion for professors, ratings, campus routing, schedules, exports, progress tracking, and study workflows.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>7 repos · 7 private · Dart, Go, Shell · updated Oct 02, 2026</sub><br>
   <a href="https://ingenieriatracker.com/">Website</a>
 </p>
 <br clear="left" />
@@ -120,7 +120,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>∑ Formulae Pro & Community</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Firebase · Android · iOS · Web<br>
   Math and science apps with formulas, search, favorites, exercises, media, PDF downloads, and on-demand help.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>4 repos · 3 private · Dart, TypeScript, Shell · updated Oct 02, 2026</sub><br>
   <a href="https://formulaeapps.com/en/">Website</a>
 </p>
 <br clear="left" />
@@ -132,7 +132,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🍽️ Capmenu</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · PHP · QR · Restaurants SaaS<br>
   Digital menu and restaurant operations platform with QR menus, real-time edits, staff roles, tables, pricing, and tiers.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>6 repos · 6 private · Dart, PHP, Shell · updated Oct 02, 2026</sub><br>
   <a href="https://capmenu.com/">Landing</a> · <a href="https://app.capmenu.com/">App</a>
 </p>
 <br clear="left" />
@@ -144,7 +144,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🏠 Cap Living</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · Residential · Admin<br>
   Residential operations product for incidents, amenity booking, announcements, administration, analytics, and resident workflows.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>1 repo · 1 private · Go, Dart, Shell · updated Oct 02, 2026</sub><br>
   <a href="https://capliving.mx/">Website</a>
 </p>
 <br clear="left" />
@@ -156,7 +156,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🥬 Lo Más Fresh</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · Marketplace · Orders<br>
   Fresh-produce marketplace connecting local providers with buyers through catalog, cart, orders, dashboards, and offline-tolerant flows.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>1 repo · 1 private · Go, Dart, TypeScript · updated Oct 02, 2026</sub><br>
   <a href="https://lomasfresh.com/">Website</a>
 </p>
 <br clear="left" />
@@ -168,7 +168,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🛒 CapTienda</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · POS · Retail<br>
   Point of sale and retail management for small shops: inventory, sales, multi-location operations, backend, and owner dashboard.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>3 repos · 3 private · Dart, Go, JavaScript · updated Oct 02, 2026</sub><br>
   <a href="https://captienda.com/">Website</a>
 </p>
 <br clear="left" />
@@ -180,7 +180,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🛡️ OmniMon</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Rust · Tauri · Svelte · Telemetry<br>
   Cross-platform system monitor with native telemetry, MITRE mapping, NIST heartbeat, package distribution, and security workflows.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>4 repos · 1 private · Rust, TypeScript, Svelte · updated Oct 01, 2026</sub><br>
   <a href="https://omnimon.com.mx/">Website</a> · <a href="https://github.com/chochy2001/omnimon">GitHub</a>
 </p>
 <br clear="left" />
@@ -192,7 +192,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>🚀 Capdesis</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Astro · Automation · Web · Product ops<br>
   Company website, product infrastructure, landing pages, deployment operations, and shared product work.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>5 repos · 4 private · JavaScript, PHP, CSS · updated Oct 01, 2026</sub><br>
   <a href="https://capdesis.com/">Website</a>
 </p>
 <br clear="left" />
@@ -204,7 +204,7 @@ and the workspace audit evidence under `/Users/jorge/Documents/Apps`.
   <strong>👨‍💻 Portfolio</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Personal site · Projects · Courses · Contact<br>
   Personal site for my professional work, products, courses, and contact links.<br>
-  <sub>No tracked repos yet</sub><br>
+  <sub>1 repo · 0 private · HTML, CSS, JavaScript · updated Sep 29, 2026</sub><br>
   <a href="https://jorgesalgadomiranda.com/">Website</a>
 </p>
 <br clear="left" />
@@ -217,13 +217,22 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 <!-- PROFILE-STATS:START -->
 <!-- Generated by .github/scripts/update_profile_stats.py -->
 
-![tracked repos: 0](https://img.shields.io/badge/tracked%20repos-0-0f766e?style=flat-square) ![private: 0](https://img.shields.io/badge/private-0-7c3aed?style=flat-square) ![public: 0](https://img.shields.io/badge/public-0-0369a1?style=flat-square) ![stars: 0](https://img.shields.io/badge/stars-0-ca8a04?style=flat-square) ![forks: 0](https://img.shields.io/badge/forks-0-64748b?style=flat-square) ![tracked commits: 0](https://img.shields.io/badge/tracked%20commits-0-be123c?style=flat-square)
+![tracked repos: 32](https://img.shields.io/badge/tracked%20repos-32-0f766e?style=flat-square) ![private: 26](https://img.shields.io/badge/private-26-7c3aed?style=flat-square) ![public: 6](https://img.shields.io/badge/public-6-0369a1?style=flat-square) ![stars: 6](https://img.shields.io/badge/stars-6-ca8a04?style=flat-square) ![forks: 0](https://img.shields.io/badge/forks-0-64748b?style=flat-square) ![tracked commits: 11628](https://img.shields.io/badge/tracked%20commits-11628-be123c?style=flat-square)
 
-**Stack mix:** 
+**Stack mix:** **Dart** 54% · **Go** 13% · **PHP** 12% · **JavaScript** 10% · **TypeScript** 3% · **Shell** 2%
 
 **Product pulse:**
+- 🧭 **Ingeniería Tracker** — 7 repos · 7 private · Dart, Go, Shell · updated Oct 02, 2026
+- ∑ **Formulae Pro & Community** — 4 repos · 3 private · Dart, TypeScript, Shell · updated Oct 02, 2026
+- 🍽️ **Capmenu** — 6 repos · 6 private · Dart, PHP, Shell · updated Oct 02, 2026
+- 🏠 **Cap Living** — 1 repo · 1 private · Go, Dart, Shell · updated Oct 02, 2026
+- 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go, Dart, TypeScript · updated Oct 02, 2026
+- 🛒 **CapTienda** — 3 repos · 3 private · Dart, Go, JavaScript · updated Oct 02, 2026
+- 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Oct 01, 2026
+- 🚀 **Capdesis** — 5 repos · 4 private · JavaScript, PHP, CSS · updated Oct 01, 2026
+- 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, CSS, JavaScript · updated Sep 29, 2026
 
-_Latest tracked repo update: n/a._
+_Latest tracked repo update: Oct 02, 2026._
 <!-- PROFILE-STATS:END -->
 
 ## 📺 Latest YouTube Videos
@@ -241,5 +250,15 @@ _Latest tracked repo update: n/a._
 <!-- PRIVATE-ACTIVITY:START -->
 <!-- Generated by .github/scripts/update_profile_stats.py -->
 
+- 🛠️ **CAPDESIS/CapmenuBack** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/CapTienda** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/IngenieriaTrackerPro** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/IngenieriaTrackerFree** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/IngeTrackerBackend** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/MenuRestaurante** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/CapLiving** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/IngenieriaTracker-Meta** · private · updated Oct 02, 2026
+- 🛠️ **CAPDESIS/formulaeapps** · private · updated Oct 02, 2026
 
 <!-- PRIVATE-ACTIVITY:END -->
