@@ -252,6 +252,7 @@ _Latest tracked repo update: Oct 15, 2026._
 
 - 🛠️ **CAPDESIS/IngenieriaTrackerFree** · private · updated Oct 15, 2026
 - 🛠️ **CAPDESIS/IngenieriaTrackerPro** · private · updated Oct 15, 2026
+- 🛠️ **CAPDESIS/CapdesisWebLanding** · private · updated Oct 15, 2026
 - 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Oct 15, 2026
 - 🛠️ **CAPDESIS/CapLiving** · private · updated Oct 15, 2026
 - 🛠️ **CAPDESIS/captienda_landing** · private · updated Oct 15, 2026
@@ -259,6 +260,5 @@ _Latest tracked repo update: Oct 15, 2026._
 - 🛠️ **CAPDESIS/CapTienda** · private · updated Oct 15, 2026
 - 🛠️ **CAPDESIS/MenuRestaurante** · private · updated Oct 15, 2026
 - 🛠️ **CAPDESIS/formulaeapps** · private · updated Oct 15, 2026
-- 🛠️ **[CAPDESIS/omnimon](https://github.com/CAPDESIS/omnimon)** · public · updated Oct 15, 2026
 
 <!-- PRIVATE-ACTIVITY:END -->
