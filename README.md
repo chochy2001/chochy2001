@@ -252,10 +252,10 @@ _Latest tracked repo update: Oct 21, 2026._
 
 - 🛠️ **CAPDESIS/formulaeapps** · private · updated Oct 21, 2026
 - 🛠️ **CAPDESIS/IngenieriaTracker-Meta** · private · updated Oct 21, 2026
+- 🛠️ **CAPDESIS/CapmenuBack** · private · updated Oct 21, 2026
 - 🛠️ **CAPDESIS/IngeTrackerBackend** · private · updated Oct 21, 2026
 - 🛠️ **CAPDESIS/CapTienda** · private · updated Oct 21, 2026
 - 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Oct 21, 2026
-- 🛠️ **CAPDESIS/CapmenuBack** · private · updated Oct 21, 2026
 - 🛠️ **CAPDESIS/CapLiving** · private · updated Oct 21, 2026
 - 🛠️ **CAPDESIS/IngenieriaTrackerFree** · private · updated Oct 21, 2026
 - 🛠️ **CAPDESIS/captienda_landing** · private · updated Oct 21, 2026
