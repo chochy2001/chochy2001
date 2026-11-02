@@ -252,11 +252,11 @@ _Latest tracked repo update: Nov 02, 2026._
 
 - 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Nov 02, 2026
 - 🛠️ **CAPDESIS/formulaeapps** · private · updated Nov 02, 2026
+- 🛠️ **CAPDESIS/CapmenuBack** · private · updated Nov 02, 2026
 - 🛠️ **CAPDESIS/IngenieriaTracker-Meta** · private · updated Nov 02, 2026
 - 🛠️ **CAPDESIS/IngeTrackerBackend** · private · updated Nov 02, 2026
 - 🛠️ **CAPDESIS/ingetracker-community-core** · private · updated Nov 02, 2026
 - 🛠️ **CAPDESIS/ingetracker-schedule-core** · private · updated Nov 02, 2026
-- 🛠️ **CAPDESIS/CapmenuBack** · private · updated Nov 02, 2026
 - 🛠️ **CAPDESIS/FormulaeCommunity** · private · updated Nov 02, 2026
 - 🛠️ **CAPDESIS/CapmenuApps** · private · updated Nov 02, 2026
 - 🛠️ **CAPDESIS/BasesDatosIngenieriaTracker** · private · updated Nov 02, 2026
