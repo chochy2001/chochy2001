@@ -219,7 +219,7 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 
 ![tracked repos: 32](https://img.shields.io/badge/tracked%20repos-32-0f766e?style=flat-square) ![private: 26](https://img.shields.io/badge/private-26-7c3aed?style=flat-square) ![public: 6](https://img.shields.io/badge/public-6-0369a1?style=flat-square) ![stars: 6](https://img.shields.io/badge/stars-6-ca8a04?style=flat-square) ![forks: 0](https://img.shields.io/badge/forks-0-64748b?style=flat-square) ![tracked commits: 14769](https://img.shields.io/badge/tracked%20commits-14769-be123c?style=flat-square)
 
-**Stack mix:** **Dart** 52% · **Go** 13% · **JavaScript** 11% · **PHP** 10% · **Shell** 3% · **Python** 3%
+**Stack mix:** **Dart** 52% · **Go** 13% · **JavaScript** 11% · **PHP** 10% · **Python** 3% · **Shell** 3%
 
 **Product pulse:**
 - 🧭 **Ingeniería Tracker** — 7 repos · 7 private · Dart, Go, Python · updated Nov 14, 2026
