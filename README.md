@@ -238,11 +238,11 @@ _Latest tracked repo update: Nov 20, 2026._
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Curso de Vim desde cero #2: insertar, pegar y buscar &lpar;o O, p P, A I, / n N, *&rpar;](https://www.youtube.com/watch?v=ih4dbzk7DbI)
 - [Curso de Vim desde cero #1: modos y movimientos &lpar;h j k l, w b e, dd, yy, p&rpar;](https://www.youtube.com/watch?v=_KzKix_P4rU)
 - [FAQ Capmenu - Cómo imprimir o descargar el menú](https://www.youtube.com/watch?v=1r0j4ga5n5Y)
 - [FAQ Capmenu - Cómo generar código QR](https://www.youtube.com/watch?v=DyEOmwaG7nY)
 - [FAQ Capmenu - Cómo eliminar y reordenar categorías](https://www.youtube.com/watch?v=TLHmZbGMTFQ)
-- [FAQ Capmenu - Cómo gestionar la disponibilidad de platillos](https://www.youtube.com/watch?v=ZgE5vBn39pI)
 <!-- YOUTUBE:END -->
 
 ## 🛠️ Recent Work
