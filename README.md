@@ -108,7 +108,7 @@ specification and release documentation.
   <strong>🧭 Ingeniería Tracker</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · iOS · Android · Web<br>
   UNAM engineering companion for professors, ratings, campus routing, schedules, exports, progress tracking, and study workflows.<br>
-  <sub>7 repos · 7 private · Dart, Go, Python · updated Nov 25, 2026</sub><br>
+  <sub>7 repos · 7 private · Dart, Go, Python · updated Nov 26, 2026</sub><br>
   <a href="https://ingenieriatracker.com/">Website</a>
 </p>
 <br clear="left" />
@@ -132,7 +132,7 @@ specification and release documentation.
   <strong>🍽️ Capmenu</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · PHP · QR · Restaurants SaaS<br>
   Digital menu and restaurant operations platform with QR menus, real-time edits, staff roles, tables, pricing, and tiers.<br>
-  <sub>6 repos · 6 private · Dart, PHP, Shell · updated Nov 25, 2026</sub><br>
+  <sub>6 repos · 6 private · Dart, PHP, Shell · updated Nov 26, 2026</sub><br>
   <a href="https://capmenu.com/">Landing</a> · <a href="https://app.capmenu.com/">App</a>
 </p>
 <br clear="left" />
@@ -144,7 +144,7 @@ specification and release documentation.
   <strong>🏠 Cap Living</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · Residential · Admin<br>
   Residential operations product for incidents, amenity booking, announcements, administration, analytics, and resident workflows.<br>
-  <sub>1 repo · 1 private · Go, Dart, Shell · updated Nov 25, 2026</sub><br>
+  <sub>1 repo · 1 private · Go, Dart, Shell · updated Nov 26, 2026</sub><br>
   <a href="https://capliving.mx/">Website</a>
 </p>
 <br clear="left" />
@@ -168,7 +168,7 @@ specification and release documentation.
   <strong>🛒 CapTienda</strong> <img alt="IN DEVELOPMENT" src="https://img.shields.io/badge/IN%20DEVELOPMENT-d97706?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Flutter · Go · POS · Retail<br>
   Point of sale and retail management for small shops: inventory, sales, multi-location operations, backend, and owner dashboard.<br>
-  <sub>3 repos · 3 private · Dart, Go, JavaScript · updated Nov 25, 2026</sub><br>
+  <sub>3 repos · 3 private · Dart, Go, JavaScript · updated Nov 26, 2026</sub><br>
   <a href="https://captienda.com/">Website</a>
 </p>
 <br clear="left" />
@@ -180,7 +180,7 @@ specification and release documentation.
   <strong>🛡️ OmniMon</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Rust · Tauri · Svelte · Telemetry<br>
   Cross-platform system monitor with native telemetry, MITRE mapping, NIST heartbeat, package distribution, and security workflows.<br>
-  <sub>4 repos · 1 private · Rust, TypeScript, Svelte · updated Nov 25, 2026</sub><br>
+  <sub>4 repos · 1 private · Rust, TypeScript, Svelte · updated Nov 26, 2026</sub><br>
   <a href="https://omnimon.com.mx/">Website</a> · <a href="https://github.com/chochy2001/omnimon">GitHub</a>
 </p>
 <br clear="left" />
@@ -192,7 +192,7 @@ specification and release documentation.
   <strong>🚀 Capdesis</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Astro · Automation · Web · Product ops<br>
   Company website, product infrastructure, landing pages, deployment operations, and shared product work.<br>
-  <sub>6 repos · 5 private · JavaScript, CSS, PHP · updated Nov 25, 2026</sub><br>
+  <sub>6 repos · 5 private · JavaScript, CSS, PHP · updated Nov 26, 2026</sub><br>
   <a href="https://capdesis.com/">Website</a>
 </p>
 <br clear="left" />
@@ -204,7 +204,7 @@ specification and release documentation.
   <strong>👨‍💻 Portfolio</strong> <img alt="ACTIVE" src="https://img.shields.io/badge/ACTIVE-0f766e?style=flat-square&labelColor=111827"><br>
   <strong>Stack:</strong> Personal site · Projects · Courses · Contact<br>
   Personal site for my professional work, products, courses, and contact links.<br>
-  <sub>1 repo · 0 private · HTML, TypeScript, CSS · updated Nov 15, 2026</sub><br>
+  <sub>1 repo · 0 private · HTML, TypeScript, CSS · updated Nov 26, 2026</sub><br>
   <a href="https://jorgesalgadomiranda.com/">Website</a>
 </p>
 <br clear="left" />
@@ -222,17 +222,17 @@ These stats are generated from selected `chochy2001` and `CAPDESIS` repositories
 **Stack mix:** **Dart** 51% · **Go** 13% · **PHP** 11% · **JavaScript** 11% · **Python** 4% · **Shell** 3%
 
 **Product pulse:**
-- 🧭 **Ingeniería Tracker** — 7 repos · 7 private · Dart, Go, Python · updated Nov 25, 2026
+- 🧭 **Ingeniería Tracker** — 7 repos · 7 private · Dart, Go, Python · updated Nov 26, 2026
 - ∑ **Formulae Pro & Community** — 4 repos · 3 private · Dart, TypeScript, Python · updated Nov 25, 2026
-- 🍽️ **Capmenu** — 6 repos · 6 private · Dart, PHP, Shell · updated Nov 25, 2026
-- 🏠 **Cap Living** — 1 repo · 1 private · Go, Dart, Shell · updated Nov 25, 2026
+- 🍽️ **Capmenu** — 6 repos · 6 private · Dart, PHP, Shell · updated Nov 26, 2026
+- 🏠 **Cap Living** — 1 repo · 1 private · Go, Dart, Shell · updated Nov 26, 2026
 - 🥬 **Lo Más Fresh** — 1 repo · 1 private · Go, Dart, TypeScript · updated Nov 25, 2026
-- 🛒 **CapTienda** — 3 repos · 3 private · Dart, Go, JavaScript · updated Nov 25, 2026
-- 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Nov 25, 2026
-- 🚀 **Capdesis** — 6 repos · 5 private · JavaScript, CSS, PHP · updated Nov 25, 2026
-- 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, TypeScript, CSS · updated Nov 15, 2026
+- 🛒 **CapTienda** — 3 repos · 3 private · Dart, Go, JavaScript · updated Nov 26, 2026
+- 🛡️ **OmniMon** — 4 repos · 1 private · Rust, TypeScript, Svelte · updated Nov 26, 2026
+- 🚀 **Capdesis** — 6 repos · 5 private · JavaScript, CSS, PHP · updated Nov 26, 2026
+- 👨‍💻 **Portfolio** — 1 repo · 0 private · HTML, TypeScript, CSS · updated Nov 26, 2026
 
-_Latest tracked repo update: Nov 25, 2026._
+_Latest tracked repo update: Nov 26, 2026._
 <!-- PROFILE-STATS:END -->
 
 ## 📺 Latest YouTube Videos
@@ -250,15 +250,15 @@ _Latest tracked repo update: Nov 25, 2026._
 <!-- PRIVATE-ACTIVITY:START -->
 <!-- Generated by .github/scripts/update_profile_stats.py -->
 
-- 🛠️ **CAPDESIS/IngenieriaTracker-Meta** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/IngenieriaTrackerFree** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/capmenu** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/CapmenuBack** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/CapTienda** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/IngeTrackerBackend** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/lo_mas_fresh** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/CapLiving** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/IngenieriaTrackerPro** · private · updated Nov 25, 2026
-- 🛠️ **CAPDESIS/CapmenuApps** · private · updated Nov 25, 2026
+- 🛠️ **CAPDESIS/CapdesisWeb** · private · updated Nov 26, 2026
+- 🛠️ **CAPDESIS/IngenieriaTracker-Meta** · private · updated Nov 26, 2026
+- 🛠️ **CAPDESIS/CapTienda** · private · updated Nov 26, 2026
+- 🛠️ **CAPDESIS/IngenieriaTrackerPro** · private · updated Nov 26, 2026
+- 🛠️ **[CAPDESIS/omnimon](https://github.com/CAPDESIS/omnimon)** · public · updated Nov 26, 2026
+- 🛠️ **CAPDESIS/CapLiving** · private · updated Nov 26, 2026
+- 🛠️ **CAPDESIS/IngenieriaTrackerFree** · private · updated Nov 26, 2026
+- 🛠️ **CAPDESIS/capmenu** · private · updated Nov 26, 2026
+- 🛠️ **[CAPDESIS/jorgesalgadomiranda_landing](https://github.com/CAPDESIS/jorgesalgadomiranda_landing)** · public · updated Nov 26, 2026
+- 🛠️ **[CAPDESIS/jorgesalgadomiranda_landing](https://github.com/CAPDESIS/jorgesalgadomiranda_landing)** · public · updated Nov 26, 2026
 
 <!-- PRIVATE-ACTIVITY:END -->
